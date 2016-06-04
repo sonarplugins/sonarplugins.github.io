@@ -1,9 +1,9 @@
 # Site settings
-title: Sonar Plugins
+title: SonarQube Plugins
 email: sonarplugins@gmail.com
-url: https://example.github.io
+url: https://sonarplugins.github.io
 description: "Sonar Plugins site includes a list of all the existing plugins for SonarQube. Use this site to add new functionalities to your SonarQube instance."
-skills: "SonarQube Plugins"
+skills: "Unleash your SonarQube instance with awesome plugins"
 meta_author: Plugins Sonar
 
 # Google webmaster tools
@@ -20,7 +20,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname:
+disqus_shortname: sonarplugins
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -31,32 +31,33 @@ color:
 
 # Footer settings
 footer:
-  copyright: Sonar Plugins
+  copyright: sonarplugins.com
   location: 
-  social:
-  credits:
+  social: 
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
-  - title: github
-    url: 
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 
-  - line:
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Sonar Plugins is just a site to list all SonarQube extensions around the world. We just provide the information and we don't have any responsability about the plugins development and use. '
+credits: ''
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: :title
+

@@ -1,0 +1,18 @@
+---
+title: CCI
+layout: plugin
+homepage: https://github.com/wvanderdeijl/oracle-cci-sonarqube
+organization: Oracle
+organization_url: 
+download_url: https://github.com/wvanderdeijl/oracle-cci-sonarqube/archive/master.zip
+download_version: SNAPSHOT
+download_description: You have to build the plugin from GitHub sources
+download_date: 2015
+license: Apache-2.0
+developers: Wilfred van der Deijl and remcocats
+sonarqube_version: unkown
+category: external analysers
+description: SonarQube plugin to run Oracle's Integration Code Compliance Inspector (CCI) to audit SOA projects and feed the results to SonarQube
+details: 
+
+---

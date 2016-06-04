@@ -14,23 +14,53 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <!--img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"-->
                             <p>{{ post.description }}</p>
+                            
+                            <p>{{ post.details }}</p>
+                            
+                            <p><a href="{{ post.homepage }}" target="_blank">{{ post.homepage }}</a></p>
+                            
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                <li>Organization:
+                                    <strong><a href="{{ post.organization_url }}" target="_blank">{{ post.organization }}</a>
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                <li>Last update:
+                                    <strong>{{ post.download_date }}
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>Category:
+                                    <strong>{{ post.category }}
                                     </strong>
                                 </li>
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            
+                            <ul class="list-inline item-details">
+                                    <li>Developers: 
+                                        <strong>{{ post.developers }}</strong>
+                                    </li>
+                            </ul>
+                            
+                            <ul class="list-inline item-details">
+                                    <li>License: 
+                                        <strong>{{ post.license }}</strong>
+                                    </li>
+                            </ul>
+                            
+                            <div class="col-lg-8 col-lg-offset-2 text-center">
+                                <a href="{{ post.download_url }}" class="btn btn-lg btn-default">
+                                    <i class="fa fa-download"></i> Download version {{ post.download_version }}
+                                </a>
+                            </div>
+                            
+                            <ul class="list-inline item-details">
+                                    <li> 
+                                        {{ post.download_description }}
+                                    </li>
+                            </ul>
+                            
+                            <!--button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button-->
                         </div>
                     </div>
                 </div>
