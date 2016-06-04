@@ -2,8 +2,8 @@
 title: CCI
 layout: plugin
 homepage: https://github.com/wvanderdeijl/oracle-cci-sonarqube
-organization: Oracle
-organization_url: 
+organization: unknown
+organization_url: https://github.com/wvanderdeijl/oracle-cci-sonarqube
 download_url: https://github.com/wvanderdeijl/oracle-cci-sonarqube/archive/master.zip
 download_version: SNAPSHOT
 download_description: You have to build the plugin from GitHub sources
