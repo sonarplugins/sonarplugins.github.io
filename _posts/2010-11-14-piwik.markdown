@@ -1,0 +1,17 @@
+---
+title: Sonar Piwik Plugin
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-piwik
+organization: Intelliware Development Inc.
+organization_url: http://intelliware.ca/
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-piwik-plugin/1.0/sonar-piwik-plugin-1.0.jar
+download_version: 1.0
+download_description: Initial version
+download_date: 2010-11-14
+license: GNU LGPL v3
+developers: unkown
+sonarqube_version: 4.5.1-4.5.7
+category: integration
+description: Integrates with Piwik.
+details: 
+---
