@@ -1,5 +1,6 @@
 ---
 title: Jazz RTC
+layout: plugin
 homepage: http://redirect.sonarsource.com/plugins/scmjazzrtc.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
