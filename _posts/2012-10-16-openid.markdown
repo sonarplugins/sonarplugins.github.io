@@ -1,0 +1,17 @@
+---
+title: OpenID
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-openid
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-openid-plugin/1.2/sonar-openid-plugin-1.2.jar
+download_version: 1.2
+download_description: Fixes verification issue when the webserver is behind a reverse proxy
+download_date: 2012-10-16
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 4.5.1-5.6
+category: integration
+description: Enable user authentication and Single Sign-On through an OpenID provider
+details: 
+---

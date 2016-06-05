@@ -1,0 +1,17 @@
+---
+title: Doxygen
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-doxygen
+organization: David FRANCOIS
+organization_url: unkown
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-doxygen-plugin/0.1/sonar-doxygen-plugin-0.1.jar
+download_version: 0.1
+download_description: Initial release
+download_date: 2012-09-04
+license: Apache License 2
+developers: unkown
+sonarqube_version: 4.5.1-4.5.7
+category: visualization/reporting
+description: Generates the documentation of the application using Doxygen and Graphviz
+details: 
+---

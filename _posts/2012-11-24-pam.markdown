@@ -1,0 +1,17 @@
+---
+title: PAM
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-pam
+organization: Freaknet
+organization_url: http://www.freaknet.org
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-pam-plugin/0.2/sonar-pam-plugin-0.2.jar
+download_version: 0.2
+download_description: Update to Sonar 3.0 API
+download_date: 2012-11-24
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 4.5.1-5.6
+category: integration
+description: Delegates authentication to PAM on *nix box.
+details: 
+---
