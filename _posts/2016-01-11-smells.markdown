@@ -1,0 +1,17 @@
+---
+title: Code Smells
+layout: plugin
+homepage: https://github.com/QualInsight/qualinsight-plugins-sonarqube-smell
+organization: QualInsight
+organization_url: http://www.qualinsight.com/
+download_url: https://github.com/QualInsight/qualinsight-plugins-sonarqube-smell/releases/download/qualinsight-plugins-sonarqube-smell-3.0.0/qualinsight-plugins-sonarqube-smell-plugin-3.0.0.jar
+download_version: 3.0
+download_description: Migrate to SonarQube 5.3 and handle @Smell annotations that span multiple lines
+download_date: 2016-01-11
+license: The GNU Lesser General Public License, Version 3.0
+developers: Michel Pawlak
+sonarqube_version: 5.2-5.6
+category: additional metrics
+description: Tallies technical debt annotations added directly to code
+details: 
+---

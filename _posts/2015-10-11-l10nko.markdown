@@ -1,0 +1,17 @@
+---
+title: Korean Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-ko
+organization: Creatinov
+organization_url: http://www.creatinov.org
+download_url: https://github.com/SonarCommunity/sonar-l10n-ko/releases/download/1.2.0/sonar-l10n-ko-plugin-1.2.0.jar
+download_version: 1.2
+download_description: Support for SonarQube 5.0
+download_date: 2015-10-11
+license: GNU LGPL 3
+developers: Moses Kim
+sonarqube_version: 5.0-5.6
+category: localization
+description: Language Pack for Korean
+details: 
+---

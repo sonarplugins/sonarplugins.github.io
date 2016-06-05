@@ -1,0 +1,17 @@
+---
+title: Views
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/views.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-views-plugin/sonar-views-plugin-2.10.jar
+download_version: 2.10
+download_description: Compatibility with SonarQube 5.3
+download_date: 2016-01-11
+license: Commercial
+developers: unkown
+sonarqube_version: 5.3-5.4
+category: governance
+description: Create aggregation trees to group projects. Projects can for instance be grouped by applications, applications by team, teams by department.
+details: 
+---

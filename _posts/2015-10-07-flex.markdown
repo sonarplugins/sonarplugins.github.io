@@ -1,0 +1,17 @@
+---
+title: Flex
+layout: plugin
+homepage: http://docs.sonarqube.org/display/PLUG/Flex+Plugin
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-flex-plugin/sonar-flex-plugin-2.2.1.jar
+download_version: 2.2.1
+download_description: Bug fix
+download_date: 2015-10-07
+license: GNU LGPL 3
+developers: Olivier Gaudin,Evgeny Mandrikov,Fabrice Bellingard,Linda Martin
+sonarqube_version: 4.5.2-5.6
+category: languages
+description: Enables scanning of Flex source files
+details: 
+---

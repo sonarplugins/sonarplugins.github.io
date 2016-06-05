@@ -1,0 +1,17 @@
+---
+title: Branding
+layout: plugin
+homepage: http://docs.sonarqube.org/display/PLUG/Branding+Plugin
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-branding-plugin/1.0/sonar-branding-plugin-1.0.jar
+download_version: 1.0
+download_description: Fix compatibility issue with SonarQube 5.0+
+download_date: 2015-01-09
+license: GNU LGPL 3
+developers: Evgeny Mandrikov,Julien HENRY,Patroklos PAPAPETROU
+sonarqube_version: 4.5.1-5.0.1
+category: integration
+description: Provides the ability to customise the branding of a SonarQube instance
+details: 
+---

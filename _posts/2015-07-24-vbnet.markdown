@@ -1,0 +1,17 @@
+---
+title: VB.NET
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/vbnet.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://dist.sonarsource.com/vbnet/download/sonar-vbnet-plugin-2.4.jar
+download_version: 2.4
+download_description: All VB.NET projects can and should now be analyzed using the MSBuild SonarQube Runner 1.0. Usage of sonar-runner to analyse .Net projects is now deprecated.
+download_date: 2015-07-24
+license: Commercial
+developers: unkown
+sonarqube_version: 4.5.2-5.6
+category: languages
+description: Enables scanning of VB.NET source files
+details: 
+---

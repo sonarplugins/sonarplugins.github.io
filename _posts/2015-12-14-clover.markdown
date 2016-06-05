@@ -1,0 +1,17 @@
+---
+title: Clover
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/clover.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-clover/sonar-clover-plugin-3.1.jar
+download_version: 3.1
+download_description: Make plugin compatible with SQ 5.2
+download_date: 2015-12-14
+license: GNU LGPL 3
+developers: Eric Hartmann,Julien Henry,Evgeny Mandrikov,Olivier Gaudin,Simon Brandhof
+sonarqube_version: 4.5.1-5.6
+category: additional metrics
+description: Provides the ability to compute coverage with Clover
+details: 
+---

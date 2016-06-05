@@ -1,0 +1,17 @@
+---
+title: Cobol
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/cobol.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/cobol/sonar-cobol-plugin-3.1.jar
+download_version: 3.1
+download_description: 5 new rules and better preprocessor support
+download_date: 2016-05-04
+license: Commercial
+developers: unkown
+sonarqube_version: 4.5.2-5.6
+category: languages
+description: Enables scanning of Cobol source files
+details: 
+---

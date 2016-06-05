@@ -1,0 +1,17 @@
+---
+title: Java
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/java.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://sonarsource.bintray.com/Distribution/sonar-java-plugin/sonar-java-plugin-3.14.jar
+download_version: 3.14
+download_description: 4 New bug detection rules, Type inference in semantic and resolution of Java 8 method references
+download_date: 2016-05-23
+license: GNU LGPL 3
+developers: Evgeny Mandrikov,Nicolas Peru
+sonarqube_version: 4.5.7-5.6
+category: languages
+description: Enables scanning of Java source files
+details: 
+---

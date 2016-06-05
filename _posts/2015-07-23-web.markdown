@@ -1,0 +1,17 @@
+---
+title: Web
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/web.html
+organization: SonarSource and Matthijs Galesloot
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-web-plugin/sonar-web-plugin-2.4.jar
+download_version: 2.4
+download_description: SQALE functions to compute the remediation costs are defined on most rules
+download_date: 2015-07-23
+license: The Apache Software License, Version 2.0
+developers: Matthijs Galesloot,Fabrice Bellingard,Dinesh Bolkensteyn
+sonarqube_version: 4.5.2-5.6
+category: languages
+description: Enables scanning of HTML, and JSP/JSF files
+details: 
+---

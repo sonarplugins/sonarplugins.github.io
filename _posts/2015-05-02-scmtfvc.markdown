@@ -1,0 +1,17 @@
+---
+title: TFVC
+layout: plugin
+homepage: https://github.com/SonarQubeCommunity/sonar-scm-tfvc
+organization: SonarSource et al.
+organization_url: https://github.com/SonarQubeCommunity/sonar-scm-tfvc/graphs/contributors
+download_url: https://github.com/SonarQubeCommunity/sonar-scm-tfvc/releases/download/2.1.2/sonar-scm-tfvc-plugin-2.1.2.jar
+download_version: 2.1.2
+download_description: Fix plugin and issue tracker URLs
+download_date: 2015-05-02
+license: MIT
+developers: Dinesh Bolkensteyn,Julien Henry
+sonarqube_version: 5.0-5.6
+category: integration
+description: Provides SCM TFVC integration
+details: 
+---

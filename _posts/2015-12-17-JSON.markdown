@@ -1,0 +1,17 @@
+---
+title: JSON
+layout: plugin
+homepage: https://github.com/racodond/sonar-json-plugin
+organization: David RACODON
+organization_url: mailto:david.racodon@gmail.com
+download_url: https://github.com/racodond/sonar-json-plugin/releases/download/1.4/sonar-json-plugin-1.4.jar
+download_version: 1.4
+download_description: Adds support for and rules about Byte Order Mark (BOM)
+download_date: 2015-12-17
+license: GNU LGPL 3
+developers: David RACODON
+sonarqube_version: 4.5.2-5.6
+category: languages
+description: Enables scanning of JSON files
+details: 
+---

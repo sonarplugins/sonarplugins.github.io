@@ -1,0 +1,17 @@
+---
+title: German Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-de
+organization: Philipp Nestler, Christian Schulz
+organization_url: http://www.sonarqube.org
+download_url: https://github.com/SonarQubeCommunity/sonar-l10n-de/releases/download/1.2/sonar-l10n-de-plugin-1.2.jar
+download_version: 1.2
+download_description: Supports SonarQube 5.0
+download_date: 2015-12-17
+license: GNU LGPL 3
+developers: Christian Schulz,Philipp Nestler
+sonarqube_version: 5.0-5.6
+category: localization
+description: Language Pack for German
+details: 
+---

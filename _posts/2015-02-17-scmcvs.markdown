@@ -1,0 +1,17 @@
+---
+title: CVS
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/scmcvs.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-scm-cvs-plugin/1.0/sonar-scm-cvs-plugin-1.0.jar
+download_version: 1.0
+download_description: Initial version of CVS plugin for SonarQube 5.0+
+download_date: 2015-02-17
+license: GNU LGPL 3
+developers: Julien Henry
+sonarqube_version: 5.0-5.6
+category: integration
+description: Provides SCM CVS integration
+details: 
+---

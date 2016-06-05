@@ -1,0 +1,17 @@
+---
+title: SQALE
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/sqale.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-sqale-plugin/sonar-sqale-plugin-2.7.jar
+download_version: 2.7
+download_description: Compatibility with SonarQube 5.2
+download_date: 2015-10-27
+license: Commercial
+developers: unkown
+sonarqube_version: 5.2-5.4
+category: governance
+description: Software Quality Assessment based on Lifecycle Expectations
+details: 
+---

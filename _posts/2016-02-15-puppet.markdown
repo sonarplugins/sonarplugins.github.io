@@ -1,0 +1,17 @@
+---
+title: Puppet
+layout: plugin
+homepage: https://github.com/iwarapter/sonar-puppet
+organization: Iain Adams and David RACODON
+organization_url: unkown
+download_url: https://github.com/iwarapter/sonar-puppet/releases/download/1.3/sonar-puppet-plugin-1.3.jar
+download_version: 1.3
+download_description: Group related indent issues, support UTF-8 fiels with BOM.
+download_date: 2016-02-15
+license: MIT
+developers: Iain Adams and David RACODON
+sonarqube_version: 4.5.6-5.6
+category: languages
+description: Enables scanning of Puppet files
+details: 
+---

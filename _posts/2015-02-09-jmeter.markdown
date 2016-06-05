@@ -1,0 +1,17 @@
+---
+title: JMeter
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-jmeter
+organization: eXcentia
+organization_url: http://www.excentia.es
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/jmeter/sonar-jmeter-plugin/0.3/sonar-jmeter-plugin-0.3.jar
+download_version: 0.3
+download_description: Fix bug that happened with extended jtl files and last JMeter versions, and non-HTTP requests are now considered, 
+download_date: 2015-02-09
+license: GNU LGPL 3
+developers: Carlos Fillol Sendra,Antonio Calero
+sonarqube_version: 4.5.1-5.2
+category: additional metrics
+description: Feed SonarQube with JMeter test results.
+details: 
+---

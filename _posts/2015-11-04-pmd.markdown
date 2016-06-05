@@ -1,0 +1,17 @@
+---
+title: PMD
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/pmd.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-pmd-plugin/sonar-pmd-plugin-2.5.jar
+download_version: 2.5
+download_description: Upgrade of PMD version to 5.4.0 and bug fixes
+download_date: 2015-11-04
+license: GNU LGPL 3
+developers: Evgeny Mandrikov
+sonarqube_version: 4.5.4-5.6
+category: external analysers
+description: Provide PMD rules to analyse Java projects
+details: 
+---

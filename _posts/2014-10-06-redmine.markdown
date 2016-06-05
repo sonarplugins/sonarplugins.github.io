@@ -1,0 +1,17 @@
+---
+title: Redmine
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-redmine
+organization: Patroklos PAPAPETROU and Christian Schulz
+organization_url: unkown
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-redmine-plugin/0.2/sonar-redmine-plugin-0.2.jar
+download_version: 0.2
+download_description: Fix compatibility issues with SonarQube 4.4
+download_date: 2014-10-06
+license: GNU LGPL 3
+developers: Patroklos P.Papapetrou,Christian Schulz
+sonarqube_version: 4.5.1-5.4
+category: integration
+description: Integrates SonarQube with Redmine with various ways
+details: 
+---

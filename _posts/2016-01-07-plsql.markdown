@@ -1,0 +1,17 @@
+---
+title: PL/SQL
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/plsql.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://sonarsource.bintray.com/CommercialDistribution/sonar-plsql-plugin/sonar-plsql-plugin-2.7.1.jar
+download_version: 2.7.1
+download_description: Add support for SonarQube 5.3, fix false-positives on 3 rules and 1 parser bug
+download_date: 2016-01-07
+license: Commercial
+developers: unkown
+sonarqube_version: 4.5.2-5.6
+category: languages
+description: Enables scanning of PL/SQL source files
+details: 
+---

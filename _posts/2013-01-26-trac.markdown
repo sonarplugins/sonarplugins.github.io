@@ -1,0 +1,17 @@
+---
+title: Trac
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-trac
+organization: Thales Optronics Ltd.
+organization_url: http://www.thalesgroup.com/
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-trac-plugin/0.3/sonar-trac-plugin-0.3.jar
+download_version: 0.3
+download_description: Removes deprecated API and fixes an issue when analyzing with Ant
+download_date: 2013-01-26
+license: MIT
+developers: Duncan McDonald,Patroklos PAPAPETROU
+sonarqube_version: 4.5.1-5.1.2
+category: additional metrics
+description: Retrieves and reports the number of project issues from a Trac instance.
+details: 
+---

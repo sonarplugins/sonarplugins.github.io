@@ -1,0 +1,17 @@
+---
+title: Spanish Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-es
+organization: excentia
+organization_url: http://www.excentia.es
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/l10n/sonar-l10n-es-plugin/1.13/sonar-l10n-es-plugin-1.13.jar
+download_version: 1.13
+download_description: This new version includes bundles upgrade to SonarQube 4.4 and 4.5
+download_date: 2014-10-15
+license: GNU LGPL 3
+developers: Antonio Calero
+sonarqube_version: 4.5.1-5.6
+category: localization
+description: Language Pack for Spanish
+details: 
+---

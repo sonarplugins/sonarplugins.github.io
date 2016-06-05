@@ -1,0 +1,17 @@
+---
+title: Report
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/report.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-report-plugin/sonar-report-plugin-1.6.jar
+download_version: 1.6
+download_description: Bug fixes
+download_date: 2015-11-06
+license: Commercial
+developers: unkown
+sonarqube_version: 4.5.2-5.4
+category: governance
+description: Send reports as PDF
+details: 
+---

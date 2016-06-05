@@ -1,0 +1,17 @@
+---
+title: Visual Basic
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/vb.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://dist.sonarsource.com/vb/download/sonar-vb-plugin-2.1.jar
+download_version: 2.1
+download_description: Rule tags added, Name statement now supported, rule documentation improved, and 4 bugs fixed.
+download_date: 2015-07-29
+license: Commercial
+developers: unkown
+sonarqube_version: 4.5.4-5.6
+category: languages
+description: Enables scanning of VB6 source files
+details: 
+---

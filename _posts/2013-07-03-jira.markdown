@@ -1,0 +1,17 @@
+---
+title: JIRA
+layout: plugin
+homepage: http://docs.sonarqube.org/display/PLUG/JIRA+Plugin
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-jira-plugin/1.2/sonar-jira-plugin-1.2.jar
+download_version: 1.2
+download_description: Adds compatibility with Issues
+download_date: 2013-07-03
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 4.5.1-5.4
+category: integration
+description: Connects SonarQube to Atlassian JIRA in various ways.
+details: 
+---

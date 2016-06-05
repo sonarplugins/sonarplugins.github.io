@@ -1,0 +1,17 @@
+---
+title: Portuguese Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-pt
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/l10n/sonar-l10n-pt-plugin/1.1/sonar-l10n-pt-plugin-1.1.jar
+download_version: 1.1
+download_description: Supports Sonar 3.4 terms
+download_date: 2013-01-14
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 4.5.1-5.6
+category: localization
+description: Language Pack for Portuguese
+details: 
+---

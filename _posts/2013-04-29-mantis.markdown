@@ -1,0 +1,17 @@
+---
+title: Mantis
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-mantis
+organization: unkown
+organization_url: http://printstacktrace.org
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-mantis-plugin/0.4/sonar-mantis-plugin-0.4.jar
+download_version: 0.4
+download_description: Adds compatibility for Mantis 1.2.9+
+download_date: 2013-04-29
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 4.5.1-5.6
+category: additional metrics
+description: Retrieves the number of project issues from Mantis BugTracker.
+details: 
+---

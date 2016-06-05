@@ -1,0 +1,17 @@
+---
+title: Pitest
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-pitest
+organization: Alexandre Victoor
+organization_url: unkown
+download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-pitest-plugin/0.6/sonar-pitest-plugin-0.6.jar
+download_version: 0.6
+download_description: Fixes compatiblity with SonarQube 5.1
+download_date: 2015-06-05
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 5.1-5.6
+category: integration
+description: Plugin for the mutation testing tool Pitest
+details: 
+---
