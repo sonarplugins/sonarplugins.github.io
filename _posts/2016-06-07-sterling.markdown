@@ -1,0 +1,30 @@
+---
+title: Sterling Rules
+layout: plugin
+homepage: http://bettercodingtools.com/mb-rules
+organization: BCT
+organization_url: http://bettercodingtools.com
+download_url: https://www.dropbox.com/s/4bp3p567wfhb0yr/MB-precise-sonarplugin-2.28.jar?dl=0
+download_version: 2.28
+download_description: Trial version. You can use it for a while with all the features of the purchased product but it will run out at the end of the trial
+download_date: 2016-06-07
+license: Commercial
+developers: unknown
+sonarqube_version: 5.1+
+category: Languages
+description: Analyze violations that can be produced by SI-Precise while analyzing Sterling/Gertran code. They are broken down below into the categories standards, performance, correctness, security and other.
+details: 
+- Validate queue names against a naming standard
+- No default error handler
+- In process fault handler
+- Process, operation or sequence has no name
+- JDBC Table not defined
+- Lock and Unlock do not match
+- Duplicate sequence found
+- Process called but defined
+- Process invoking self
+- Dead code found
+- Case not defined
+- Case has no matching rule
+- Security: Prefer SFTP over FTP
+---
