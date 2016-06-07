@@ -61,3 +61,6 @@ credits: ''
 markdown: kramdown
 permalink: :title
 
+# additional plugins and gems
+gems:
+  - jekyll-sitemap
