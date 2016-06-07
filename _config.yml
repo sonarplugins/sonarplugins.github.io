@@ -64,3 +64,4 @@ permalink: :title
 # additional plugins and gems
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
