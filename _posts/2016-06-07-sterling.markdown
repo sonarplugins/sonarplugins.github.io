@@ -6,7 +6,7 @@ organization: BCT
 organization_url: http://bettercodingtools.com
 download_url: http://bettercodingtools.com/ms-downloads
 download_version: unkown
-download_description: You have to download through vendor website
+download_description: You have to download the plugin through vendor website
 download_date: 2016-06-07
 license: Commercial
 developers: unknown
