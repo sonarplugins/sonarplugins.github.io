@@ -5,12 +5,12 @@ homepage: http://bettercodingtools.com/sterling-rules
 organization: BCT
 organization_url: http://bettercodingtools.com
 download_url: http://bettercodingtools.com/ms-downloads
-download_version: 
+download_version: unkown
 download_description: 
 download_date: 2016-06-07
 license: Commercial
 developers: unknown
-sonarqube_version: 
+sonarqube_version: unkown
 category: Languages
 description: Enables scanning of Sterling/Gertran code using SI-Precise. 
 details: Violations are broken drown into the categories standards, performance, correctness, security and other. Rules include validate queue names against a naming standard, no default error handler, in process fault handler, process, operation or sequence has no name, JDBC Table not defined, lock and Unlock do not match, duplicate sequence found, process called but defined, process invoking self Dead code found, case not defined, case has no matching rule, prefer SFTP over FTP (security), ...
