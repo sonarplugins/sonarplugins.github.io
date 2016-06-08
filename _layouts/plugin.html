@@ -52,7 +52,18 @@
                             <hr class="star-primary">
                             <ul class="list-inline item-details">
                                 <li>
-                                    <h5 class="label label-success">{{ page.category }}</h5>
+                                    <a href="/search.html?query={{ page.category }}"><h5 class="label label-success">{{ page.category }}</h5></a>
+                                </li>
+                                <li>
+                                    {% if page.license == "Commercial" %}
+                                        <h5 class="label label-danger">
+                                            {{ page.license }}
+                                        </h5>
+                                    {% else %}
+                                        <h5 class="label label-primary">
+                                            {{ page.license }}
+                                        </h5>
+                                    {% endif %}
                                 </li>
                             </ul>
                             <!--img src="img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}"-->
@@ -76,12 +87,6 @@
                             <ul class="list-inline item-details">
                                     <li>Developers: 
                                         <strong>{{ page.developers }}</strong>
-                                    </li>
-                            </ul>
-                            
-                            <ul class="list-inline item-details">
-                                    <li>License: 
-                                        <strong>{{ page.license }}</strong>
                                     </li>
                             </ul>
                             
