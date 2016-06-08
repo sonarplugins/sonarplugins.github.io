@@ -1,17 +1,18 @@
 ---
 title: Sterling Rules
 layout: plugin
-homepage: http://bettercodingtools.com/mb-rules
+homepage: http://bettercodingtools.com/sterling-rules
 organization: BCT
 organization_url: http://bettercodingtools.com
-download_url: https://www.dropbox.com/s/4bp3p567wfhb0yr/MB-precise-sonarplugin-2.28.jar?dl=0
-download_version: 2.28
+download_url: https://www.dropbox.com/s/lt6lwb3ayb8umz9/S-precise-sonarplugin-1.01-trial.jar?dl=0
+download_version: 1.0.1
 download_description: Trial version. You can use it for a while with all the features of the purchased product but it will run out at the end of the trial
 download_date: 2016-06-07
 license: Commercial
 developers: unknown
 sonarqube_version: 5.1+
 category: Languages
-description: Analyze violations that can be produced by SI-Precise while analyzing Sterling/Gertran code. They are broken down below into the categories standards, performance, correctness, security and other.
-details: Validate queue names against a naming standard. No default error handler. In process fault handler. Process, operation or sequence has no name. JDBC Table not defined. Lock and Unlock do not match. Duplicate sequence found. Process called but defined. Process invoking self Dead code found. Case not defined. Case has no matching rule. Prefer SFTP over FTP (security).
+description: Enables scanning of Sterling/Gertran code using SI-Precise. 
+details: Violations are broken drown into the categories standards, performance, correctness, security and other. Rules include validate queue names against a naming standard, no default error handler, in process fault handler, process, operation or sequence has no name, JDBC Table not defined, lock and Unlock do not match, duplicate sequence found, process called but defined, process invoking self Dead code found, case not defined, case has no matching rule, prefer SFTP over FTP (security), ...
+
 ---
