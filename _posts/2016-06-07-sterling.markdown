@@ -5,7 +5,7 @@ homepage: http://bettercodingtools.com/sterling-rules
 organization: BCT
 organization_url: http://bettercodingtools.com
 download_url: http://bettercodingtools.com/ms-downloads
-download_version: -
+download_version: 
 download_description: 
 download_date: 2016-06-07
 license: Commercial
