@@ -17,6 +17,10 @@
           appendString += '<h3>' + item.title + '</h3>'
           appendString += '<p>' + item.description + '</p>'
           appendString += '<h5 class="label label-success">' + item.category + '</h5>'
+          appendString += '<h5 class="label label-success">' + item.category + '</h5>&nbsp&nbsp'
+          if(item.license == 'Commercial') {
+              appendString += '<h5 class="label label-danger">' + item.license + '</h5>'
+          }
           appendString += '</div>'
           appendString += '</a>'
           appendString += '</div>'
@@ -55,6 +59,7 @@
       this.field('title', { boost: 10 });
       this.field('author');
       this.field('category');
+      this.field('license');
       this.field('content');
     });
 
@@ -64,6 +69,7 @@
         'title': window.store[key].title,
         'author': window.store[key].author,
         'category': window.store[key].category,
+        'license': window.store[key].license,
         'content': window.store[key].content
       });
 
