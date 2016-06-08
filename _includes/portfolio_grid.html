@@ -22,6 +22,11 @@
                                 <h3>{{ post.title }}</h3>
                                 <p>{{ post.description }}</p>
                                 <h5 class="label label-success">{{ post.category }}</h5>
+                                {% if post.license == "Commercial" %}
+                                <h5 class="label label-danger">
+                                    {{ post.license }}
+                                </h5>
+                                {% endif %}
                             </div>                            
                         </a>
                     </div>
