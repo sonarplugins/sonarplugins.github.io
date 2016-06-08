@@ -13,6 +13,7 @@
           
           appendString += '<div class="col-sm-4 portfolio-item">'
           appendString += '<a href="' + item.url + '" class="portfolio-link" data-toggle="modal">'
+          appendString += '<div class="caption"><div class="caption-content"><i class="fa fa-search-plus fa-3x"></i></div></div>'
           appendString += '<div>'
           appendString += '<h3>' + item.title + '</h3>'
           appendString += '<p>' + item.description + '</p>'
