@@ -16,7 +16,6 @@
           appendString += '<div>'
           appendString += '<h3>' + item.title + '</h3>'
           appendString += '<p>' + item.description + '</p>'
-          appendString += '<h5 class="label label-success">' + item.category + '</h5>'
           appendString += '<h5 class="label label-success">' + item.category + '</h5>&nbsp&nbsp'
           if(item.license == 'Commercial') {
               appendString += '<h5 class="label label-danger">' + item.license + '</h5>'
