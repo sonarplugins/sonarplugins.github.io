@@ -13,7 +13,7 @@ download_date: 2015-04-23
 license: GNU LGPL 3
 developers: SonarSource and Jerome Van Der Linden, Stephane Nicolas, Florian Roncari, Thomas Bores
 sonarqube_version: 4.5.4+
-category: External Analysers
+category: external analysers
 description: Provide the ability to import Android Lint reports
 details: This plugin has been renamed Android Lint to prevent any misunderstanding about its purpose an Android project can be analysed with the standard SonarQube Java plugin and this plugin just allows to import Android Lint reports if needed. This new version provides a default sqale mapping for the Android Lint rules and the ability to automatically execute lint has been dropped.
 
