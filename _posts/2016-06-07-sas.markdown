@@ -11,7 +11,7 @@ download_date: 2016-06-07
 license: Commercial
 developers: unknown
 sonarqube_version: 5.1+
-category: Languages
+category: languages
 description: Enable analysis of SAS Code in SonarQube.
 details: Violations are broken down into the categories standards, performance, correctness and other. More that 15 rules and metrics available.
 
