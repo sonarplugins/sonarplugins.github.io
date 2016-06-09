@@ -1,0 +1,22 @@
+<!-- Categories Grid Section -->
+    <section id="categories">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Categories</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {% for category in site.categories %}
+                    <div class="col-sm-4">
+                        <a href="/search.html?query={{ category[0] }}">
+                            <div>
+                                <h3><span class="label label-success">{{ category[0] }}</span>&nbsp<span class="label label-default">{{ category[1].size }}</span></h3>
+                            </div>  
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
