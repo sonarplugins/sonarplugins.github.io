@@ -13,6 +13,6 @@ developers: Akshaysingh Yaduvanshi, Christopher Gretzki, Kevin Delannoy
 sonarqube_version: 4.3+
 category: external analysers
 description: Open Source initiative for Apple Swift language support in SonarQube.
-details: Supported features include: complexity (uses Lizard), documentation, duplications, issues (uses SwiftLint), size, tests (uses xcodebuild + xcpretty) and code coverage (uses slather) 
+details: Supported features include complexity (uses Lizard), documentation, duplications, issues (uses SwiftLint), size, tests (uses xcodebuild + xcpretty) and code coverage (uses slather) 
 
 ---
