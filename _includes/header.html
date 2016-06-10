@@ -7,8 +7,14 @@
                     <div class="intro-text">
                         <span class="name">Unleash the power of SonarQube</span>
                         <hr class="star-light">
+                        <form action="/search.html" method="get" class="navbar navbar-form" role="search">
+                            <div class="form-group">
+                              <input type="text" id="search-box" name="query" class="form-control" placeholder="Search plugins" required data-validation-required-message="Please enter a term to search.">
+                            </div>
+                            <button type="submit" class="btn btn-default">Search</button>
+                        </form>
+                        <br>
                         <span class="skills">Here you can find a lot of awesome plugins to extend your SonarQube instance</span>
-                        <br><br>
                         <span class="skills">We have indexed <big><span class="label label-default">{{ site.posts.size }}</span></big> plugins and counting!</span>
                     </div>
                 </div>
