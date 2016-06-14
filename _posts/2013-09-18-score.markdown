@@ -1,6 +1,8 @@
 ---
 title: SCORE
 layout: plugin
+seo:
+  type: Product
 homepage: https://github.com/CatalystIT/sonar-score-plugin
 organization: unknown
 organization_url: 
