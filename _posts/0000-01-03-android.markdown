@@ -1,6 +1,8 @@
 ---
 title: Android
 layout: plugin
+seo:
+  type: Product
 modal-id: 3
 date: 2015-04-23
 homepage: http://redirect.sonarsource.com/plugins/android.html
