@@ -1,13 +1,15 @@
 ---
 title: OJAUDIT
 layout: plugin
+seo:
+  type: Product
 homepage: https://java.net/projects/sonarqube-ojaudit
 organization: ADF Enterprise Methodology Group
 organization_url: https://java.net/projects/adfemg
 download_url: https://java.net/projects/sonarqube-ojaudit/downloads/download/sonar-ojaudit-plugin-1.0.jar
 download_version: 1.0
 download_description: 
-download_date: 2014
+download_date: 2014-12-12
 license: LGPL-3.0, Apache-2.0
 developers: wvanderdeijl and Richard
 sonarqube_version: unkown
