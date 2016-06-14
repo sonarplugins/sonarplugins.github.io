@@ -1,6 +1,8 @@
 ---
 title: Message Flow
 layout: plugin
+seo:
+  type: Product
 homepage: https://github.com/EXXETA/sonar-msgflow-plugin
 organization: exxeta
 organization_url: http://www.exxeta.com/
