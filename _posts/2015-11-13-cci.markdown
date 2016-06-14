@@ -1,18 +1,20 @@
 ---
 title: CCI
 layout: plugin
+seo:
+  type: Product
 homepage: https://github.com/wvanderdeijl/oracle-cci-sonarqube
 organization: unknown
 organization_url: https://github.com/wvanderdeijl/oracle-cci-sonarqube
 download_url: https://github.com/wvanderdeijl/oracle-cci-sonarqube/archive/master.zip
 download_version: SNAPSHOT
 download_description: You have to build the plugin from GitHub sources
-download_date: 2015
+download_date: 2015-11-13
 license: Apache-2.0
 developers: Wilfred van der Deijl and remcocats
 sonarqube_version: unkown
 category: external analysers
 description: SonarQube plugin to run Oracle's Integration Code Compliance Inspector (CCI) to audit SOA projects and feed the results to SonarQube
-details: 
+details: Adherence to open standards and the enforcement of good coding practices are key principles of SOA governance. The Code Compliance Inspector is a tool that checks for good coding practices in both SOA Suite projects. The CCI is delivered with a set of pre-defined assertions that are based on the Web Services Interoperability Organization Basic Profile (WS-I BP) to check for design consistency and good coding and documentation practices. The CCI qualifies code as Compliant, Conformant, or Fully Conformant in alignment with those open standards and best practices.
 
 ---
