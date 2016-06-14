@@ -1,6 +1,8 @@
 ---
 title: ESQL
 layout: plugin
+seo:
+  type: Product
 homepage: https://github.com/EXXETA/sonar-esql-plugin
 organization: exxeta
 organization_url: http://www.exxeta.com/
