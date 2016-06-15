@@ -6,6 +6,9 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
+    {% if page.layout == 'default' %} <title>{{ site.title }}</title>
+    {% if page.layout == 'search' %} <title>Search in {{ site.title }}</title>
+
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "/style.css" }}">
 
