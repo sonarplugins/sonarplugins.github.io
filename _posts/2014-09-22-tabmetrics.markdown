@@ -1,6 +1,8 @@
 ---
 title: Tab Metrics
 layout: plugin
+seo: 
+  type: Product
 homepage: http://docs.sonarqube.org/display/PLUG/Tab+Metrics+Plugin
 organization: excentia
 organization_url: http://www.excentia.es
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-5.6
 category: visualization/reporting
 description: Add a new tab containing metrics information at file level
 details: 
+
 ---

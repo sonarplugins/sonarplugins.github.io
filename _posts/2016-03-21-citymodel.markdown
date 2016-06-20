@@ -1,6 +1,8 @@
 ---
 title: 3D Code Metrics
 layout: plugin
+seo: 
+  type: Product
 homepage: http://www.excentia.es/plugins/city-model/descargar_en.html
 organization: excentia
 organization_url: http://www.excentia.es
@@ -14,4 +16,5 @@ sonarqube_version: 5.4-5.6
 category: governance
 description: Displays 3D view of your source code as a city
 details: 
+
 ---

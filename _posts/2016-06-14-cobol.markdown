@@ -1,0 +1,20 @@
+---
+title: Cobol
+layout: plugin
+seo: 
+  type: Product
+homepage: http://redirect.sonarsource.com/plugins/cobol.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/cobol/sonar-cobol-plugin-3.1.1.jar
+download_version: 3.1.1
+download_description: Bug fix on rule 'SELECT' statements should not lead to full table scans
+download_date: 2016-06-14
+license: Commercial
+developers: unkown
+sonarqube_version: 4.5.2-5.6
+category: languages
+description: Enables scanning of Cobol source files
+details: 
+
+---

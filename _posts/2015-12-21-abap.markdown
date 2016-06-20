@@ -1,6 +1,8 @@
 ---
 title: ABAP
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/abap.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.2-5.6
 category: languages
 description: Enables scanning of ABAP source files
 details: 
+
 ---

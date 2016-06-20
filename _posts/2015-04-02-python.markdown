@@ -1,6 +1,8 @@
 ---
 title: Python
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/python.html
 organization: SonarSource and Waleri Enns
 organization_url: unkown
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.2-5.6
 category: languages
 description: Enables scanning of Python source files
 details: 
+
 ---

@@ -1,16 +1,16 @@
 ---
 title: Message Flow
 layout: plugin
-seo:
+seo: 
   type: Product
 homepage: https://github.com/EXXETA/sonar-msgflow-plugin
 organization: exxeta
-organization_url: http://www.exxeta.com/
+organization_url: https://www.exxeta.com
 download_url: https://github.com/EXXETA/sonar-msgflow-plugin/releases/download/1.0/sonar-msgflow-plugin-1.0.jar
 download_version: 1.0
 download_description: 
 download_date: 2015-09-05
-license: unkown
+license: Apache License, Version 2.0
 developers: Thomas Pohl, Hendrik Scholz
 sonarqube_version: 4.5.2
 category: languages

@@ -1,18 +1,18 @@
 ---
 title: SCORE
 layout: plugin
-seo:
+seo: 
   type: Product
 homepage: https://github.com/CatalystIT/sonar-score-plugin
-organization: unknown
-organization_url: 
+organization: CatalystIT
+organization_url: https://github.com/CatalystIT/
 download_url: https://github.com/CatalystIT/sonar-score-plugin/archive/master.zip
-download_version: SNAPSHOT
+download_version: 0.7.0-SNAPSHOT
 download_description: You have to build the plugin from GitHub sources
 download_date: 2013-09-18
 license: Apache License 2
 developers: TJamesBoone, margiwomack, lsajeev
-sonarqube_version: unkown
+sonarqube_version: 3.4.1
 category: governance
 description: SCORE (Sonar Code Organized Rewards Engine) is a plugin for SonarQube™ that adds personalization and rewards to SonarQube™. 
 details: It is designed to foster code quality by bringing Gamification principles to the SonarQube™ Server, encouraging a healthy sense of competition for quality code between teams of developers.

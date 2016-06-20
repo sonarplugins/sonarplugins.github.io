@@ -1,6 +1,8 @@
 ---
 title: Artifact Size
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-artifact-size
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-4.5.7
 category: additional metrics
 description: Provides the size of generated artefacts
 details: 
+
 ---

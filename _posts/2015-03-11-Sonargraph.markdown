@@ -1,6 +1,8 @@
 ---
 title: Sonargraph
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-sonargraph
 organization: hello2morrow
 organization_url: http://www.hello2morrow.com
@@ -13,5 +15,6 @@ developers: Ingmar Kellner,Alexander von Zitzewitz
 sonarqube_version: 5.2-5.6
 category: additional metrics
 description: Provides architecture governance features accompanied by metrics about cyclic dependencies and other structural aspects.
-details: This plugin can be used to check the conformance of your code base to a formal architecture definition created with Sonargraph 7. A free license is available to allow you to check and measure the overall coupling and the level of cyclic dependencies at the package level. Usually a high level of coupling and cyclic dependencies points to a high level of structural erosion. If structural erosion grows over a certain level this will have a negative impact on testability, maintainability and comprehensibility of your code.
+details: 
+
 ---

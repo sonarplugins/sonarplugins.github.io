@@ -1,6 +1,8 @@
 ---
 title: Code Smells
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/QualInsight/qualinsight-plugins-sonarqube-smell
 organization: QualInsight
 organization_url: http://www.qualinsight.com/
@@ -14,4 +16,5 @@ sonarqube_version: 5.2-5.6
 category: additional metrics
 description: Tallies technical debt annotations added directly to code
 details: 
+
 ---

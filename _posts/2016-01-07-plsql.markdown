@@ -1,6 +1,8 @@
 ---
 title: PL/SQL
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/plsql.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.2-5.6
 category: languages
 description: Enables scanning of PL/SQL source files
 details: 
+
 ---

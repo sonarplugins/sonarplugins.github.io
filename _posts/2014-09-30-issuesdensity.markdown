@@ -1,6 +1,8 @@
 ---
 title: Issues Density
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/issuesdensity.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-5.1.2
 category: additional metrics
 description: Plugin that computes the former (and deprecated) RCI related metrics
 details: 
+
 ---

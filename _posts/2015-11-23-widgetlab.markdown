@@ -1,6 +1,8 @@
 ---
 title: Widget Lab
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/widgetlab.html
 organization: Shaw Industries
 organization_url: http://shawfloors.com
@@ -14,4 +16,5 @@ sonarqube_version: 5.1-5.6
 category: visualization/reporting
 description: Provides additional widgets
 details: 
+
 ---

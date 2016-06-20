@@ -1,6 +1,8 @@
 ---
 title: Scm Stats
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-scm-stats
 organization: Patroklos PAPAPETROU
 organization_url: unkown
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-5.1.2
 category: visualization/reporting
 description: Feeds SonarQube with Statistics about SCM system.
 details: 
+
 ---

@@ -1,6 +1,8 @@
 ---
 title: Sonar Piwik Plugin
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-piwik
 organization: Intelliware Development Inc.
 organization_url: http://intelliware.ca/
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-4.5.7
 category: integration
 description: Integrates with Piwik.
 details: 
+
 ---

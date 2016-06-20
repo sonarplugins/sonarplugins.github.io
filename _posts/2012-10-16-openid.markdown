@@ -1,6 +1,8 @@
 ---
 title: OpenID
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-openid
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-5.6
 category: integration
 description: Enable user authentication and Single Sign-On through an OpenID provider
 details: 
+
 ---

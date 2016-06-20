@@ -1,6 +1,8 @@
 ---
 title: JMeter
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-jmeter
 organization: eXcentia
 organization_url: http://www.excentia.es
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-5.2
 category: additional metrics
 description: Feed SonarQube with JMeter test results.
 details: 
+
 ---

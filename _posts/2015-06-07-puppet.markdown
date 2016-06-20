@@ -1,0 +1,20 @@
+---
+title: Puppet
+layout: plugin
+seo: 
+  type: Product
+homepage: https://github.com/iwarapter/sonar-puppet
+organization: Iain Adams and David RACODON
+organization_url: unkown
+download_url: https://github.com/iwarapter/sonar-puppet/releases/download/1.4/sonar-puppet-plugin-1.4.jar
+download_version: 1.4
+download_description: Bug fixes
+download_date: 2015-06-07
+license: MIT
+developers: Iain Adams and David RACODON
+sonarqube_version: 4.5.7-5.6
+category: languages
+description: Enables scanning of Puppet files
+details: 
+
+---

@@ -1,6 +1,8 @@
 ---
 title: JavaScript
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/javascript.html
 organization: SonarSource and Eriks Nukis
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.2-5.6
 category: languages
 description: Enables scanning of JavaScript source files
 details: 
+
 ---

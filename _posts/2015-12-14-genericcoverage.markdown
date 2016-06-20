@@ -1,6 +1,8 @@
 ---
 title: Generic Coverage
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/genericcoverage.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.2-5.6
 category: additional metrics
 description: Imports coverage reports defined in the specified format. Coverage applied to files of any language.
 details: 
+
 ---

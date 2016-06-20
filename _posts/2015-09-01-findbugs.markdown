@@ -1,6 +1,8 @@
 ---
 title: Findbugs
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/findbugs.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.2-5.6
 category: external analysers
 description: Provide Findbugs rules for analysis of Java projects
 details: 
+
 ---

@@ -1,6 +1,8 @@
 ---
 title: TFVC
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarQubeCommunity/sonar-scm-tfvc
 organization: SonarSource et al.
 organization_url: https://github.com/SonarQubeCommunity/sonar-scm-tfvc/graphs/contributors
@@ -14,4 +16,5 @@ sonarqube_version: 5.0-5.6
 category: integration
 description: Provides SCM TFVC integration
 details: 
+
 ---

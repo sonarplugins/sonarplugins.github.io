@@ -1,6 +1,8 @@
 ---
 title: Build Stability
 layout: plugin
+seo: 
+  type: Product
 homepage: http://redirect.sonarsource.com/plugins/buildstability.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-5.1.2
 category: additional metrics
 description: Provides the ability to collect information about stability of build
 details: 
+
 ---

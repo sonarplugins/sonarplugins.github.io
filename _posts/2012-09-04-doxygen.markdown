@@ -1,6 +1,8 @@
 ---
 title: Doxygen
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-doxygen
 organization: David FRANCOIS
 organization_url: unkown
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-4.5.7
 category: visualization/reporting
 description: Generates the documentation of the application using Doxygen and Graphviz
 details: 
+
 ---

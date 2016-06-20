@@ -1,6 +1,8 @@
 ---
 title: Trac
 layout: plugin
+seo: 
+  type: Product
 homepage: https://github.com/SonarCommunity/sonar-trac
 organization: Thales Optronics Ltd.
 organization_url: http://www.thalesgroup.com/
@@ -14,4 +16,5 @@ sonarqube_version: 4.5.1-5.1.2
 category: additional metrics
 description: Retrieves and reports the number of project issues from a Trac instance.
 details: 
+
 ---
