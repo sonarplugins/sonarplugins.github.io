@@ -3,6 +3,7 @@ title: Sonar Piwik Plugin
 layout: plugin
 seo: 
   type: Product
+  name: Sonar Piwik Plugin
 homepage: https://github.com/SonarCommunity/sonar-piwik
 organization: Intelliware Development Inc.
 organization_url: http://intelliware.ca/
