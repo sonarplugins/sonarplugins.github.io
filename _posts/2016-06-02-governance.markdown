@@ -14,7 +14,7 @@ license: Commercial
 developers: unkown
 sonarqube_version: 5.6
 category: governance
-description: Enterprise features for SonarQube: Application Portfolio Management, PDF Reporting, Rules Remediation Cost Customization, Backup & Restore of a Project
+description: Enterprise features for SonarQube including Application Portfolio Management, PDF Reporting, Rules Remediation Cost Customization, Backup & Restore of a Project
 details: 
 
 ---
