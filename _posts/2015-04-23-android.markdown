@@ -12,7 +12,7 @@ license: GNU LGPL 3
 developers: unkown
 sonarqube_version: 4.5.4-5.6
 category: external analysers
-description: This plugin has been renamed Android Lint to prevent any misunderstanding about its purpose. An Android project can be analysed with the standard SonarQube Java plugin and this plugin just allows to import Android Lint reports if needed. This new version provides a default sqale mapping for the Android Lint rules and the ability to automatically execute lint has been dropped.
+description: Provide the ability to import Android Lint reports.
 details: 
 seo: 
   name: Android
