@@ -12,7 +12,7 @@ license: GNU LGPL 3
 developers: Evgeny Mandrikov,Sulabh Upadhyay
 sonarqube_version: 5.6
 category: integration
-description: Extract Active Directory specific features (automatic discovery, SSO) in a dedicated plugin. SonarQube LDAP plugin 1.5.x advanced features for ActiveDirectory have been migrated to the Active Directory community plugin.
+description: Delegates authentication and authorization to LDAP.
 details: 
 seo: 
   name: LDAP
