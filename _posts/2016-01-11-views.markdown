@@ -2,6 +2,7 @@
 title: Views
 seo:
   name: Views
+  type: ItemPage
 layout: plugin
 homepage: http://redirect.sonarsource.com/plugins/views.html
 organization: SonarSource
