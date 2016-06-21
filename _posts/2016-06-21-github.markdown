@@ -1,0 +1,22 @@
+---
+title: GitHub
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/github.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-github-plugin/sonar-github-plugin-1.3.jar
+download_version: 1.3
+download_description: Don't require push permission
+download_date: 2016-06-21
+license: GNU LGPL 3
+developers: Julien Henry
+sonarqube_version: 5.6
+category: integration
+description: Pushes preview analysis results as pull request comments on GitHub (integration scripting required)
+details: 
+seo: 
+  name: GitHub
+  headline: GitHub - SonarQube Plugin
+  type: ItemPage
+
+---

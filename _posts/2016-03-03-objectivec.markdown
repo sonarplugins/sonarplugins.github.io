@@ -1,8 +1,6 @@
 ---
 title: Open Source Objective-C
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/Backelite/sonar-objective-c
 organization: Backelite
 organization_url: https://www.backelite.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.3-5.6
 category: external analysers
 description: This plugin enables to analyze and track the quality of iOS (iPhone, iPad) and MacOS developments.
 details: Supported features include complexity (uses Lizard), documentation, duplications, issues (uses OCLint and Faux Pas), size, tests (uses xctool) and code coverage (uses gcovr and slather) 
+seo: 
+  name: Open Source Objective-C
+  headline: Open Source Objective-C - SonarQube Plugin
+  type: ItemPage
 
 ---

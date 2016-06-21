@@ -1,8 +1,6 @@
 ---
 title: Thucydides
 layout: plugin
-seo: 
-  type: Product
 homepage: http://docs.sonarqube.org/display/PLUG/Thucydides+Plugin
 organization: Patroklos PAPAPETROU
 organization_url: unkown
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-4.5.7
 category: additional metrics
 description: Plugin for the acceptance testing tool Thucydides
 details: 
+seo: 
+  name: Thucydides
+  headline: Thucydides - SonarQube Plugin
+  type: ItemPage
 
 ---

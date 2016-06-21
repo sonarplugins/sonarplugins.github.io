@@ -1,8 +1,6 @@
 ---
 title: Google Analytics
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/googleanalytics.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: integration
 description: Add the Google Analytics tracking script to the SonarQube web application.
 details: 
+seo: 
+  name: Google Analytics
+  headline: Google Analytics - SonarQube Plugin
+  type: ItemPage
 
 ---

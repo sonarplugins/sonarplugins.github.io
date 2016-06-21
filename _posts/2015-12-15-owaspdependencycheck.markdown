@@ -1,8 +1,6 @@
 ---
 title: OWASP Dependency-Check
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/stevespringett/dependency-check-sonar-plugin
 organization: Steve Springett
 organization_url: https://stevespringett.com/
@@ -16,5 +14,9 @@ sonarqube_version: 5.1-5.6
 category: external analysers
 description: Integrates OWASP Dependency-Check reports into SonarQube
 details: Dependency-Check is a utility that attempts to detect publicly disclosed vulnerabilities contained within project dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries. Dependency-Check supports the identification of project dependencies in a number of different languages including Java, .NET, and Python.
+seo: 
+  name: OWASP Dependency-Check
+  headline: OWASP Dependency-Check - SonarQube Plugin
+  type: ItemPage
 
 ---

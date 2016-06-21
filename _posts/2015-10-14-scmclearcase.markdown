@@ -1,8 +1,6 @@
 ---
 title: ClearCase
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/scmclearcase.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.0-5.6
 category: integration
 description: Provides SCM Clearcase integration
 details: 
+seo: 
+  name: ClearCase
+  headline: ClearCase - SonarQube Plugin
+  type: ItemPage
 
 ---

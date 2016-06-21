@@ -1,8 +1,6 @@
 ---
 title: Chinese Pack
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-l10n-zh
 organization: Mossle
 organization_url: http://www.mossle.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.6
 category: localization
 description: SonarQube Chinese Pack
 details: 
+seo: 
+  name: Chinese Pack
+  headline: Chinese Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

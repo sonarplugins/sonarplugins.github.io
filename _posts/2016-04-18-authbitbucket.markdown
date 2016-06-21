@@ -1,8 +1,6 @@
 ---
 title: Bitbucket Authentication for SonarQube
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarQubeCommunity/sonar-auth-bitbucket
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.4-5.6
 category: integration
 description: Enables OAuth delegation to BitBucket
 details: 
+seo: 
+  name: Bitbucket Authentication for SonarQube
+  headline: Bitbucket Authentication for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

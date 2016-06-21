@@ -1,8 +1,6 @@
 ---
 title: Branding
 layout: plugin
-seo: 
-  type: Product
 homepage: http://docs.sonarqube.org/display/PLUG/Branding+Plugin
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.0.1
 category: integration
 description: Provides the ability to customise the branding of a SonarQube instance
 details: 
+seo: 
+  name: Branding
+  headline: Branding - SonarQube Plugin
+  type: ItemPage
 
 ---

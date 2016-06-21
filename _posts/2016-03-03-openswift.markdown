@@ -1,8 +1,6 @@
 ---
 title: Open Source Swift
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/Backelite/sonar-swift
 organization: Backelite
 organization_url: https://www.backelite.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.3-5.6
 category: external analysers
 description: Open Source initiative for Apple Swift language support in SonarQube.
 details: Supported features include complexity (uses Lizard), documentation, duplications, issues (uses SwiftLint), size, tests (uses xcodebuild + xcpretty) and code coverage (uses slather) 
+seo: 
+  name: Open Source Swift
+  headline: Open Source Swift - SonarQube Plugin
+  type: ItemPage
 
 ---

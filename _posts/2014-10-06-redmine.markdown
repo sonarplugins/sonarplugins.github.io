@@ -1,8 +1,6 @@
 ---
 title: Redmine
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-redmine
 organization: Patroklos PAPAPETROU and Christian Schulz
 organization_url: unkown
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.4
 category: integration
 description: Integrates SonarQube with Redmine with various ways
 details: 
+seo: 
+  name: Redmine
+  headline: Redmine - SonarQube Plugin
+  type: ItemPage
 
 ---

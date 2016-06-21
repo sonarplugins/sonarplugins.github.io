@@ -1,8 +1,6 @@
 ---
 title: Japanese Pack
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-l10n-ja
 organization: unkown
 organization_url: unkown
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: localization
 description: Language Pack for Japanese
 details: 
+seo: 
+  name: Japanese Pack
+  headline: Japanese Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

@@ -1,8 +1,6 @@
 ---
 title: German Pack
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-l10n-de
 organization: Philipp Nestler, Christian Schulz
 organization_url: http://www.sonarqube.org
@@ -16,5 +14,9 @@ sonarqube_version: 5.0-5.6
 category: localization
 description: Language Pack for German
 details: 
+seo: 
+  name: German Pack
+  headline: German Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

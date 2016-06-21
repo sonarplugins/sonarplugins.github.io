@@ -1,8 +1,6 @@
 ---
 title: Governance
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/governance.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.6
 category: governance
 description: Enterprise features for SonarQube including Application Portfolio Management, PDF Reporting, Rules Remediation Cost Customization, Backup & Restore of a Project
 details: 
+seo: 
+  name: Governance
+  headline: Governance - SonarQube Plugin
+  type: ItemPage
 
 ---

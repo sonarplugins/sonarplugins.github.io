@@ -1,8 +1,6 @@
 ---
 title: Greek Pack
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-l10n-el
 organization: Patroklos PAPAPETROU
 organization_url: unkown
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: localization
 description: Language Pack for Greek
 details: 
+seo: 
+  name: Greek Pack
+  headline: Greek Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

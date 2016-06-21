@@ -1,8 +1,6 @@
 ---
 title: Crowd
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-crowd
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.2-5.6
 category: integration
 description: Provide the ability to authenticate again Crowd
 details: 
+seo: 
+  name: Crowd
+  headline: Crowd - SonarQube Plugin
+  type: ItemPage
 
 ---

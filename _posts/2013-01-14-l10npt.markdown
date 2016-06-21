@@ -1,8 +1,6 @@
 ---
 title: Portuguese Pack
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-l10n-pt
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: localization
 description: Language Pack for Portuguese
 details: 
+seo: 
+  name: Portuguese Pack
+  headline: Portuguese Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

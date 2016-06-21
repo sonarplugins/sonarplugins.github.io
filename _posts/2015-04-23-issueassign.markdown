@@ -1,8 +1,6 @@
 ---
 title: Issue Assign
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-issue-assign
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.1-5.1.2
 category: developer tools
 description: Assigns issues to Sonar users
 details: 
+seo: 
+  name: Issue Assign
+  headline: Issue Assign - SonarQube Plugin
+  type: ItemPage
 
 ---

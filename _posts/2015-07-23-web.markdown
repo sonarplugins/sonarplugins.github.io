@@ -1,8 +1,6 @@
 ---
 title: Web
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/web.html
 organization: SonarSource and Matthijs Galesloot
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.2-5.6
 category: languages
 description: Enables scanning of HTML, and JSP/JSF files
 details: 
+seo: 
+  name: Web
+  headline: Web - SonarQube Plugin
+  type: ItemPage
 
 ---

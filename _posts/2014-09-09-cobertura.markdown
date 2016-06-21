@@ -1,8 +1,6 @@
 ---
 title: Cobertura
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/cobertura.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: additional metrics
 description: Provide ability to use Cobertura for coverage computing
 details: 
+seo: 
+  name: Cobertura
+  headline: Cobertura - SonarQube Plugin
+  type: ItemPage
 
 ---

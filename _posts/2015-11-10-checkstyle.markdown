@@ -1,8 +1,6 @@
 ---
 title: Checkstyle
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/checkstyle.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.2-5.6
 category: external analysers
 description: Provide Checkstyle rules for Java projects
 details: 
+seo: 
+  name: Checkstyle
+  headline: Checkstyle - SonarQube Plugin
+  type: ItemPage
 
 ---

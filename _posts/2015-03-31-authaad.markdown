@@ -1,8 +1,6 @@
 ---
 title: Azure Active Directory (AAD) Authentication Plug-in for SonarQube
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarQubeCommunity/sonar-auth-aad
 organization: Visual Studio ALM Rangers
 organization_url: https://aka.ms/vsarblog
@@ -16,5 +14,9 @@ sonarqube_version: 5.4-5.6
 category: integration
 description: Enables Azure Active Directory (AAD) users to automatically be sign up (a login is created if they don't have one already) and authenticated on a SonarQube server.
 details: 
+seo: 
+  name: Azure Active Directory (AAD) Authentication Plug-in for SonarQube
+  headline: Azure Active Directory (AAD) Authentication Plug-in for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

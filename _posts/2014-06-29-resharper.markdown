@@ -1,8 +1,6 @@
 ---
 title: ReSharper
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/resharper.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.2-5.6
 category: external analysers
 description: Provides support of R# code analysis 
 details: 
+seo: 
+  name: ReSharper
+  headline: ReSharper - SonarQube Plugin
+  type: ItemPage
 
 ---

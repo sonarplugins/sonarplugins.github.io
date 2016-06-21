@@ -1,8 +1,6 @@
 ---
 title: Developer Cockpit
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/devcockpit.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.6
 category: developer tools
 description: Enables developers to identify their individual contributions to a project and fosters best practices in code quality self-management
 details: 
+seo: 
+  name: Developer Cockpit
+  headline: Developer Cockpit - SonarQube Plugin
+  type: ItemPage
 
 ---

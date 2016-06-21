@@ -1,8 +1,6 @@
 ---
 title: Visual Basic
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/vb.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.4-5.6
 category: languages
 description: Enables scanning of VB6 source files
 details: 
+seo: 
+  name: Visual Basic
+  headline: Visual Basic - SonarQube Plugin
+  type: ItemPage
 
 ---

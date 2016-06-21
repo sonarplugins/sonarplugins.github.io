@@ -1,8 +1,6 @@
 ---
 title: JIRA
 layout: plugin
-seo: 
-  type: Product
 homepage: http://docs.sonarqube.org/display/PLUG/JIRA+Plugin
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.4
 category: integration
 description: Connects SonarQube to Atlassian JIRA in various ways.
 details: 
+seo: 
+  name: JIRA
+  headline: JIRA - SonarQube Plugin
+  type: ItemPage
 
 ---

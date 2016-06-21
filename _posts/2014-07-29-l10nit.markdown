@@ -1,8 +1,6 @@
 ---
 title: Italian Pack
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-l10n-it
 organization: Assioma.net
 organization_url: http://www.assioma.net
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: localization
 description: Language Pack for Italian
 details: 
+seo: 
+  name: Italian Pack
+  headline: Italian Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

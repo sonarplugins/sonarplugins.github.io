@@ -1,8 +1,6 @@
 ---
 title: C / C++ / Objective-C
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/cpp.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.4-5.6
 category: languages
 description: Enables scanning of C and C++ source files
 details: 
+seo: 
+  name: C / C++ / Objective-C
+  headline: C / C++ / Objective-C - SonarQube Plugin
+  type: ItemPage
 
 ---

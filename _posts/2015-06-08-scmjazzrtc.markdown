@@ -1,8 +1,6 @@
 ---
 title: Jazz RTC
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/scmjazzrtc.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.1-5.6
 category: integration
 description: Provides SCM Jazz RTC integration
 details: 
+seo: 
+  name: Jazz RTC
+  headline: Jazz RTC - SonarQube Plugin
+  type: ItemPage
 
 ---

@@ -1,8 +1,6 @@
 ---
 title: Sonargraph
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-sonargraph
 organization: hello2morrow
 organization_url: http://www.hello2morrow.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.2-5.6
 category: additional metrics
 description: Provides architecture governance features accompanied by metrics about cyclic dependencies and other structural aspects.
 details: 
+seo: 
+  name: Sonargraph
+  headline: Sonargraph - SonarQube Plugin
+  type: ItemPage
 
 ---

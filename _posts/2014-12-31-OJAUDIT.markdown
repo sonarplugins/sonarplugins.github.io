@@ -1,8 +1,6 @@
 ---
 title: OJAUDIT
 layout: plugin
-seo: 
-  type: Product
 homepage: https://java.net/projects/sonarqube-ojaudit
 organization: ADF Enterprise Methodology Group
 organization_url: https://java.net/projects/adfemg
@@ -16,5 +14,9 @@ sonarqube_version: 3.0
 category: external analysers
 description: SonarQube plugin to run the JDeveloper 11g or 12c code auditing tool (ojaudit) in the background and report all violations found by the Oracle JDeveloper auditing framework to SonarQube.
 details: Can be used for any JDeveloper 11g or 12c project, whether it is SOA, plain java, WebCenter, ADF or anything else. Please read the home page of the project wiki for further instructions.
+seo: 
+  name: OJAUDIT
+  headline: OJAUDIT - SonarQube Plugin
+  type: ItemPage
 
 ---

@@ -1,8 +1,6 @@
 ---
 title: XML
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/xml.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.4-5.6
 category: languages
 description: Enables scanning of XML files
 details: 
+seo: 
+  name: XML
+  headline: XML - SonarQube Plugin
+  type: ItemPage
 
 ---

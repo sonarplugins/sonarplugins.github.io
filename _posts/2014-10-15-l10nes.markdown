@@ -1,8 +1,6 @@
 ---
 title: Spanish Pack
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-l10n-es
 organization: excentia
 organization_url: http://www.excentia.es
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: localization
 description: Language Pack for Spanish
 details: 
+seo: 
+  name: Spanish Pack
+  headline: Spanish Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

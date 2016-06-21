@@ -1,8 +1,6 @@
 ---
 title: Motion Chart
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/motionchart.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.6
 category: visualization/reporting
 description: Display how a set of metrics evolves over time (requires an internet access).
 details: 
+seo: 
+  name: Motion Chart
+  headline: Motion Chart - SonarQube Plugin
+  type: ItemPage
 
 ---

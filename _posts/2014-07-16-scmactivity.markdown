@@ -1,8 +1,6 @@
 ---
 title: SCM Activity
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/scm-activity.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-4.5.7
 category: integration
 description: Provides SCM information
 details: 
+seo: 
+  name: SCM Activity
+  headline: SCM Activity - SonarQube Plugin
+  type: ItemPage
 
 ---

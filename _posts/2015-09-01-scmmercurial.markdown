@@ -1,8 +1,6 @@
 ---
 title: Mercurial
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/scmmercurial.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.0-5.6
 category: integration
 description: Provides SCM Mercurial integration
 details: 
+seo: 
+  name: Mercurial
+  headline: Mercurial - SonarQube Plugin
+  type: ItemPage
 
 ---

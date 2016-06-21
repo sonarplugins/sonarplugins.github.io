@@ -1,8 +1,6 @@
 ---
 title: GitHub Authentication for SonarQube
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/authgithub.html
 organization: SonarSource
 organization_url: http://sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.6
 category: integration
 description: GitHub Authentication
 details: 
+seo: 
+  name: GitHub Authentication for SonarQube
+  headline: GitHub Authentication for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

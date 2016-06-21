@@ -1,8 +1,6 @@
 ---
 title: Puppet
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/iwarapter/sonar-puppet
 organization: Iain Adams and David RACODON
 organization_url: unkown
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.7-5.6
 category: languages
 description: Enables scanning of Puppet files
 details: 
+seo: 
+  name: Puppet
+  headline: Puppet - SonarQube Plugin
+  type: ItemPage
 
 ---

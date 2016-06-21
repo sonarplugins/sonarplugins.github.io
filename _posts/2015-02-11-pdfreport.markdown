@@ -1,8 +1,6 @@
 ---
 title: PDF Report
 layout: plugin
-seo: 
-  type: Product
 homepage: https://github.com/SonarCommunity/sonar-pdf-report
 organization: klicap - ingenieria del puzle
 organization_url: http://www.klicap.es
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-4.5.7
 category: governance
 description: Sonar and Maven plugin for PDF reporting
 details: 
+seo: 
+  name: PDF Report
+  headline: PDF Report - SonarQube Plugin
+  type: ItemPage
 
 ---

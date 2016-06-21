@@ -1,8 +1,6 @@
 ---
 title: Issues Report
 layout: plugin
-seo: 
-  type: Product
 homepage: http://redirect.sonarsource.com/plugins/issuesreport.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
@@ -16,5 +14,9 @@ sonarqube_version: 4.5.1-5.0.1
 category: developer tools
 description: Generate a report of SonarQube issues.
 details: 
+seo: 
+  name: Issues Report
+  headline: Issues Report - SonarQube Plugin
+  type: ItemPage
 
 ---

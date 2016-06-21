@@ -1,8 +1,6 @@
 ---
 title: SAS Rules
 layout: plugin
-seo: 
-  type: Product
 homepage: https://bettercodingtools.com/sas-rules
 organization: BCT
 organization_url: https://bettercodingtools.com
@@ -16,5 +14,9 @@ sonarqube_version: 5.1-5.6
 category: languages
 description: Enable analysis of SAS Code in SonarQube.
 details: Violations are broken down into the categories standards, performance, correctness and other. More that 15 rules and metrics available.
+seo: 
+  name: SAS Rules
+  headline: SAS Rules - SonarQube Plugin
+  type: ItemPage
 
 ---
