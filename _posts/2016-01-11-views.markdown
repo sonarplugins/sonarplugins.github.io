@@ -1,5 +1,7 @@
 ---
 title: Views
+seo:
+  name: Views
 layout: plugin
 homepage: http://redirect.sonarsource.com/plugins/views.html
 organization: SonarSource
