@@ -1,17 +1,17 @@
 ---
 title: SQALE
 layout: plugin
-homepage: http://redirect.sonarsource.com/plugins/sqale.html
-organization: SonarSource
-organization_url: http://www.sonarsource.com
-download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-sqale-plugin/sonar-sqale-plugin-2.7.jar
-download_version: 2.7
-download_description: Compatibility with SonarQube 5.2
-download_date: 2015-10-27
+homepage: http://www.bitegarden.com/sonarqube-sqale
+organization: bitegarden
+organization_url: http://www.bitegarden.com
+download_url: http://www.bitegarden.com/contact
+download_version: 1.0
+download_description: Track your technical debt with SQALE method
+download_date: 2018-08-19
 license: Commercial
-developers: unkown
-sonarqube_version: 5.2-5.4
+developers: bitegarden
+sonarqube_version: 6.7+
 category: governance
 description: Software Quality Assessment based on Lifecycle Expectations
-details: 
+details: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 ---
