@@ -1,17 +1,21 @@
 ---
 title: Report
 layout: plugin
-homepage: http://redirect.sonarsource.com/plugins/report.html
-organization: SonarSource
-organization_url: http://www.sonarsource.com
-download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-report-plugin/sonar-report-plugin-1.6.jar
-download_version: 1.6
-download_description: Bug fixes
-download_date: 2015-11-06
+homepage: http://www.bitegarden.com/sonarqube-report
+organization: bitegarden
+organization_url: http://www.bitegarden.com
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=1.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonar&customerSurnames=plugins&customerCompany=sonarplugins
+download_version: 1.0
+download_description: Generate your project report from a fully customizable ODT template
+download_date: 2018-08-22
 license: Commercial
-developers: unkown
-sonarqube_version: 4.5.2-5.4
+developers: bitegarden
+sonarqube_version: 6.7+
 category: governance
-description: Send reports as PDF
-details: 
+description: Generate your project report from a fully customizable ODT template
+details: This plugin is able to generate project reports from completely configurable ODT templates. These reports collect metrics of your project in SonarQube and present it in the form of an ODT text document.
+seo: 
+  name: Report
+  headline: SonarQube Report Plugin
+  type: ItemPage
 ---
