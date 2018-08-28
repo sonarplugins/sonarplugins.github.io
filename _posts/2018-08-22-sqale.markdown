@@ -4,10 +4,10 @@ layout: plugin
 homepage: http://www.bitegarden.com/sonarqube-sqale
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: http://www.bitegarden.com/contact
-download_version: 1.0
+download_url: http://www.bitegarden.com/sonarqube-sqale
+download_version: 1.0.1
 download_description: Track your technical debt with SQALE method
-download_date: 2018-08-19
+download_date: 2018-08-28
 license: Commercial
 developers: bitegarden
 sonarqube_version: 6.7+
