@@ -1,0 +1,22 @@
+---
+title: GitHub
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/github.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-github-plugin/sonar-github-plugin-1.4.2.1027.jar
+download_version: 1.4.2
+download_description: Fix GitHub commit ID overflow
+download_date: 2017-11-08
+license: GNU LGPL 3
+developers: Julien Henry
+sonarqube_version: 6.7-7.1
+category: integration
+description: Pushes preview analysis results as pull request comments on GitHub (integration scripting required)
+details: 
+seo: 
+  name: GitHub
+  headline: GitHub - SonarQube Plugin
+  type: ItemPage
+
+---

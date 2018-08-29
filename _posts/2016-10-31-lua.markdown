@@ -1,0 +1,22 @@
+---
+title: Lua
+layout: plugin
+homepage: https://github.com/SonarQubeCommunity/sonar-lua
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://github.com/SonarQubeCommunity/sonar-lua/releases/download/v1.0/sonar-lua-plugin-1.0.jar
+download_version: 1.0
+download_description: Initial release. Supports Lua 5.1
+download_date: 2016-10-31
+license: GNU LGPL 3
+developers: Fati
+sonarqube_version: 6.7-7.2.1
+category: languages
+description: Enables scanning of Lua source files
+details: 
+seo: 
+  name: Lua
+  headline: Lua - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -1,0 +1,22 @@
+---
+title: PMD
+layout: plugin
+homepage: https://github.com/SonarQubeCommunity/sonar-pmd
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://github.com/SonarQubeCommunity/sonar-pmd/releases/download/2.6/sonar-pmd-plugin-2.6.jar
+download_version: 2.6
+download_description: Upgrades PMD to 5.4.2, drops removed rules, and makes CommentRequired configurable.
+download_date: 2015-06-30
+license: GNU LGPL 3
+developers: Evgeny Mandrikov,Tim Webster
+sonarqube_version: 6.7-7.2.1
+category: external analysers
+description: Provide PMD rules to analyse Java projects
+details: 
+seo: 
+  name: PMD
+  headline: PMD - SonarQube Plugin
+  type: ItemPage
+
+---

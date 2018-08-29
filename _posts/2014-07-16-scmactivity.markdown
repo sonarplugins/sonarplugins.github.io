@@ -11,7 +11,7 @@ download_date: 2014-07-16
 license: GNU LGPL 3
 developers: Evgeny Mandrikov,Simon Brandhof,David Gageot,Julien Henry,Dinesh Bolkensteyn
 sonarqube_version: 4.5.1-4.5.7
-category: integration
+category: deprecated
 description: Provides SCM information
 details: 
 seo: 

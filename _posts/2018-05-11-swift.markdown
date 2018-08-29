@@ -1,0 +1,22 @@
+---
+title: SonarSwift
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/swift.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-swift-plugin/sonar-swift-plugin-3.3.0.2492.jar
+download_version: 3.3
+download_description: 13 new rules
+download_date: 2018-05-11
+license: SonarSource
+developers: unkown
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for Swift
+details: 
+seo: 
+  name: SonarSwift
+  headline: SonarSwift - SonarQube Plugin
+  type: ItemPage
+
+---

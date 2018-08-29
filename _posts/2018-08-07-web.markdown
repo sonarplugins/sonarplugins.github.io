@@ -1,0 +1,22 @@
+---
+title: SonarHTML
+layout: plugin
+homepage: https://redirect.sonarsource.com/plugins/web.html
+organization: SonarSource and Matthijs Galesloot
+organization_url: unkown
+download_url: https://sonarsource.bintray.com/Distribution/sonar-html-plugin/sonar-html-plugin-3.0.0.1411.jar
+download_version: 3.0
+download_description: Rename SonarWeb as SonarHTML, add new rules and improve the analysis of PHP files.
+download_date: 2018-08-07
+license: The Apache Software License, Version 2.0
+developers: Matthijs Galesloot,Fabrice Bellingard,Dinesh Bolkensteyn
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code analyzer for HTML including JSP, JSF and other formats.
+details: 
+seo: 
+  name: SonarHTML
+  headline: SonarHTML - SonarQube Plugin
+  type: ItemPage
+
+---

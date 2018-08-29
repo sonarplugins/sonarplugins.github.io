@@ -10,7 +10,7 @@ download_description: This new version includes bundles upgrade to SonarQube 4.4
 download_date: 2014-10-15
 license: GNU LGPL 3
 developers: Antonio Calero
-sonarqube_version: 4.5.1-5.6
+sonarqube_version: 6.7-7.3
 category: localization
 description: Language Pack for Spanish
 details: 

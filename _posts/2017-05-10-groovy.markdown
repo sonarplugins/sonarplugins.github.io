@@ -1,0 +1,22 @@
+---
+title: Groovy
+layout: plugin
+homepage: https://github.com/SonarQubeCommunity/sonar-groovy
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://github.com/SonarQubeCommunity/sonar-groovy/releases/download/1.5/sonar-groovy-plugin-1.5.jar
+download_version: 1.5
+download_description: Correct resolution of binaries for multi-module projects, suppress duplication reporting on tests
+download_date: 2017-05-10
+license: GNU LGPL 3
+developers: Michael Gumowski,Nicolas Peru
+sonarqube_version: 6.7-7.2
+category: languages
+description: Enables scanning of Groovy source files
+details: 
+seo: 
+  name: Groovy
+  headline: Groovy - SonarQube Plugin
+  type: ItemPage
+
+---

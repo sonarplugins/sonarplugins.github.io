@@ -10,7 +10,7 @@ download_description: Do not fail on checked out/uncommited files
 download_date: 2015-10-14
 license: GNU LGPL 3
 developers: Julien Henry
-sonarqube_version: 5.0-5.6
+sonarqube_version: 6.7-7.2.1
 category: integration
 description: Provides SCM Clearcase integration
 details: 

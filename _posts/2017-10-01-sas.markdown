@@ -1,0 +1,22 @@
+---
+title: SAS Rules
+layout: plugin
+homepage: https://bettercodingtools.com/sas-rules
+organization: BCT
+organization_url: https://bettercodingtools.com
+download_url: https://www.dropbox.com/s/11sgavz9phfwnci/S-precise-sonarplugin-1st-oct-17-1.03.jar?dl=0
+download_version: 1.03
+download_description: Trial version. You can use it for a while with all the features of the purchased product but it will run out at the end of the trial
+download_date: 2017-10-01
+license: Commercial
+developers: Richard Huegill
+sonarqube_version: 6.7-7.3
+category: languages
+description: Enable analysis of SAS Code in SonarQube.
+details: Violations are broken down into the categories standards, performance, correctness and other. More that 15 rules and metrics available.
+seo: 
+  name: SAS Rules
+  headline: SAS Rules - SonarQube Plugin
+  type: ItemPage
+
+---

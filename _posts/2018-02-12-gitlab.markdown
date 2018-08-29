@@ -1,0 +1,22 @@
+---
+title: GitLab
+layout: plugin
+homepage: https://github.com/gabrie-allaigre/sonar-gitlab-plugin
+organization: Talanlabs
+organization_url: http://www.talanlabs.com
+download_url: https://github.com/gabrie-allaigre/sonar-gitlab-plugin/releases/download/3.0.0/sonar-gitlab-plugin-3.0.0.jar
+download_version: 3.0.0
+download_description: Partial rewrite adding publish mode management and displaying the quality gate
+download_date: 2018-02-12
+license: GNU LGPL 3
+developers: Gabriel Allaigre
+sonarqube_version: 6.7-7.3
+category: integration
+description: Pushes preview analysis results as merge request comments on GitLab
+details: 
+seo: 
+  name: GitLab
+  headline: GitLab - SonarQube Plugin
+  type: ItemPage
+
+---

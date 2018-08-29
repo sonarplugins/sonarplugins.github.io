@@ -1,0 +1,22 @@
+---
+title: PL/SQL Cop for SonarQube
+layout: plugin
+homepage: https://www.salvis.com/blog/plsql-cop-for-sonarqube/
+organization: Philipp Salvisberg, Trivadis
+organization_url: https://www.salvis.com/
+download_url: https://www.salvis.com/blog/?ddownload=8167
+download_version: 6.7.0.0
+download_description: Runs in SonarQube 6.7 – 7.0
+download_date: 2018-03-11
+license: GNU LGPL 3
+developers: Philipp Salvisberg, Peter Rohner
+sonarqube_version: 6.7-7.0
+category: external analysers
+description: The plugin analyses SQL and PL/SQL code and calculates various metrics and checks the code for compliance of the Trivadis PL/SQL & SQL Coding Guidelines Version 2.0
+details: Behind the scenes the plugin calls the PL/SQL Cop command line utility for the static code analysis.
+seo: 
+  name: PL/SQL Cop for SonarQube
+  headline: PL/SQL Cop for SonarQube - SonarQube Plugin
+  type: ItemPage
+
+---

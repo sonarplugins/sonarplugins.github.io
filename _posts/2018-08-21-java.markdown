@@ -1,0 +1,22 @@
+---
+title: SonarJava
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/java.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-java-plugin/sonar-java-plugin-5.7.0.15470.jar
+download_version: 5.7
+download_description: 7 new rules (5 Security Hotspots, 1 Vulnerability and 1 Bug). Improve existing rules and change Custom rules API
+download_date: 2018-08-21
+license: GNU LGPL 3
+developers: Evgeny Mandrikov,Nicolas Peru,Michael Gumowski,Tibor Blenessy
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for Java
+details: 
+seo: 
+  name: SonarJava
+  headline: SonarJava - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -1,0 +1,22 @@
+---
+title: SonarFlex
+layout: plugin
+homepage: http://docs.sonarqube.org/display/PLUG/Flex+Plugin
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-flex-plugin/sonar-flex-plugin-2.4.0.1222.jar
+download_version: 2.4
+download_description: Ensure compatibility with SonarQube 7.x
+download_date: 2018-03-28
+license: GNU LGPL 3
+developers: Olivier Gaudin,Evgeny Mandrikov,Fabrice Bellingard,Linda Martin
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code analyzer for Flex
+details: 
+seo: 
+  name: SonarFlex
+  headline: SonarFlex - SonarQube Plugin
+  type: ItemPage
+
+---

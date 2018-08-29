@@ -1,0 +1,22 @@
+---
+title: ESQL
+layout: plugin
+homepage: https://github.com/EXXETA/sonar-esql-plugin
+organization: BCT
+organization_url: https://www.exxeta.com
+download_url: https://github.com/EXXETA/sonar-esql-plugin/releases/download/2.3.4/esql-plugin-2.3.4.jar
+download_version: 2.3.4
+download_description: Bugfix release
+download_date: 2018-03-10
+license: Apache License, Version 2.0
+developers: Thomas Pohl
+sonarqube_version: 6.7-7.3
+category: languages
+description: Sonar plugin to analyze ESQL-sourcecode of IBM Integration Bus projects.
+details: This open source plugin can be used to analyze the ESQL-sourcecode of IBM Websphere Message Broker / IBM Integration Bus projects.
+seo: 
+  name: ESQL
+  headline: ESQL - SonarQube Plugin
+  type: ItemPage
+
+---

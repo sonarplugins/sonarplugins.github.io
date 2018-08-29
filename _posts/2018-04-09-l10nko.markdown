@@ -1,0 +1,22 @@
+---
+title: Korean Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-ko
+organization: creatinov
+organization_url: http://moseskim.github.io
+download_url: https://github.com/SonarQubeCommunity/sonar-l10n-ko/releases/download/1.7.0/sonar-l10n-ko-plugin-1.7.0.jar
+download_version: 1.7
+download_description: Support for SonarQube 7.0
+download_date: 2018-04-09
+license: GNU LGPL 3
+developers: Moses Kim
+sonarqube_version: 7.0-7.3
+category: localization
+description: Language Pack for Korean
+details: 
+seo: 
+  name: Korean Pack
+  headline: Korean Pack - SonarQube Plugin
+  type: ItemPage
+
+---

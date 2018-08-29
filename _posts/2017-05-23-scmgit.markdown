@@ -1,0 +1,22 @@
+---
+title: Git
+layout: plugin
+homepage: https://redirect.sonarsource.com/plugins/scmgit.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-scm-git-plugin/sonar-scm-git-plugin-1.4.1.1128.jar
+download_version: 1.4.1
+download_description: Bug fix for short-lived branches and P/R analyses
+download_date: 2017-05-23
+license: GNU LGPL 3
+developers: Julien Henry
+sonarqube_version: 6.7-7.3
+category: integration
+description: Provides SCM Git integration
+details: 
+seo: 
+  name: Git
+  headline: Git - SonarQube Plugin
+  type: ItemPage
+
+---

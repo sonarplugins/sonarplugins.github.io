@@ -1,0 +1,22 @@
+---
+title: SonarRPG
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/rpg.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-rpg-plugin/sonar-rpg-plugin-2.3.0.1187.jar
+download_version: 2.3
+download_description: Ensure compatibility with SonarQube 7.x versions
+download_date: 2018-03-28
+license: SonarSource
+developers: unkown
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for RPG
+details: 
+seo: 
+  name: SonarRPG
+  headline: SonarRPG - SonarQube Plugin
+  type: ItemPage
+
+---

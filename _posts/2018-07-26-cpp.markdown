@@ -1,0 +1,22 @@
+---
+title: SonarCFamily
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/cpp.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-cfamily-plugin/sonar-cfamily-plugin-5.1.1.10386.jar
+download_version: 5.1.1
+download_description: Better support of Visual Studio XML coverage and compatibility with SonarQube 7.3+
+download_date: 2018-07-26
+license: SonarSource
+developers: Evgeny Mandrikov,Dinesh Bolkensteyn,Julien Henry
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for C, C++, and Objective-C
+details: 
+seo: 
+  name: SonarCFamily
+  headline: SonarCFamily - SonarQube Plugin
+  type: ItemPage
+
+---

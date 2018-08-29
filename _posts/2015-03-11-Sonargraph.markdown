@@ -10,9 +10,9 @@ download_description: Ensures compatibility with SonarQube 5.2 and higher
 download_date: 2015-03-11
 license: Apache License 2
 developers: Ingmar Kellner,Alexander von Zitzewitz
-sonarqube_version: 5.2-5.6
+sonarqube_version: 6.7-7.2.1
 category: additional metrics
-description: Provides architecture governance features accompanied by metrics about cyclic dependencies and other structural aspects.
+description: Provides support for Sonargraph 7's architecture governance features accompanied by metrics about cyclic dependencies and other structural aspects.
 details: 
 seo: 
   name: Sonargraph

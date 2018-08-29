@@ -1,0 +1,22 @@
+---
+title: SonarPLSQL
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/plsql.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-plsql-plugin/sonar-plsql-plugin-3.2.0.1753.jar
+download_version: 3.2
+download_description: Support for Oracle data dictionary
+download_date: 2018-01-02
+license: SonarSource
+developers: unkown
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for PL/SQL
+details: 
+seo: 
+  name: SonarPLSQL
+  headline: SonarPLSQL - SonarQube Plugin
+  type: ItemPage
+
+---

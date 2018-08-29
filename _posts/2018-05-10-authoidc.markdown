@@ -1,0 +1,22 @@
+---
+title: OpenID Connect Authentication for SonarQube
+layout: plugin
+homepage: https://github.com/vaulttec/sonar-auth-oidc
+organization: Vaulttec
+organization_url: http://vaulttec.org
+download_url: https://github.com/vaulttec/sonar-auth-oidc/releases/download/v1.0.4/sonar-auth-oidc-plugin-1.0.4.jar
+download_version: 1.0.4
+download_description: Adds support for using the email in the login, and provides additional checks for the required user info claims
+download_date: 2018-05-10
+license: APACHE 2
+developers: Torsten Juergeleit
+sonarqube_version: 6.7.5-7.3
+category: integration
+description: Delegate authentication to OpenID
+details: 
+seo: 
+  name: OpenID Connect Authentication for SonarQube
+  headline: OpenID Connect Authentication for SonarQube - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -10,7 +10,7 @@ download_description: Better blame algorithm, new parameter for P4HOST
 download_date: 2016-02-18
 license: GNU LGPL 3
 developers: Julien Henry
-sonarqube_version: 5.0-5.6
+sonarqube_version: 6.7-7.2.1
 category: integration
 description: Provides Perforce integration
 details: 

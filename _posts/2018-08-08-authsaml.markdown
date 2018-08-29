@@ -1,0 +1,22 @@
+---
+title: SAML 2.0 Authentication for SonarQube
+layout: plugin
+homepage: https://docs.sonarqube.org/display/PLUG/SAML+Authentication+Plugin
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-auth-saml-plugin/sonar-auth-saml-plugin-1.0.0.116.jar
+download_version: 1.0
+download_description: Initial version
+download_date: 2018-08-08
+license: GNU LGPL 3
+developers: Julien Lancelot
+sonarqube_version: 6.7-7.3
+category: integration
+description: SAML 2.0 Authentication for SonarQube
+details: 
+seo: 
+  name: SAML 2.0 Authentication for SonarQube
+  headline: SAML 2.0 Authentication for SonarQube - SonarQube Plugin
+  type: ItemPage
+
+---

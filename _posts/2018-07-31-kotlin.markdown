@@ -1,0 +1,22 @@
+---
+title: SonarKotlin
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/kotlin.html
+organization: SonarSource
+organization_url: unkown
+download_url: https://sonarsource.bintray.com/Distribution/sonar-kotlin-plugin/sonar-kotlin-plugin-1.0.1.965.jar
+download_version: 1.0.1
+download_description: Fix to better handle files with Windows EOL
+download_date: 2018-07-31
+license: GNU LGPL 3
+developers: Eric Hartmann,Julien Henry,Evgeny Mandrikov,Olivier Gaudin,Simon Brandhof
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for Kotlin
+details: 
+seo: 
+  name: SonarKotlin
+  headline: SonarKotlin - SonarQube Plugin
+  type: ItemPage
+
+---

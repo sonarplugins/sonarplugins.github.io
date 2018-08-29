@@ -1,0 +1,22 @@
+---
+title: HA
+layout: plugin
+homepage: https://redirect.sonarsource.com/plugins/ha.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-ha-plugin/sonar-ha-plugin-7.1.jar
+download_version: 7.1
+download_description: Support for SonarQube 7.1
+download_date: 2018-04-17
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.1
+category: data center
+description: High availability
+details: 
+seo: 
+  name: HA
+  headline: HA - SonarQube Plugin
+  type: ItemPage
+
+---

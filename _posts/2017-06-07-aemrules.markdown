@@ -1,0 +1,22 @@
+---
+title: AEM Rules for SonarQube
+layout: plugin
+homepage: https://github.com/Cognifide/AEM-Rules-for-SonarQube
+organization: Cognifide Limited
+organization_url: http://www.cognifide.com
+download_url: https://github.com/Cognifide/AEM-Rules-for-SonarQube/releases/download/v0.9/aemrules-0.9.jar
+download_version: 0.9
+download_description: Compatibility with SonarJava 4.10
+download_date: 2017-06-07
+license: The Apache Software License, Version 2.0
+developers: Michal Chudy,Szymon Owczarzak
+sonarqube_version: 6.7-7.3
+category: external analysers
+description: Adds rules for AEM Java development
+details: 
+seo: 
+  name: AEM Rules for SonarQube
+  headline: AEM Rules for SonarQube - SonarQube Plugin
+  type: ItemPage
+
+---

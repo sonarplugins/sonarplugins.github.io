@@ -1,0 +1,22 @@
+---
+title: FxCop
+layout: plugin
+homepage: https://github.com/SonarQubeCommunity/sonar-fxcop
+organization: unkown
+organization_url: unkown
+download_url: https://github.com/DanielHWe/sonar-fxcop/releases/download/1.4.1_Release/sonar-fxcop-plugin-1.4.1.jar
+download_version: 1.4.1
+download_description: Auto scan for *.sln file if no parameter provided
+download_date: 2018-08-13
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 6.7-7.3
+category: languages
+description: Import FxCop issues in SonarQube
+details: 
+seo: 
+  name: FxCop
+  headline: FxCop - SonarQube Plugin
+  type: ItemPage
+
+---

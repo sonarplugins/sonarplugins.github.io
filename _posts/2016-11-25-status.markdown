@@ -1,0 +1,22 @@
+---
+title: SVG Badges
+layout: plugin
+homepage: https://github.com/QualInsight/qualinsight-plugins-sonarqube-status
+organization: QualInsight
+organization_url: http://www.qualinsight.com/
+download_url: https://github.com/QualInsight/qualinsight-plugins-sonarqube-badges/releases/download/qualinsight-plugins-sonarqube-badges-3.0.1/qualinsight-sonarqube-badges-3.0.1.jar
+download_version: 3.0.1
+download_description: Bug fixes
+download_date: 2016-11-25
+license: The GNU Lesser General Public License, Version 3.0
+developers: Michel Pawlak
+sonarqube_version: 6.7-7.3
+category: integration
+description: Provides project Quality Gate status badges
+details: 
+seo: 
+  name: SVG Badges
+  headline: SVG Badges - SonarQube Plugin
+  type: ItemPage
+
+---

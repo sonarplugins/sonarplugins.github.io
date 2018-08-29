@@ -1,0 +1,22 @@
+---
+title: SonarABAP
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/abap.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-abap-plugin/sonar-abap-plugin-3.6.0.1269.jar
+download_version: 3.6
+download_description: Update rules descriptions and add '.asprog' in default file extension list
+download_date: 2018-03-28
+license: SonarSource
+developers: unkown
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for ABAP
+details: 
+seo: 
+  name: SonarABAP
+  headline: SonarABAP - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -1,0 +1,22 @@
+---
+title: Findbugs
+layout: plugin
+homepage: https://github.com/spotbugs/sonar-findbugs/
+organization: SpotBugs Team
+organization_url: https://github.com/spotbugs/
+download_url: https://github.com/spotbugs/sonar-findbugs/releases/download/3.7.0/sonar-findbugs-plugin-3.7.0.jar
+download_version: 3.7
+download_description: Updates from upstream project SpotBugs, FB-contrib, FindSecurityBugs. New configurations available.
+download_date: 2018-03-26
+license: GNU LGPL 3
+developers: Evgeny Mandrikov,Nicolas Peru
+sonarqube_version: 6.7.1-7.2.1
+category: external analysers
+description: Provide Findbugs rules for analysis of Java projects
+details: 
+seo: 
+  name: Findbugs
+  headline: Findbugs - SonarQube Plugin
+  type: ItemPage
+
+---

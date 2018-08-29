@@ -1,0 +1,22 @@
+---
+title: License
+layout: plugin
+homepage: https://redirect.sonarsource.com/company/contact.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-license-plugin/sonar-license-plugin-3.4.jar
+download_version: 3.4
+download_description: Support staging instances without the need for new license generation
+download_date: 2018-08-06
+license: SonarSource
+developers: unkown
+sonarqube_version: 6.7.5
+category: support
+description: License and Support
+details: 
+seo: 
+  name: License
+  headline: License - SonarQube Plugin
+  type: ItemPage
+
+---

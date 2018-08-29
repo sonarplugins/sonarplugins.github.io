@@ -1,0 +1,22 @@
+---
+title: Sonar i-Code CNES plugin
+layout: plugin
+homepage: https://github.com/lequal/sonar-icode-cnes-plugin
+organization: CNES
+organization_url: http://cnes.fr
+download_url: https://github.com/lequal/sonar-icode-cnes-plugin/releases/download/1.0.2/sonar-icode-cnes-plugin-1.0.2.jar
+download_version: 1.0.2
+download_description: Initial Marketplace entry
+download_date: 2018-08-01
+license: GNU General Public License, Version 3.0
+developers: Cyrille Francois,Nicolas Métivier,Benoît Garçon
+sonarqube_version: 6.7-7.3
+category: external analyzers
+description: Import i-Code CNES results for Fortran(77 & 90) and Shell
+details: 
+seo: 
+  name: Sonar i-Code CNES plugin
+  headline: Sonar i-Code CNES plugin - SonarQube Plugin
+  type: ItemPage
+
+---

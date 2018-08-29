@@ -1,0 +1,22 @@
+---
+title: SonarTSQL
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/tsql.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-tsql-plugin/sonar-tsql-plugin-1.2.0.2539.jar
+download_version: 1.2
+download_description: 14 new rules and automatic computation of uncovered lines of code when no test
+download_date: 2018-03-21
+license: SonarSource
+developers: unkown
+sonarqube_version: 6.7-7.3
+category: languages
+description: Code Analyzer for T-SQL
+details: 
+seo: 
+  name: SonarTSQL
+  headline: SonarTSQL - SonarQube Plugin
+  type: ItemPage
+
+---

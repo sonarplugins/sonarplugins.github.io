@@ -1,0 +1,22 @@
+---
+title: French Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-fr
+organization: unkown
+organization_url: unkown
+download_url: https://github.com/ZoeThivet/sonar-l10n-fr/releases/download/1.15/sonar-l10n-fr-plugin-1.15.jar
+download_version: 1.15
+download_description: Support SonarQube 6.7 LTS
+download_date: 2018-06-05
+license: GNU LGPL 3
+developers: Baptiste Mathus
+sonarqube_version: 6.7.5-7.3
+category: localization
+description: Language Pack for French
+details: 
+seo: 
+  name: French Pack
+  headline: French Pack - SonarQube Plugin
+  type: ItemPage
+
+---

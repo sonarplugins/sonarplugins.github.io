@@ -1,0 +1,22 @@
+---
+title: Portuguese Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-pt
+organization: Felipe Zorzo
+organization_url: https://github.com/felipebz/sonar-l10n-pt
+download_url: https://github.com/felipebz/sonar-l10n-pt/releases/download/v6.4/sonar-l10n-pt-plugin-6.4.jar
+download_version: 6.4
+download_description: Support for SonarQube 6.4
+download_date: 2017-06-07
+license: GNU LGPL 3
+developers: Marcos Oliveira Junqueira,Mario Celso Teixeira,Felipe Zorzo
+sonarqube_version: 6.7-7.3
+category: localization
+description: Language Pack for Portuguese
+details: 
+seo: 
+  name: Portuguese Pack
+  headline: Portuguese Pack - SonarQube Plugin
+  type: ItemPage
+
+---

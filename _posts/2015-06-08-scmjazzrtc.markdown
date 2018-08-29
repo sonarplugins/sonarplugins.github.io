@@ -10,7 +10,7 @@ download_description: Bug fixes and a minor improvement
 download_date: 2015-06-08
 license: GNU LGPL 3
 developers: Julien Henry
-sonarqube_version: 5.1-5.6
+sonarqube_version: 6.7-7.2.1
 category: integration
 description: Provides SCM Jazz RTC integration
 details: 

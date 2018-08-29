@@ -1,0 +1,22 @@
+---
+title: LDAP
+layout: plugin
+homepage: https://redirect.sonarsource.com/plugins/ldap.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://sonarsource.bintray.com/Distribution/sonar-ldap-plugin/sonar-ldap-plugin-2.2.0.608.jar
+download_version: 2.2
+download_description: Allow to not follow referrals, deprecate auto-discovery feature
+download_date: 2017-07-07
+license: GNU LGPL 3
+developers: Evgeny Mandrikov,Sulabh Upadhyay
+sonarqube_version: 6.7-7.3
+category: integration
+description: Delegates authentication and authorization to LDAP.
+details: 
+seo: 
+  name: LDAP
+  headline: LDAP - SonarQube Plugin
+  type: ItemPage
+
+---
