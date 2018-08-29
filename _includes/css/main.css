@@ -149,9 +149,12 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
     font-family: Roboto,sans-serif;
     font-weight: 700;
+}
+
+.navbar-option {
+    text-transform: uppercase;
 }
 
 .navbar a:focus {
