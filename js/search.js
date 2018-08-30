@@ -26,6 +26,9 @@
           if(item.license == 'Commercial') {
               appendString += '<h5 class="label label-danger">' + item.license + '</h5>'
           }
+          if(item.license == 'SonarSource') {
+              appendString += '<h5 class="label label-danger">Commercial</h5>'
+          }
           appendString += '</div>'
           appendString += '</a>'
           appendString += '</div>'

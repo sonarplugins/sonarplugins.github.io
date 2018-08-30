@@ -62,6 +62,10 @@
                                                 {{ page.license }}
                                             </h5>
                                         </a>
+                                    {% else if post.license == "SonarSource" %}
+                                    <h5 class="label label-danger">
+                                        Commercial
+                                    </h5>
                                     {% else %}
                                         <a href="/search.html?query={{ page.license }}">
                                             <h5 class="label label-primary">
