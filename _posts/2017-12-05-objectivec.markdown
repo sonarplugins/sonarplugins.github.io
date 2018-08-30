@@ -10,7 +10,7 @@ download_description: Support for SQ 6.7
 download_date: 2017-12-05
 license: GNU LGPL 3
 developers: Romain Felden, Mete Balci, Nicolae Ghimbovschi, Alper Kanat
-sonarqube_version: 5.3-5.6
+sonarqube_version: 6.7
 category: deprecated
 description: This plugin is not maintained anymore. Please switch to our Swift plugin both for Swift or Objective-C
 details: Supported features include complexity (uses Lizard), documentation, duplications, issues (uses OCLint and Faux Pas), size, tests (uses xctool) and code coverage (uses gcovr and slather) 

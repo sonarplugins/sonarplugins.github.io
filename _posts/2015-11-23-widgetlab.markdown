@@ -11,7 +11,7 @@ download_date: 2015-11-23
 license: GNU LGPL 3
 developers: G. Ann Campbell,Patroklos Papapetrou
 sonarqube_version: 5.1-5.6
-category: visualization/reporting
+category: deprecated
 description: Provides additional widgets
 details: 
 seo: 

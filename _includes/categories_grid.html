@@ -9,6 +9,7 @@
             </div>
             <div class="row">
                 {% for category in site.categories %}
+                    {% if category[0] != "deprecated" %}
                     <div class="col-sm-4">
                         <a href="/search.html?query={{ category[0] }}">
                             <div>
@@ -16,6 +17,19 @@
                             </div>  
                         </a>
                     </div>
+                    {% endif %}
+                {% endfor %}
+                
+                {% for category in site.categories %}
+                    {% if category[0] == "deprecated" %}
+                    <div class="col-sm-4">
+                        <a href="/search.html?query={{ category[0] }}">
+                            <div>
+                                <h3><span class="label label-warning">{{ category[0] }}</span>&nbsp<span class="label label-default">{{ category[1].size }}</span></h3>
+                            </div>  
+                        </a>
+                    </div>
+                    {% endif %}                
                 {% endfor %}
             </div>
         </div>

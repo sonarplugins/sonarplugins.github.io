@@ -11,7 +11,7 @@ download_date: 2014-06-29
 license: GNU LGPL 3
 developers: John M. Wright,Dinesh Bolkensteyn
 sonarqube_version: 4.5.2-5.6
-category: external analysers
+category: deprecated
 description: Provides support of R# code analysis 
 details: 
 seo: 

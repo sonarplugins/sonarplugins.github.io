@@ -11,7 +11,7 @@ download_date: 2013-01-26
 license: MIT
 developers: Duncan McDonald,Patroklos PAPAPETROU
 sonarqube_version: 4.5.1-5.1.2
-category: additional metrics
+category: deprecated
 description: Retrieves and reports the number of project issues from a Trac instance.
 details: 
 seo: 

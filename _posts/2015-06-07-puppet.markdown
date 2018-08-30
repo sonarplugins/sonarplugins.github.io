@@ -11,7 +11,7 @@ download_date: 2015-06-07
 license: MIT
 developers: Iain Adams and David RACODON
 sonarqube_version: 4.5.7-5.6
-category: languages
+category: deprecated
 description: Enables scanning of Puppet files
 details: 
 seo: 

@@ -11,7 +11,7 @@ download_date: 2015-12-14
 license: GNU LGPL 3
 developers: Eric Hartmann,Julien Henry,Evgeny Mandrikov,Olivier Gaudin,Simon Brandhof
 sonarqube_version: 4.5.2-5.6
-category: additional metrics
+category: deprecated
 description: Imports coverage reports defined in the specified format. Coverage applied to files of any language.
 details: 
 seo: 

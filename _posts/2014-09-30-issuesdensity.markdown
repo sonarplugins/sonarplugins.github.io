@@ -11,7 +11,7 @@ download_date: 2014-09-30
 license: GNU LGPL 3
 developers: Julien Lancelot
 sonarqube_version: 4.5.1-5.1.2
-category: additional metrics
+category: deprecated
 description: Plugin that computes the former (and deprecated) RCI related metrics
 details: 
 seo: 

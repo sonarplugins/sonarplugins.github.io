@@ -11,7 +11,7 @@ download_date: 2014-06-16
 license: GNU LGPL 3
 developers: Fabrice Bellingard,Simon Brandhof,Cedric Munger
 sonarqube_version: 4.5.1-5.6
-category: visualization/reporting
+category: deprecated
 description: Display how a set of metrics evolves over time (requires an internet access).
 details: 
 seo: 

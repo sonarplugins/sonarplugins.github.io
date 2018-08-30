@@ -11,7 +11,7 @@ download_date: 2015-04-07
 license: GNU LGPL 3
 developers: Cedric Munger,Simon Brandhof,Evgeny Mandrikov,Fabrice Bellingard,Jean-Baptiste Lièvremont
 sonarqube_version: 5.1-5.6
-category: visualization/reporting
+category: deprecated
 description: Advanced time machine chart (requires an internet access).
 details: 
 seo: 

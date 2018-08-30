@@ -11,9 +11,9 @@ download_date: 2013-07-03
 license: GNU LGPL 3
 developers: unkown
 sonarqube_version: 4.5.1-5.4
-category: integration
-description: Connects SonarQube to Atlassian JIRA in various ways.
-details: 
+category: deprecated
+description: Connects SonarQube to Atlassian JIRA in various ways. This plugin is deprecated and no longer working.
+details: There is an app, <a href="https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?hosting=server&tab=overview">SonarQube Connector for Jira</a>, that provides integration between Jira and SonarQube.
 seo: 
   name: JIRA
   headline: JIRA - SonarQube Plugin

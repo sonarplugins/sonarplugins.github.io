@@ -11,7 +11,7 @@ download_date: 2014-09-16
 license: GNU LGPL 3
 developers: unkown
 sonarqube_version: 4.5.1-5.6
-category: integration
+category: deprecated
 description: Add the Google Analytics tracking script to the SonarQube web application.
 details: 
 seo: 

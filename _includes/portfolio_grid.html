@@ -26,7 +26,11 @@
                                 <h3>{{ post.title }}</h3>
                                 <span class=style="color: green">{{ post.download_date }}</span>
                                 <p>{{ post.description }}</p>
+                                {% if post.category == "deprecated" %}
+                                <h5 class="label label-warning">{{ post.category }}</h5>
+                                {% else %}
                                 <h5 class="label label-success">{{ post.category }}</h5>
+                                {% endif %}
                                 {% if post.license == "Commercial" %}
                                 <h5 class="label label-danger">
                                     {{ post.license }}

@@ -11,7 +11,7 @@ download_date: 2012-06-06
 license: GNU LGPL v3
 developers: unkown
 sonarqube_version: 4.5.1-4.5.7
-category: additional metrics
+category: deprecated
 description: Plugin for the acceptance testing tool Thucydides
 details: 
 seo: 

@@ -11,9 +11,9 @@ download_date: 2015-02-11
 license: GNU LGPL 3
 developers: Antonio Manuel Muñiz Martín
 sonarqube_version: 4.5.1-4.5.7
-category: governance
+category: deprecated
 description: Sonar and Maven plugin for PDF reporting
-details: 
+details: This plugin is no longer maintained
 seo: 
   name: PDF Report
   headline: PDF Report - SonarQube Plugin

@@ -11,7 +11,7 @@ download_date: 2010-11-14
 license: GNU LGPL v3
 developers: unkown
 sonarqube_version: 4.5.1-4.5.7
-category: integration
+category: deprecated
 description: Integrates with Piwik.
 details: 
 seo: 

@@ -11,7 +11,7 @@ download_date: 2014-09-22
 license: GNU LGPL 3
 developers: Jesús Badenas Martínez
 sonarqube_version: 4.5.1-5.6
-category: visualization/reporting
+category: deprecated
 description: Add a new tab containing metrics information at file level
 details: 
 seo: 

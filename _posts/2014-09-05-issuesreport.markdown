@@ -11,7 +11,7 @@ download_date: 2014-09-05
 license: GNU LGPL 3
 developers: Julien Henry
 sonarqube_version: 4.5.1-5.0.1
-category: developer tools
+category: deprecated
 description: Generate a report of SonarQube issues.
 details: 
 seo: 

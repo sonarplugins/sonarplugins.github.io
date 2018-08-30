@@ -11,9 +11,9 @@ download_date: 2016-01-11
 license: Commercial
 developers: unkown
 sonarqube_version: 5.3-5.4
-category: governance
-description: Application Portfolio Management. Create aggregation trees to group projects. Projects can for instance be grouped by applications, applications by team, teams by department.
-details: The Portfolio Management plugin provides the ability to group projects and sub-views, and compute measures on the aggregation. Further, a “project” dashboard is available for each view, with the same ability to drill down for details that you have with a project. Additionally, the aggregation you can perform in a view is not limited to projects hosted on the current SonarQube server, but can also be extended to remote SonarQube servers. Each view has a tree structure, and can contain an unlimited number of projects and subviews.
+category: deprecated
+description: This plugin has been integrated into SonarQube Governance plugin in Enterprise Edition
+details: 
 seo:
   name: Views 
   headline: Views - SonarQube Plugin

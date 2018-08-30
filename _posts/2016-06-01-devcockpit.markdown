@@ -11,9 +11,9 @@ download_date: 2016-06-01
 license: Commercial
 developers: unkown
 sonarqube_version: 5.6
-category: developer tools
+category: deprecated
 description: Enables developers to identify their individual contributions to a project and fosters best practices in code quality self-management
-details: 
+details: This plugin is no longer maintained.
 seo: 
   name: Developer Cockpit
   headline: Developer Cockpit - SonarQube Plugin

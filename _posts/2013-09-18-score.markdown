@@ -11,7 +11,7 @@ download_date: 2013-09-18
 license: Apache License 2
 developers: TJamesBoone, margiwomack, lsajeev
 sonarqube_version: 3.4.1
-category: governance
+category: deprecated
 description: SCORE (Sonar Code Organized Rewards Engine) is a plugin for SonarQube™ that adds personalization and rewards to SonarQube™. 
 details: It is designed to foster code quality by bringing Gamification principles to the SonarQube™ Server, encouraging a healthy sense of competition for quality code between teams of developers.
 seo: 

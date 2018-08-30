@@ -11,7 +11,7 @@ download_date: 2015-05-08
 license: GNU LGPL 3
 developers: Evgeny Mandrikov,Julien Henry
 sonarqube_version: 4.5.1-5.1.2
-category: additional metrics
+category: deprecated
 description: Provides the ability to collect information about stability of build
 details: 
 seo: 

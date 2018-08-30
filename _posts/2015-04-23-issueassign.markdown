@@ -11,7 +11,7 @@ download_date: 2015-04-23
 license: GNU LGPL 3
 developers: Tim Webster
 sonarqube_version: 5.1-5.1.2
-category: developer tools
+category: deprecated
 description: Assigns issues to Sonar users
 details: 
 seo: 

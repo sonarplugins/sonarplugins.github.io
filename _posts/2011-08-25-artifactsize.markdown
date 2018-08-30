@@ -11,7 +11,7 @@ download_date: 2011-08-25
 license: GNU LGPL 3
 developers: unkown
 sonarqube_version: 4.5.1-4.5.7
-category: additional metrics
+category: deprecated
 description: Provides the size of generated artefacts
 details: 
 seo: 
