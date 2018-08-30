@@ -4,7 +4,7 @@ layout: plugin
 homepage: http://www.bitegarden.com/sonarqube-portfolio
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-portfolio&productVersion=1.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=bitegarden&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://www.bitegarden.com/sonarqube-portfolio
 download_version: 1.0
 download_description: Portfolio summary overview
 download_date: 2018-08-27
