@@ -15,7 +15,7 @@ category: governance
 description: SonarQube Security Plugin will provide you a new brand security space in your SonarQube project where you will be able to see all the details about the security assement
 details: SonarQube Security Plugin is a perfect tool for those developers who worry about the quality and security of their code. Representing the level of security risk of your project makes it much more easier for you to manage your code security.
 seo: 
-  name: SQALE
-  headline: SonarQube SQALE Plugin
+  name: Security
+  headline: SonarQube Security Plugin
   type: ItemPage
 ---
