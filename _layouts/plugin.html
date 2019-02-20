@@ -62,16 +62,25 @@
                                                 {{ page.license }}
                                             </h5>
                                         </a>
-                                    {% else if post.license == "SonarSource" %}
-                                    <h5 class="label label-danger">
-                                        Commercial
-                                    </h5>
                                     {% else %}
+                                        {% if page.license == "SonarSource" %}
+                                        <a href="/search.html?query={{ page.license }}">
+                                          <h5 class="label label-primary">
+                                              SonarSource
+                                          </h5>&nbsp;
+                                        </a>
+                                        <a href="/search.html?query=Commercial">
+                                            <h5 class="label label-danger">
+                                              Commercial
+                                            </h5>
+                                        </a>
+                                        {% else %}
                                         <a href="/search.html?query={{ page.license }}">
                                             <h5 class="label label-primary">
                                                 {{ page.license }}
                                             </h5>
                                         </a>
+                                        {% endif %}
                                     {% endif %}
                                 </li>
                             </ul>
