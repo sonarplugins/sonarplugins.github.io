@@ -1,8 +1,8 @@
 ---
-title: ReSharper CTL
+title: ReSharper CLT
 layout: plugin
 homepage: https://github.com/Soloplan/resharper-clt-plugin
-organization: SoloPlan
+organization: Soloplan
 organization_url: https://www.soloplan.com
 download_url: https://github.com/Soloplan/resharper-clt-plugin/releases
 download_version: 1.0
@@ -15,8 +15,8 @@ category: external analysers
 description: This plugin enables the analysis of C# and VisualBasic.NET source files contained in .NET projects using the output of the InspectCode JetBrains ReSharper Command Line Tool.
 details:  
 seo: 
-  name: ReSharper CTL
-  headline: ReSharper CTL - SonarQube Plugin
+  name: ReSharper CLT
+  headline: ReSharper CLT - SonarQube Plugin
   type: ItemPage
 
 ---
