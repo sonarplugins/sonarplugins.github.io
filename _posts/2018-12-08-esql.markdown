@@ -2,12 +2,12 @@
 title: ESQL
 layout: plugin
 homepage: https://github.com/EXXETA/sonar-esql-plugin
-organization: BCT
+organization: EXXETA
 organization_url: https://www.exxeta.com
-download_url: https://github.com/EXXETA/sonar-esql-plugin/releases/download/2.3.4/esql-plugin-2.3.4.jar
-download_version: 2.3.4
+download_url: https://github.com/EXXETA/sonar-esql-plugin/releases/download/2.3.5/esql-plugin-2.3.5.jar
+download_version: 2.3.5
 download_description: Bugfix release
-download_date: 2018-03-10
+download_date: 2018-12-08
 license: Apache License, Version 2.0
 developers: Thomas Pohl
 sonarqube_version: 6.7-7.3
