@@ -1,7 +1,7 @@
 ---
 title: PDF Report
 layout: plugin
-homepage: https://github.com/SonarCommunity/sonar-pdf-report
+homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
 organization_url: http://www.bitegarden.com
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
