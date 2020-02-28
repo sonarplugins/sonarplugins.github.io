@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=pdf-plugin&customerSurnames=marketplace&customerCompany=sonarplugins
 download_version: 2.0
 download_description: Supports SonarQube 7.9 or later
 download_date: 2020-02-05
