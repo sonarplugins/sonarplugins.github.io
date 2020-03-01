@@ -1,0 +1,22 @@
+---
+title: SonarABAP
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/abap.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/CommercialDistribution/sonar-abap-plugin/sonar-abap-plugin-3.8.0.2034.jar
+download_version: 3.8
+download_description: 8 new rules (3 Vulnerabilities, 3 Security Hotspots, 2 Code Smells)
+download_date: 2019-06-05
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for ABAP
+details: 
+seo: 
+  name: SonarABAP
+  headline: SonarABAP - SonarQube Plugin
+  type: ItemPage
+
+---

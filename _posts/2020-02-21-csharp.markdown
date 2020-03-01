@@ -1,0 +1,22 @@
+---
+title: SonarC#
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/csharp.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-csharp-plugin/sonar-csharp-plugin-8.4.0.15306.jar
+download_version: 8.4
+download_description: new security rule to detect XXE vulnerabilities 
+download_date: 2020-02-21
+license: GNU LGPL 3
+developers: Amaury Levé,Valeri Hristov,Janos Gyerik,Duarte Meneses,Julien Henry
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for C#
+details: 
+seo: 
+  name: SonarC#
+  headline: SonarC# - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -11,7 +11,7 @@ download_date: 2018-08-01
 license: GNU General Public License, Version 3.0
 developers: Cyrille Francois,Nicolas Métivier,Benoît Garçon
 sonarqube_version: 6.7-7.3
-category: external analyzers
+category: deprecated
 description: Import i-Code CNES results for Fortran(77 & 90) and Shell
 details: 
 seo: 

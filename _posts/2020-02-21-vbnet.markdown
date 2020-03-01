@@ -1,0 +1,22 @@
+---
+title: SonarVB
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/vbnet.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-vbnet-plugin/sonar-vbnet-plugin-8.4.0.15306.jar
+download_version: 8.4
+download_description: Rule improvements, bug fixes
+download_date: 2020-02-21
+license: GNU LGPL 3
+developers: Amaury Levé,Valeri Hristov,Janos Gyerik,Duarte Meneses,Julien Henry
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for VB.NET
+details: 
+seo: 
+  name: SonarVB
+  headline: SonarVB - SonarQube Plugin
+  type: ItemPage
+
+---

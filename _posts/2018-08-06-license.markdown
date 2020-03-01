@@ -11,7 +11,7 @@ download_date: 2018-08-06
 license: SonarSource
 developers: unkown
 sonarqube_version: 6.7.5
-category: support
+category: deprecated
 description: License and Support
 details: 
 seo: 

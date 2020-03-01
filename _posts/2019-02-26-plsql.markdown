@@ -1,0 +1,22 @@
+---
+title: SonarPLSQL
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/plsql.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/CommercialDistribution/sonar-plsql-plugin/sonar-plsql-plugin-3.4.1.2576.jar
+download_version: 3.4.1
+download_description: 15 new rules + SonarLint compatibility
+download_date: 2019-02-26
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for PL/SQL
+details: 
+seo: 
+  name: SonarPLSQL
+  headline: SonarPLSQL - SonarQube Plugin
+  type: ItemPage
+
+---

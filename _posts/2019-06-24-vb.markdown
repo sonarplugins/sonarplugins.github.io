@@ -1,0 +1,22 @@
+---
+title: SonarVB6
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/vb.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/CommercialDistribution/sonar-vb-plugin/sonar-vb-plugin-2.6.0.1875.jar
+download_version: 2.6
+download_description: Fix some false positives and bugs.
+download_date: 2019-06-24
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code analyzer for Visual Basic 6
+details: 
+seo: 
+  name: SonarVB6
+  headline: SonarVB6 - SonarQube Plugin
+  type: ItemPage
+
+---

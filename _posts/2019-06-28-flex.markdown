@@ -1,0 +1,22 @@
+---
+title: SonarFlex
+layout: plugin
+homepage: http://docs.sonarqube.org/display/PLUG/Flex+Plugin
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-flex-plugin/sonar-flex-plugin-2.5.1.1831.jar
+download_version: 2.5.1
+download_description: Fix a bug making rule S1871 fail on empty block
+download_date: 2019-06-28
+license: GNU LGPL 3
+developers: Olivier Gaudin,Evgeny Mandrikov,Fabrice Bellingard,Linda Martin
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code analyzer for Flex
+details: 
+seo: 
+  name: SonarFlex
+  headline: SonarFlex - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -1,0 +1,22 @@
+---
+title: SonarHTML
+layout: plugin
+homepage: https://redirect.sonarsource.com/plugins/web.html
+organization: SonarSource and Matthijs Galesloot
+organization_url: unkown
+download_url: https://binaries.sonarsource.com/Distribution/sonar-html-plugin/sonar-html-plugin-3.2.0.2082.jar
+download_version: 3.2
+download_description: 7 new rules detecting accessibility issues, 1 Vulnerability rule, Vue.js support, Improve HTML parsing
+download_date: 2019-08-22
+license: The Apache Software License, Version 2.0
+developers: Matthijs Galesloot,Fabrice Bellingard,Dinesh Bolkensteyn
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code analyzer for HTML including JSP, JSF and other formats.
+details: 
+seo: 
+  name: SonarHTML
+  headline: SonarHTML - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -1,0 +1,22 @@
+---
+title: SonarPLI
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/pli.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/CommercialDistribution/sonar-pli-plugin/sonar-pli-plugin-1.10.0.1880.jar
+download_version: 1.10
+download_description: Fix parsing issues support NOEXECOPS option and DEFINED attribute with a qualified reference
+download_date: 2019-06-24
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for PL/I
+details: 
+seo: 
+  name: SonarPLI
+  headline: SonarPLI - SonarQube Plugin
+  type: ItemPage
+
+---

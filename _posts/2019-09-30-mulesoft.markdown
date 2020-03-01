@@ -1,0 +1,22 @@
+---
+title: Mulesoft
+layout: plugin
+homepage: https://github.com/UltimateSoftware/sonar-mulesoft
+organization: SonarSource
+organization_url: http://www.ultimatesoftware.com
+download_url: https://search.maven.org/remotecontent?filepath=com/ultimatesoftware/sonar/plugins/mulesoft/mulesoftplugin/0.5.1-RELEASE/mulesoftplugin-0.5.1-RELEASE.jar
+download_version: 0.5.1
+download_description: Initial release, includes basic support for analyzing Mulesoft test coverage reports.
+download_date: 2019-09-30
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: coverage
+description: Coverage analyzer for Mulesoft Workflows
+details: 
+seo: 
+  name: Mulesoft
+  headline: Mulesoft - SonarQube Plugin
+  type: ItemPage
+
+---

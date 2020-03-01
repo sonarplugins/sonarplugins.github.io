@@ -1,0 +1,22 @@
+---
+title: SonarXML
+layout: plugin
+homepage: https://redirect.sonarsource.com/plugins/xml.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-xml-plugin/sonar-xml-plugin-2.0.1.2020.jar
+download_version: 2.0.1
+download_description: SonarLint support, 4 new rules, precise issue locations for all rules, drop of S2322
+download_date: 2019-01-14
+license: GNU LGPL 3
+developers: SonarSource Team
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for XML
+details: 
+seo: 
+  name: SonarXML
+  headline: SonarXML - SonarQube Plugin
+  type: ItemPage
+
+---

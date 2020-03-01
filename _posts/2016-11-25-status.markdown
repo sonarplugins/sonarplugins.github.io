@@ -11,7 +11,7 @@ download_date: 2016-11-25
 license: The GNU Lesser General Public License, Version 3.0
 developers: Michel Pawlak
 sonarqube_version: 6.7-7.3
-category: integration
+category: deprecated
 description: Provides project Quality Gate status badges
 details: 
 seo: 

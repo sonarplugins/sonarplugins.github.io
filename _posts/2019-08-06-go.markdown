@@ -1,0 +1,22 @@
+---
+title: SonarGo
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/go.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-go-plugin/sonar-go-plugin-1.6.0.719.jar
+download_version: 1.6
+download_description: Add 6 new rules, improve existing rules, import golangci-lint issues reports and drop 8 rules.
+download_date: 2019-08-06
+license: GNU LGPL 3
+developers: SonarSource Team
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for Go
+details: 
+seo: 
+  name: SonarGo
+  headline: SonarGo - SonarQube Plugin
+  type: ItemPage
+
+---

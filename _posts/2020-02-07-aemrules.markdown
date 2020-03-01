@@ -1,0 +1,22 @@
+---
+title: AEM Rules for SonarQube
+layout: plugin
+homepage: https://github.com/Cognifide/AEM-Rules-for-SonarQube
+organization: Cognifide Limited
+organization_url: http://www.cognifide.com
+download_url: https://github.com/Cognifide/AEM-Rules-for-SonarQube/releases/download/v1.0/sonar-aemrules-plugin-1.0.jar
+download_version: 1.0
+download_description: HTL Support
+download_date: 2020-02-07
+license: The Apache Software License, Version 2.0
+developers: Michal Chudy,Szymon Owczarzak,Piotr Wilczyński,Michał Tobiasz,Mateusz Bartkowiak,Jędrzej Pluciński
+sonarqube_version: 7.9-8.2
+category: external analysers
+description: Adds rules for AEM Java development
+details: 
+seo: 
+  name: AEM Rules for SonarQube
+  headline: AEM Rules for SonarQube - SonarQube Plugin
+  type: ItemPage
+
+---

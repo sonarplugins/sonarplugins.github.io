@@ -1,0 +1,22 @@
+---
+title: SonarPython
+layout: plugin
+homepage: https://redirect.sonarsource.com/plugins/python.html
+organization: SonarSource and Waleri Enns
+organization_url: unkown
+download_url: https://binaries.sonarsource.com/Distribution/sonar-python-plugin/sonar-python-plugin-2.5.0.5733.jar
+download_version: 2.5
+download_description: 9 security rules targeting OWASP Top 2017 and relying on type inference
+download_date: 2020-02-14
+license: GNU LGPL 3
+developers: Waleri Enns,Evgeny Mandrikov,Linda Martin
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for Python
+details: 
+seo: 
+  name: SonarPython
+  headline: SonarPython - SonarQube Plugin
+  type: ItemPage
+
+---

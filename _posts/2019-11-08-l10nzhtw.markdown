@@ -1,0 +1,22 @@
+---
+title: Traditional Chinese Language Pack
+layout: plugin
+homepage: https://github.com/timlee/sonar-l10n-zh-tw
+organization: Tim Lee
+organization_url: https://github.com/SonarQubeCommunity/sonar-l10n-zhtw
+download_url: https://github.com/timlee/sonar-l10n-zh-tw/releases/download/v1.0/sonar-l10n-zhtw-plugin-1.0.jar
+download_version: 1.0
+download_description: SonarQube Traditional Chinese Pack
+download_date: 2019-11-08
+license: GNU LGPL 3
+developers: Tim Lee
+sonarqube_version: 7.9-8.2
+category: localization
+description: SonarQube Traditional Chinese Language Pack (not compatible with the "Chinese Pack" which uses Simplified Chinese)
+details: 
+seo: 
+  name: Traditional Chinese Language Pack
+  headline: Traditional Chinese Language Pack - SonarQube Plugin
+  type: ItemPage
+
+---

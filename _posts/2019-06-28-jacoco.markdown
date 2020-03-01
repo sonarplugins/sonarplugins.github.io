@@ -1,0 +1,22 @@
+---
+title: JaCoCo
+layout: plugin
+homepage: https://docs.sonarqube.org/display/PLUG/JaCoCo+Plugin
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-jacoco-plugin/sonar-jacoco-plugin-1.0.2.475.jar
+download_version: 1.0.2
+download_description: Minor improvements
+download_date: 2019-06-28
+license: GNU LGPL 3
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Import JaCoCo XML Reports
+details: 
+seo: 
+  name: JaCoCo
+  headline: JaCoCo - SonarQube Plugin
+  type: ItemPage
+
+---

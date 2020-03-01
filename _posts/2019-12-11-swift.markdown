@@ -1,0 +1,22 @@
+---
+title: SonarSwift
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/swift.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/CommercialDistribution/sonar-swift-plugin/sonar-swift-plugin-4.2.2.77.jar
+download_version: 4.2.2
+download_description: Fix Swift 5.1 Support identifiers starting with '$' 
+download_date: 2019-12-11
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for Swift
+details: 
+seo: 
+  name: SonarSwift
+  headline: SonarSwift - SonarQube Plugin
+  type: ItemPage
+
+---

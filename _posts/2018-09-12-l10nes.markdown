@@ -1,0 +1,22 @@
+---
+title: L10n Spanish Pack
+layout: plugin
+homepage: https://github.com/SonarCommunity/sonar-l10n-es
+organization: excentia
+organization_url: http://www.excentia.es
+download_url: https://github.com/acalero/sonar-l10n-es/releases/download/sonar-l10n-es-plugin-1.14/sonar-l10n-es-plugin-1.14.jar
+download_version: 1.14
+download_description: Support for SonarQube 6.7+
+download_date: 2018-09-12
+license: GNU LGPL 3
+developers: Rubén Melcón,Antonio Calero
+sonarqube_version: 7.9-8.2
+category: localization
+description: Language Pack for Spanish
+details: 
+seo: 
+  name: L10n Spanish Pack
+  headline: L10n Spanish Pack - SonarQube Plugin
+  type: ItemPage
+
+---

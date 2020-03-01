@@ -1,0 +1,22 @@
+---
+title: MyBatis Plugin for SonarQube
+layout: plugin
+homepage: https://github.com/donhui/sonar-mybatis
+organization: unkown
+organization_url: unkown
+download_url: https://github.com/donhui/sonar-mybatis/releases/download/1.0.6/sonar-mybatis-plugin-1.0.6.jar
+download_version: 1.0.6
+download_description: performance optimization, remove useless hooks and update sonar.apiVersion to 7.9
+download_date: 2019-11-08
+license: Apache License, Version 2.0
+developers: donghui
+sonarqube_version: 7.9-8.2
+category: external analysers
+description: Rules to check SQL statements in MyBatis Mapper XML files.
+details: 
+seo: 
+  name: MyBatis Plugin for SonarQube
+  headline: MyBatis Plugin for SonarQube - SonarQube Plugin
+  type: ItemPage
+
+---

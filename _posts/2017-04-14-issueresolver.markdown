@@ -11,7 +11,7 @@ download_date: 2017-04-14
 license: Apache License, Version 2.0
 developers: Robert Willems of Brilman
 sonarqube_version: 6.7-7.3
-category: visualization/reporting
+category: deprecated
 description: Allows issue synching between branches
 details: 
 seo: 

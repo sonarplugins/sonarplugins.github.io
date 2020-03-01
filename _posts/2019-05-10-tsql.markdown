@@ -1,0 +1,22 @@
+---
+title: SonarTSQL
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/tsql.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/CommercialDistribution/sonar-tsql-plugin/sonar-tsql-plugin-1.4.0.3334.jar
+download_version: 1.4
+download_description: 22 new T-SQL syntaxes supported
+download_date: 2019-05-10
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for T-SQL
+details: 
+seo: 
+  name: SonarTSQL
+  headline: SonarTSQL - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -1,0 +1,22 @@
+---
+title: Azure Active Directory (AAD) Authentication Plug-in for SonarQube
+layout: plugin
+homepage: https://github.com/hkamel/sonar-auth-aad
+organization: ALM | DevOps Rangers
+organization_url: https://aka.ms/vsar
+download_url: https://github.com/hkamel/sonar-auth-aad/releases/download/1.2.0/sonar-auth-aad-plugin-1.2.0.jar
+download_version: 1.2.0
+download_description: Group sync enhancements including transitive members. Code cleanup.
+download_date: 2020-02-05
+license: The MIT License (MIT)
+developers: Hosam Kamel,Michael Johnson
+sonarqube_version: 7.9-8.2
+category: integration
+description: Allows the use of Azure Active Directory as an authentication source for SonarQube.
+details: 
+seo: 
+  name: Azure Active Directory (AAD) Authentication Plug-in for SonarQube
+  headline: Azure Active Directory (AAD) Authentication Plug-in for SonarQube - SonarQube Plugin
+  type: ItemPage
+
+---

@@ -11,7 +11,7 @@ download_date: 2016-02-18
 license: GNU LGPL 3
 developers: Julien Henry
 sonarqube_version: 6.7-7.2.1
-category: integration
+category: deprecated
 description: Provides Perforce integration
 details: 
 seo: 

@@ -1,0 +1,22 @@
+---
+title: SoftVis3D Sonar plugin
+layout: plugin
+homepage: http://softvis3d.com
+organization: Stefan Rinderle and Yvo Niedrich
+organization_url: http://softvis3d.com
+download_url: https://github.com/stefanrinderle/softvis3d/releases/download/softvis3d-1.1.0/sonar-softvis3d-plugin-1.1.0.jar
+download_version: 1.1.0
+download_description: Plugin is now adapted to the new directory layout concept.
+download_date: 2019-04-30
+license: GNU LGPL 3
+developers: Stefan Rinderle,Yvo Niedrich
+sonarqube_version: 7.9-8.2
+category: visualization/reporting
+description: Provides 3D models
+details: 
+seo: 
+  name: SoftVis3D Sonar plugin
+  headline: SoftVis3D Sonar plugin - SonarQube Plugin
+  type: ItemPage
+
+---

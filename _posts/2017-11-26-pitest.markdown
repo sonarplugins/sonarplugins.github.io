@@ -11,7 +11,7 @@ download_date: 2017-11-26
 license: GNU LGPL 3
 developers: Vinod Anandan,Brad Flood
 sonarqube_version: 6.7-7.3
-category: integration
+category: deprecated
 description: Plugin for the mutation testing tool Pitest
 details: 
 seo: 

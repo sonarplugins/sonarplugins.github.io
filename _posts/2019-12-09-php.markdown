@@ -1,0 +1,22 @@
+---
+title: SonarPHP
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/php.html
+organization: SonarSource and Akram Ben Aissi
+organization_url: unkown
+download_url: https://binaries.sonarsource.com/Distribution/sonar-php-plugin/sonar-php-plugin-3.3.0.5166.jar
+download_version: 3.3
+download_description: Support PHP 7.4
+download_date: 2019-12-09
+license: GNU LGPL v3
+developers: Carlo Bottiglieri,Yves Dubois-Pèlerin,Pierre-Yves Nicolas,Elena Vilchik
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for PHP
+details: 
+seo: 
+  name: SonarPHP
+  headline: SonarPHP - SonarQube Plugin
+  type: ItemPage
+
+---

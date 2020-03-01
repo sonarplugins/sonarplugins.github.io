@@ -1,0 +1,22 @@
+---
+title: SonarCOBOL
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/cobol.html
+organization: SonarSource
+organization_url: https://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/CommercialDistribution/sonar-cobol-plugin/sonar-cobol-plugin-4.4.0.3403.jar
+download_version: 4.4
+download_description: 10 new rules and improved Cyclomatic Complexity metric
+download_date: 2018-12-03
+license: SonarSource
+developers: unkown
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for COBOL
+details: 
+seo: 
+  name: SonarCOBOL
+  headline: SonarCOBOL - SonarQube Plugin
+  type: ItemPage
+
+---

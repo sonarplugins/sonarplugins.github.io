@@ -1,0 +1,22 @@
+---
+title: Svn
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/scmsvn.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-scm-svn-plugin/sonar-scm-svn-plugin-1.9.0.1295.jar
+download_version: 1.9
+download_description: Correct detection of "new" files in PR, Branch analysis
+download_date: 2018-10-29
+license: GNU LGPL 3
+developers: Julien Henry
+sonarqube_version: 7.9-8.2
+category: integration
+description: Provides SCM SVN integration
+details: 
+seo: 
+  name: Svn
+  headline: Svn - SonarQube Plugin
+  type: ItemPage
+
+---

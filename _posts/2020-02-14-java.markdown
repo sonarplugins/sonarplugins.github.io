@@ -1,0 +1,22 @@
+---
+title: SonarJava
+layout: plugin
+homepage: http://redirect.sonarsource.com/plugins/java.html
+organization: SonarSource
+organization_url: http://www.sonarsource.com
+download_url: https://binaries.sonarsource.com/Distribution/sonar-java-plugin/sonar-java-plugin-6.1.0.20866.jar
+download_version: 6.1
+download_description: Cryptography-related rules and less noisy hard-coded credentials one (S2068) 
+download_date: 2020-02-14
+license: GNU LGPL 3
+developers: Evgeny Mandrikov,Nicolas Peru,Michael Gumowski,Tibor Blenessy
+sonarqube_version: 7.9-8.2
+category: languages
+description: Code Analyzer for Java
+details: 
+seo: 
+  name: SonarJava
+  headline: SonarJava - SonarQube Plugin
+  type: ItemPage
+
+---

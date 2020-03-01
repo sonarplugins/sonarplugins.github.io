@@ -1,0 +1,22 @@
+---
+title: YAML Analyzer
+layout: plugin
+homepage: https://github.com/sbaudoin/sonar-yaml
+organization: unkown
+organization_url: unkown
+download_url: https://github.com/sbaudoin/sonar-yaml/releases/download/v1.5.1/sonar-yaml-plugin-1.5.1.jar
+download_version: 1.5.1
+download_description: Fixes an issue that could cause NullPointerExceptions for some malformed YAML files
+download_date: 2020-02-10
+license: Apache License, Version 2.0
+developers: Sylvain Baudoin
+sonarqube_version: 7.9-8.2
+category: languages
+description: Allows the analysis of YAML documents
+details: 
+seo: 
+  name: YAML Analyzer
+  headline: YAML Analyzer - SonarQube Plugin
+  type: ItemPage
+
+---
