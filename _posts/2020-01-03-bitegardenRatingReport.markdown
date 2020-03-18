@@ -1,10 +1,10 @@
 ---
 title: bitegarden Rating Report
 layout: plugin
-homepage: http://www.bitegarden.com/sonarqube-report
+homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
-organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-rating-report&productVersion=1.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+organization_url: https://www.bitegarden.com
+download_url: https://www.bitegarden.com/sonarqube-rating-trial-form
 download_version: 1.2
 download_description: Rating Report for SonarQube. Added radar chart and support for 8.x
 download_date: 2020-01-03
