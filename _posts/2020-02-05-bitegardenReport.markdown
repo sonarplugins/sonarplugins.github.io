@@ -1,10 +1,10 @@
 ---
 title: bitegarden Report
 layout: plugin
-homepage: http://www.bitegarden.com/sonarqube-report
+homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
-organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+organization_url: https://www.bitegarden.com
+download_url: https://www.bitegarden.com/sonarqube-report-trial-form
 download_version: 2.0
 download_description: New PDF single-page executive report with all the information.
 download_date: 2020-02-05
