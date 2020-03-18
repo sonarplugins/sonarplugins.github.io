@@ -3,7 +3,7 @@ title: bitegarden Overview Report
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-portfolio
 organization: bitegarden
-organization_url: http://www.bitegarden.com
+organization_url: https://www.bitegarden.com
 download_url: https://www.bitegarden.com/sonarqube-overview-trial-form
 download_version: 1.4.3-sq-7.9
 download_description: Redesigned overview report to display summary and list of projects. Fixes pagination and no longer requires server base url.
