@@ -4,7 +4,7 @@ layout: plugin
 homepage: http://docs.sonarqube.org/display/PLUG/Views+Plugin
 organization: SonarSource
 organization_url: http://www.sonarsource.com
-download_url: https://sonarsource.bintray.com/CommercialDistribution/sonar-views-plugin/sonar-views-plugin-2.10.jar
+download_url: https://www.bitegarden.com/sonarqube-overview-trial-form
 download_version: 2.10
 download_description: Compatibility with SonarQube 5.3
 download_date: 2016-01-11
@@ -12,7 +12,7 @@ license: Commercial
 developers: unkown
 sonarqube_version: 5.3-5.4
 category: deprecated
-description: This plugin has been integrated into SonarQube Governance plugin in Enterprise Edition
+description: This plugin has been integrated into SonarQube Governance plugin in Enterprise Edition. There's also an overview report plugin to generate aggregated reports linked in download button.
 details: 
 seo:
   name: Views 
