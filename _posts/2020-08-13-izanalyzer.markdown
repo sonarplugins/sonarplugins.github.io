@@ -18,4 +18,5 @@ seo:
   name: IZ Analyzer
   headline: IZ Analyzer - SonarQube Plugin
   type: ItemPage
+  
 ---
