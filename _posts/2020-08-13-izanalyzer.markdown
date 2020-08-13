@@ -3,7 +3,7 @@ title: IZ Analyzer
 layout: plugin
 homepage: https://sonar-cloud.integralzone.com/izabout
 organization: Integral Zone
-organization_url: https://sonar-cloud.integralzone.com/izabout
+organization_url: https://integralzone.com/
 download_url: https://iz-analyzer.s3-eu-west-1.amazonaws.com/0.0.1/mule-sonar-qube-plugin-0.0.1.jar
 download_version: 0.0.1
 download_description: Automated Code Analysis and review tool for Mule projects and RAML/OAS APIs
