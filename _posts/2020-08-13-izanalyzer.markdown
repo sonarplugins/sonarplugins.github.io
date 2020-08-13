@@ -12,8 +12,8 @@ license: Commercial
 developers: Chethan Babu,Amjad Mogal,Vedanth Reddy
 sonarqube_version: 7.5-8.2
 category: external analysers
-description: Automated Code Analysis and review tool for Mule projects. We provide a free trial version and you can use it for a while with all the features of the purchased product but it will run out at the end of the trial
-details: 
+description: Automated Code Analysis and review tool for Mule projects
+details: We provide a free trial version and you can use it for a while with all the features of the purchased product but it will run out at the end of the trial
 seo: 
   name: IZ Analyzer
   headline: IZ Analyzer - SonarQube Plugin
