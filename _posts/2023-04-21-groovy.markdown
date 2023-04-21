@@ -2,15 +2,15 @@
 title: Groovy
 layout: plugin
 homepage: https://github.com/Inform-Software/sonar-groovy
-organization: SonarQube Community
-organization_url: unkown
-download_url: https://github.com/Inform-Software/sonar-groovy/releases/download/1.6/sonar-groovy-plugin-1.6.jar
-download_version: 1.6
+organization: INFORM
+organization_url: https://www.inform-software.com/
+download_url: https://github.com/Inform-Software/sonar-groovy/releases/download/1.8/sonar-groovy-plugin-1.8.jar
+download_version: 1.8
 download_description: Support for modern SonarQube versions, dependency updates
-download_date: 2019-07-04
+download_date: 2023-04-21
 license: GNU LGPL 3
 developers: Tobias Gruetzmacher,Patrick Mayweg,Michael Gumowski,Nicolas Peru
-sonarqube_version: 7.9-8.2
+sonarqube_version: 8.0-9.0
 category: languages
 description: Enables scanning of Groovy source files
 details: 
