@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/EXXETA/sonar-esql-plugin
 organization: EXXETA
 organization_url: https://www.exxeta.com
-download_url: https://github.com/EXXETA/sonar-esql-plugin/releases/download/2.3.5/esql-plugin-2.3.5.jar
-download_version: 2.3.5
-download_description: Bugfix release
-download_date: 2018-12-08
+download_url: https://github.com/EXXETA/sonar-esql-plugin/releases/download/3.3.0/esql-plugin-3.3.0.jar
+download_version: 3.3.0
+download_description: Upgrade to SonarQube 8.9
+download_date: 2022-01-31
 license: Apache License, Version 2.0
 developers: Thomas Pohl
-sonarqube_version: 6.7-7.3
+sonarqube_version: 8.9
 category: languages
 description: Sonar plugin to analyze ESQL-sourcecode of IBM Integration Bus projects.
 details: This open source plugin can be used to analyze the ESQL-sourcecode of IBM Websphere Message Broker / IBM Integration Bus projects.

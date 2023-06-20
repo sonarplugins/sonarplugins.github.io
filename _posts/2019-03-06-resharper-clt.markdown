@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/Soloplan/resharper-clt-plugin
 organization: Soloplan
 organization_url: https://www.soloplan.com
-download_url: https://github.com/Soloplan/resharper-clt-plugin/releases
-download_version: 1.0
-download_description: A SonarQube plugin for the ReSharper Command Line Tools.
-download_date: 2019-03-06
+download_url: https://github.com/Soloplan/resharper-clt-plugin/releases/download/1.2.0.202013/resharper-clt-plugin-1.2.0.202013.jar
+download_version: 1.2.0.202013
+download_description: This change provides rules for SonarQube that have the default ReSharper severity of "DO_NOT_SHOW"
+download_date: 2020-06-10
 license: APACHE LICENSE 2
 developers: Thomas Rödel, Markus Hastreiter, Steffen Wilke
 sonarqube_version: 6.7+

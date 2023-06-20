@@ -11,7 +11,7 @@ download_date: 2018-04-17
 license: SonarSource
 developers: unkown
 sonarqube_version: 7.1
-category: data center
+category: deprecated
 description: High availability
 details: 
 seo: 

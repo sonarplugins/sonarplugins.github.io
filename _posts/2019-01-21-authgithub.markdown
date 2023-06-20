@@ -11,7 +11,7 @@ download_date: 2019-01-21
 license: GNU LGPL 3
 developers: Julien Lancelot
 sonarqube_version: 7.9-7.9.2
-category: integration
+category: deprecated
 description: GitHub Authentication
 details: 
 seo: 

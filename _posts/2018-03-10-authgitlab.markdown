@@ -11,7 +11,7 @@ download_date: 2018-03-10
 license: GNU LGPL 3
 developers: Gabriel Allaigre,Nicolas Poste
 sonarqube_version: 6.7-7.3
-category: integration
+category: deprecated
 description: Delegate Authentication to GitLab
 details: 
 seo: 

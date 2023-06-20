@@ -11,7 +11,7 @@ download_date: 2015-04-23
 license: GNU LGPL 3
 developers: unkown
 sonarqube_version: 6.7-7.2.1
-category: external analysers
+category: deprecated
 description: Provide the ability to import Android Lint reports
 details: 
 seo: 

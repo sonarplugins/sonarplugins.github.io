@@ -11,7 +11,7 @@ download_date: 2017-11-21
 license: GNU LGPL 3
 developers: David RACODON
 sonarqube_version: 6.7
-category: languages
+category: deprecated
 description: Enables scanning of Java .properties files
 details: 
 seo: 

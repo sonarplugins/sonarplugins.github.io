@@ -11,7 +11,7 @@ download_date: 2017-07-07
 license: GNU LGPL 3
 developers: Evgeny Mandrikov,Sulabh Upadhyay
 sonarqube_version: 6.7-7.3
-category: integration
+category: deprecated
 description: Delegates authentication and authorization to LDAP.
 details: 
 seo: 

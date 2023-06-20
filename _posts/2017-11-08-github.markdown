@@ -11,7 +11,7 @@ download_date: 2017-11-08
 license: GNU LGPL 3
 developers: Julien Henry
 sonarqube_version: 6.7-7.1
-category: integration
+category: deprecated
 description: Pushes preview analysis results as pull request comments on GitHub (integration scripting required)
 details: 
 seo: 

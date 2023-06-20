@@ -11,7 +11,7 @@ download_date: 2018-10-29
 license: GNU LGPL 3
 developers: Julien Henry
 sonarqube_version: 7.9-8.2
-category: integration
+category: deprecated
 description: Provides SCM SVN integration
 details: 
 seo: 

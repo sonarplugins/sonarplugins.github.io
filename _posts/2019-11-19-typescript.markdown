@@ -11,7 +11,7 @@ download_date: 2019-11-19
 license: GNU LGPL 3
 developers: Elena Vilchik,Stas Vilchik,Tibor Blenessy
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for TypeScript
 details: 
 seo: 

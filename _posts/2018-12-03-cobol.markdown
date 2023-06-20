@@ -11,7 +11,7 @@ download_date: 2018-12-03
 license: SonarSource
 developers: unkown
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for COBOL
 details: 
 seo: 

@@ -11,7 +11,7 @@ download_date: 2018-02-12
 license: GNU LGPL 3
 developers: Gabriel Allaigre
 sonarqube_version: 6.7-7.3
-category: integration
+category: deprecated
 description: Pushes preview analysis results as merge request comments on GitLab
 details: 
 seo: 

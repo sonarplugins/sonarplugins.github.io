@@ -9,9 +9,9 @@ download_version: 1.0.2
 download_description: Minor improvements
 download_date: 2019-06-28
 license: GNU LGPL 3
-developers: unkown
+developers: unknown
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Import JaCoCo XML Reports
 details: 
 seo: 

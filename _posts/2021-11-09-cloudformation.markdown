@@ -11,7 +11,7 @@ download_date: 2021-11-09
 license: GNU LGPL 3
 developers: James Pether Sörling
 sonarqube_version: 8.9-8.9.10
-category: external analysers
+category: deprecated
 description: Integrates cfn-nag reports into SonarQube
 details: 
 

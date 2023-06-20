@@ -11,7 +11,7 @@ download_date: 2019-08-22
 license: The Apache Software License, Version 2.0
 developers: Matthijs Galesloot,Fabrice Bellingard,Dinesh Bolkensteyn
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code analyzer for HTML including JSP, JSF and other formats.
 details: 
 seo: 

@@ -11,7 +11,7 @@ download_date: 2018-03-28
 license: SonarSource
 developers: unkown
 sonarqube_version: 6.7-7.3
-category: languages
+category: deprecated
 description: Code Analyzer for RPG
 details: 
 seo: 

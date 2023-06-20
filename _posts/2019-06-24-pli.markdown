@@ -9,9 +9,9 @@ download_version: 1.10
 download_description: Fix parsing issues support NOEXECOPS option and DEFINED attribute with a qualified reference
 download_date: 2019-06-24
 license: SonarSource
-developers: unkown
+developers: unknown
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for PL/I
 details: 
 seo: 

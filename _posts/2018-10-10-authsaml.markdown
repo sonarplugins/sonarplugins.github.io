@@ -11,7 +11,7 @@ download_date: 2018-10-10
 license: GNU LGPL 3
 developers: Julien Lancelot
 sonarqube_version: 7.9-7.9.2
-category: integration
+category: deprecated
 description: SAML 2.0 Authentication for SonarQube
 details: 
 seo: 

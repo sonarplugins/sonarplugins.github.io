@@ -11,7 +11,7 @@ download_date: 2018-05-08
 license: GNU LGPL 3
 developers: Eric Hartmann,Julien Henry,Evgeny Mandrikov,Olivier Gaudin,Simon Brandhof
 sonarqube_version: 6.7-7.3
-category: coverage
+category: deprecated
 description: Provide ability to use Cobertura for coverage computing
 details: 
 seo: 

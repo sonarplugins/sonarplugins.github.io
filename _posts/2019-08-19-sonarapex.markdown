@@ -11,7 +11,7 @@ download_date: 2019-08-19
 license: SonarSource
 developers: SonarSource Team
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for Apex
 details: 
 seo: 

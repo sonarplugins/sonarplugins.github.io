@@ -11,7 +11,7 @@ download_date: 2017-01-30
 license: The GNU Lesser General Public License, Version 3.0
 developers: Michel Pawlak
 sonarqube_version: 6.7-7.3
-category: additional metrics
+category: deprecated
 description: Tallies technical debt annotations added directly to code
 details: 
 seo: 

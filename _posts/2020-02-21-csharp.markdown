@@ -11,7 +11,7 @@ download_date: 2020-02-21
 license: GNU LGPL 3
 developers: Amaury Levé,Valeri Hristov,Janos Gyerik,Duarte Meneses,Julien Henry
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for C#
 details: 
 seo: 

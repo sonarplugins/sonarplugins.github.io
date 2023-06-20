@@ -11,7 +11,7 @@ download_date: 2018-07-09
 license: Apache License, Version 2.0
 developers: Kengo TODA
 sonarqube_version: 6.7.5-7.2.1
-category: external analyzers
+category: deprecated
 description: Support migration from Guava to Java8
 details: 
 seo: 

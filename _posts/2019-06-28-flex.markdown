@@ -11,7 +11,7 @@ download_date: 2019-06-28
 license: GNU LGPL 3
 developers: Olivier Gaudin,Evgeny Mandrikov,Fabrice Bellingard,Linda Martin
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code analyzer for Flex
 details: 
 seo: 

@@ -11,7 +11,7 @@ download_date: 2018-08-02
 license: Apache License 2.0
 developers: giggio,elemarjr,carloscds
 sonarqube_version: 7.2-7.2.1
-category: external analysers
+category: deprecated
 description: Provide Code Cracker rules for analysis of C# projects
 details: 
 seo: 

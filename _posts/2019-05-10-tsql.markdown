@@ -9,9 +9,9 @@ download_version: 1.4
 download_description: 22 new T-SQL syntaxes supported
 download_date: 2019-05-10
 license: SonarSource
-developers: unkown
+developers: unknown
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for T-SQL
 details: 
 seo: 

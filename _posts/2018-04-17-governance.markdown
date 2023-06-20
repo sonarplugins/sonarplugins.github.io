@@ -11,7 +11,7 @@ download_date: 2018-04-17
 license: SonarSource
 developers: unkown
 sonarqube_version: 7.1
-category: governance
+category: deprecated
 description: Enterprise features for SonarQube including Application Portfolio Management, PDF Reporting, Rules Remediation Cost Customization, Backup & Restore of a Project. Governance is now included in Enterprise Edition.
 details: 
 seo: 

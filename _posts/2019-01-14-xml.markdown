@@ -11,7 +11,7 @@ download_date: 2019-01-14
 license: GNU LGPL 3
 developers: SonarSource Team
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for XML
 details: 
 seo: 

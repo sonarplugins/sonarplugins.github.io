@@ -9,9 +9,9 @@ download_version: 3.8
 download_description: 8 new rules (3 Vulnerabilities, 3 Security Hotspots, 2 Code Smells)
 download_date: 2019-06-05
 license: SonarSource
-developers: unkown
+developers: unknown
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for ABAP
 details: 
 seo: 

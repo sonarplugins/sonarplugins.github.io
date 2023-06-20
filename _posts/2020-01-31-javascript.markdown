@@ -11,7 +11,7 @@ download_date: 2020-01-31
 license: GNU LGPL 3
 developers: Carlo Bottiglieri,Elena Vilchik
 sonarqube_version: 7.9-8.2
-category: languages
+category: deprecated
 description: Code Analyzer for JavaScript
 details: 
 seo: 

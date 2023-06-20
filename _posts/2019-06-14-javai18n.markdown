@@ -1,15 +1,15 @@
 ---
 title: Java I18n Rules
 layout: plugin
-homepage: https://github.com/edwinyangzh/sonar-java-i18n-checks
-organization: unkown
-organization_url: unkown
-download_url: https://github.com/edwinyangzh/sonar-java-i18n-checks/releases/download/v0.1.0/java-i18n-rules-0.1.0.jar
-download_version: 0.1.0
+homepage: https://github.com/vmware-samples/SonarQube-Plugin-for-Java
+organization: unknown
+organization_url: unknown
+download_url: https://github.com/vmware-samples/SonarQube-Plugin-for-Java
+download_version: 1.0-SNAPSHOT
 download_description: Initial Release
 download_date: 2019-06-14
-license: unkown
-developers: unkown
+license: unknown
+developers: unknown
 sonarqube_version: 7.9-8.2
 category: external analysers
 description: Code checks to find internationalization (i18n) in Java
