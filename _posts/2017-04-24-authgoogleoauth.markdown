@@ -11,8 +11,12 @@ download_date: 2017-04-24
 license: GNU LGPL 3
 developers: Julien Lancelot,Deven Phillips
 sonarqube_version: 8.9-10.0
-category: deprecated
+category: integration
 description: Delegate Authentication to Google
 details: 
+seo:
+  name: Google Authentication for SonarQube
+  headline: Google Authentication for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: additional metrics
 description: Tag your project during project analysis with command line property
 details: 
+seo:
+  name: bitegarden Project Tag
+  headline: bitegarden Project Tag - SonarQube Plugin
+  type: ItemPage
 
 ---

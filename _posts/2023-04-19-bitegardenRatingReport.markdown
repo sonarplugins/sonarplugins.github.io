@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: governance
 description: Get ratings for all your rule tags in SonarQube
 details: 
+seo:
+  name: bitegarden Rating Report
+  headline: bitegarden Rating Report - SonarQube Plugin
+  type: ItemPage
 
 ---

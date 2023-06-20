@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: coverage
 description: Coverage analyzer for Mulesoft Workflows
 details: 
+seo:
+  name: Mulesoft
+  headline: Mulesoft - SonarQube Plugin
+  type: ItemPage
 
 ---

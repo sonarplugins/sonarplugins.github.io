@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: governance
 description: Plugin for SonarQube to validate devon4j architecture and conventions.
 details: 
+seo:
+  name: Sonar Devon4j Plugin
+  headline: Sonar Devon4j Plugin - SonarQube Plugin
+  type: ItemPage
 
 ---

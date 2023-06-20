@@ -14,5 +14,9 @@ sonarqube_version: 8.9.10
 category: visualization/reporting
 description: CNES plugin that allows users to download a bundle of project reports in multiple formats.
 details: 
+seo:
+  name: SonarQube CNES Report
+  headline: SonarQube CNES Report - SonarQube Plugin
+  type: ItemPage
 
 ---

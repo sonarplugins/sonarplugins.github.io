@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analysers
 description: Provide Findbugs rules for analysis of Java projects
 details: 
+seo:
+  name: Findbugs
+  headline: Findbugs - SonarQube Plugin
+  type: ItemPage
 
 ---

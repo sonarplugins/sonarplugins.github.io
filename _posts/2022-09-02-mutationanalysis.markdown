@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: coverage
 description: Import Pitest mutation analysis results
 details: 
+seo:
+  name: Mutation Analysis
+  headline: Mutation Analysis - SonarQube Plugin
+  type: ItemPage
 
 ---

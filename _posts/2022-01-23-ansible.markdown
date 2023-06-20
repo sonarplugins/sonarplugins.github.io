@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analyzers
 description: Analyze Ansible playbooks.
 details: 
+seo:
+  name: Ansible Lint
+  headline: Ansible Lint - SonarQube Plugin
+  type: ItemPage
 
 ---

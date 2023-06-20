@@ -11,8 +11,12 @@ download_date: 2021-11-09
 license: GNU LGPL 3
 developers: James Pether Sörling
 sonarqube_version: 8.9-8.9.10
-category: deprecated
+category: external analysers
 description: Integrates cfn-nag reports into SonarQube
 details: 
+seo:
+  name: Sonar Cloudformation Plugin
+  headline: Sonar Cloudformation Plugin - SonarQube Plugin
+  type: ItemPage
 
 ---

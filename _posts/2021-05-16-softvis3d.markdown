@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: visualization/reporting
 description: Provides 3D city models
 details: 
+seo:
+  name: SoftVis3D Sonar plugin
+  headline: SoftVis3D Sonar plugin - SonarQube Plugin
+  type: ItemPage
 
 ---

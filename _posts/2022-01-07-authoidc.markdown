@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: integration
 description: Delegate authentication using the OpenID Connect protocol
 details: 
+seo:
+  name: OpenID Connect Authentication for SonarQube
+  headline: OpenID Connect Authentication for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

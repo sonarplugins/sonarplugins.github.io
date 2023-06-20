@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: integration
 description: Provides SCM TFVC integration
 details: 
+seo:
+  name: TFVC
+  headline: TFVC - SonarQube Plugin
+  type: ItemPage
 
 ---

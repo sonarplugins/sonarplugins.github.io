@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: languages
 description: Allows the analysis of YAML documents
 details: 
+seo:
+  name: YAML Analyzer
+  headline: YAML Analyzer - SonarQube Plugin
+  type: ItemPage
 
 ---

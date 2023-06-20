@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: languages
 description: Enables analysis for Properties files in SonarQube
 details: 
+seo:
+  name: bitegarden SonarQube Properties Analyzer
+  headline: bitegarden SonarQube Properties Analyzer - SonarQube Plugin
+  type: ItemPage
 
 ---

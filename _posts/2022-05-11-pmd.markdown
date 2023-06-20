@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analysers
 description: Provide PMD rules to analyse Java projects
 details: 
+seo:
+  name: PMD
+  headline: PMD - SonarQube Plugin
+  type: ItemPage
 
 ---

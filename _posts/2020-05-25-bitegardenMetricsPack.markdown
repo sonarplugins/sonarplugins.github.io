@@ -14,5 +14,9 @@ sonarqube_version: [5.6-LATEST]
 category: additional metrics
 description: Provides a new bunch of metrics for your SonarQube instance
 details: 
+seo:
+  name: bitegarden Metrics Pack
+  headline: bitegarden Metrics Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analyzers
 description: Sonar Hadolint Plugin allows users to import results from Hadolint into SonarQube. To do this, it creates a Dockerfile language with highlightings & metrics, and a Quality Profile with Hadolint & Shellcheck rules.
 details: 
+seo:
+  name: SonarQube Hadolint Plugin
+  headline: SonarQube Hadolint Plugin - SonarQube Plugin
+  type: ItemPage
 
 ---

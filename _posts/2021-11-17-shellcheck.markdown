@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: languages
 description: Enables scanning of shell scripts
 details: 
+seo:
+  name: ShellCheck Analyzer
+  headline: ShellCheck Analyzer - SonarQube Plugin
+  type: ItemPage
 
 ---

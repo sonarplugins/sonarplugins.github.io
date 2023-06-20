@@ -14,5 +14,9 @@ sonarqube_version: 9.9-10.0
 category: integration
 description: Integrates Dependency-Check reports into SonarQube
 details: 
+seo:
+  name: Dependency-Check
+  headline: Dependency-Check - SonarQube Plugin
+  type: ItemPage
 
 ---

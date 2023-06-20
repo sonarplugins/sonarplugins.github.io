@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analyzers
 description: Analyzer for WebDriver (Selenium or Appium) tests.
 details: 
+seo:
+  name: Sonar WebDriver Plugin
+  headline: Sonar WebDriver Plugin - SonarQube Plugin
+  type: ItemPage
 
 ---

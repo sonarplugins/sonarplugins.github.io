@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: governance
 description: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 details: 
+seo:
+  name: bitegarden SQALE
+  headline: bitegarden SQALE - SonarQube Plugin
+  type: ItemPage
 
 ---

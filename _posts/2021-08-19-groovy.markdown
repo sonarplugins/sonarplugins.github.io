@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: languages
 description: Enables scanning of Groovy source files
 details: 
+seo:
+  name: Groovy
+  headline: Groovy - SonarQube Plugin
+  type: ItemPage
 
 ---

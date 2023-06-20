@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: integration
 description: Provides SCM CVS integration
 details: 
+seo:
+  name: CVS
+  headline: CVS - SonarQube Plugin
+  type: ItemPage
 
 ---

@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: governance
 description: Provides a big picture of your SonarQube instance with all the aggregated measures in a single view
 details: 
+seo:
+  name: bitegarden Overview Report
+  headline: bitegarden Overview Report - SonarQube Plugin
+  type: ItemPage
 
 ---

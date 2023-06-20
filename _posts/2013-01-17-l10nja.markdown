@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: localization
 description: Language Pack for Japanese
 details: 
+seo:
+  name: Japanese Pack
+  headline: Japanese Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

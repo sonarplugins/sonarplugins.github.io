@@ -14,5 +14,9 @@ sonarqube_version: 10.0
 category: localization
 description: Language Pack for French
 details: 
+seo:
+  name: French Pack
+  headline: French Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

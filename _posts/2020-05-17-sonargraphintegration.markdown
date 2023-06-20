@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analyzers
 description: Provides support for Sonargraph 8+'s architecture governance features, accompanied by metrics about cyclic dependencies and other structural aspects.
 details: 
+seo:
+  name: Sonargraph Integration
+  headline: Sonargraph Integration - SonarQube Plugin
+  type: ItemPage
 
 ---

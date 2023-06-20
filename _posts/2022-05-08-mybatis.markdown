@@ -14,5 +14,9 @@ sonarqube_version: 9.0-10.0
 category: external analysers
 description: Rules to check SQL statements in MyBatis Mapper XML files.
 details: 
+seo:
+  name: MyBatis Plugin for SonarQube
+  headline: MyBatis Plugin for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

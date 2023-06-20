@@ -14,5 +14,9 @@ sonarqube_version: 9.0-10.0
 category: external analysers
 description: Provide Checkstyle rules for Java projects
 details: 
+seo:
+  name: Checkstyle
+  headline: Checkstyle - SonarQube Plugin
+  type: ItemPage
 
 ---

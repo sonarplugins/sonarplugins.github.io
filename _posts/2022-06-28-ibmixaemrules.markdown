@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analysers
 description: Plugin containing custom Sonar rules for AEM development based on IBM iX internal guidelines
 details: 
+seo:
+  name: IBM iX AEM Sonar rules
+  headline: IBM iX AEM Sonar rules - SonarQube Plugin
+  type: ItemPage
 
 ---

@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analysers
 description: Revives the Rule Compliance Index metric
 details: 
+seo:
+  name: Rules Compliance Index (RCI)
+  headline: Rules Compliance Index (RCI) - SonarQube Plugin
+  type: ItemPage
 
 ---

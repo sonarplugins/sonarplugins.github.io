@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: integration
 description: Provides SCM Jazz RTC integration
 details: 
+seo:
+  name: Jazz RTC
+  headline: Jazz RTC - SonarQube Plugin
+  type: ItemPage
 
 ---

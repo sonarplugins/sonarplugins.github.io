@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: integration
 description: Allows the use of Azure Active Directory as an authentication source for SonarQube.
 details: 
+seo:
+  name: Azure Active Directory (AAD) Authentication Plug-in for SonarQube
+  headline: Azure Active Directory (AAD) Authentication Plug-in for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

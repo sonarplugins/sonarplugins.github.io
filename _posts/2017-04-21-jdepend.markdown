@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analysers
 description: Provide package-level metrics and rules
 details: 
+seo:
+  name: jDepend
+  headline: jDepend - SonarQube Plugin
+  type: ItemPage
 
 ---

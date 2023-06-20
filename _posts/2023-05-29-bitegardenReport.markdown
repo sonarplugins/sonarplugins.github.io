@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: governance
 description: Generate your project report in PDF, Excel or from a customizable Open Document (ODT)
 details: 
+seo:
+  name: bitegarden Report
+  headline: bitegarden Report - SonarQube Plugin
+  type: ItemPage
 
 ---

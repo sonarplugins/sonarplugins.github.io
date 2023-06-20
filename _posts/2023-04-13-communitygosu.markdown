@@ -14,5 +14,9 @@ sonarqube_version: 8.9-9.9.1
 category: languages
 description: Code Analyzer for Gosu
 details: 
+seo:
+  name: Community Gosu Plugin
+  headline: Community Gosu Plugin - SonarQube Plugin
+  type: ItemPage
 
 ---

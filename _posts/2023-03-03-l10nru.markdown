@@ -14,5 +14,9 @@ sonarqube_version: 9.9-10.0
 category: localization
 description: Language pack for Russian
 details: 
+seo:
+  name: Russian Pack
+  headline: Russian Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

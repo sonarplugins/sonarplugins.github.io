@@ -11,8 +11,12 @@ download_date: 2019-07-14
 license: GNU LGPL 3
 developers: Evgeny Mandrikov,Arnaud Héritier,Alex Nordlund
 sonarqube_version: 8.9-8.9.10
-category: deprecated
+category: integration
 description: Provide the ability to authenticate again Crowd
 details: 
+seo:
+  name: Crowd
+  headline: Crowd - SonarQube Plugin
+  type: ItemPage
 
 ---

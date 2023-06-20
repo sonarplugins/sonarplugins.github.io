@@ -14,5 +14,9 @@ sonarqube_version: 9.9-10.0
 category: languages
 description: Code Analyzer for Rust
 details: 
+seo:
+  name: Rust language analyzer
+  headline: Rust language analyzer - SonarQube Plugin
+  type: ItemPage
 
 ---

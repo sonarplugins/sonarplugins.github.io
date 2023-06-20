@@ -14,5 +14,9 @@ sonarqube_version: 9.7-10.0
 category: external analyzers
 description: Adds XML rules test Apigee apiproxies.
 details: 
+seo:
+  name: Apigee
+  headline: Apigee - SonarQube Plugin
+  type: ItemPage
 
 ---

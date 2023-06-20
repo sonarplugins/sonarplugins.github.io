@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: admin tools
 description: Provides a user-friendly interface to manage your plugins
 details: 
+seo:
+  name: bitegarden Universal Plugin Manager (UPM)
+  headline: bitegarden Universal Plugin Manager (UPM) - SonarQube Plugin
+  type: ItemPage
 
 ---

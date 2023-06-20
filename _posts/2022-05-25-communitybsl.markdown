@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: languages
 description: Code Analyzer for 1C (BSL)
 details: 
+seo:
+  name: 1C (BSL) Community Plugin
+  headline: 1C (BSL) Community Plugin - SonarQube Plugin
+  type: ItemPage
 
 ---

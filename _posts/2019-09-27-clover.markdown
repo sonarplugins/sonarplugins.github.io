@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: coverage
 description: Provides the ability to compute coverage with Clover
 details: 
+seo:
+  name: Clover
+  headline: Clover - SonarQube Plugin
+  type: ItemPage
 
 ---

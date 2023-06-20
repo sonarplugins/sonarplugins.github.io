@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: localization
 description: Language Pack for German
 details: 
+seo:
+  name: German Pack
+  headline: German Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

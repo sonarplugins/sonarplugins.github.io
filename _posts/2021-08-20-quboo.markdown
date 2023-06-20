@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: visualization/reporting
 description: Provides integration with Quboo to use Gamification techniques to fix your legacy code.
 details: 
+seo:
+  name: Quboo
+  headline: Quboo - SonarQube Plugin
+  type: ItemPage
 
 ---

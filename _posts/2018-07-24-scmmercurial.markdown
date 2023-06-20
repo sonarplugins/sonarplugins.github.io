@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: integration
 description: Provides SCM Mercurial integration
 details: 
+seo:
+  name: Mercurial
+  headline: Mercurial - SonarQube Plugin
+  type: ItemPage
 
 ---

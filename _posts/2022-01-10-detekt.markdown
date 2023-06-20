@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analysers
 description: Provide detekt rules for Kotlin projects
 details: 
+seo:
+  name: detekt
+  headline: detekt - SonarQube Plugin
+  type: ItemPage
 
 ---

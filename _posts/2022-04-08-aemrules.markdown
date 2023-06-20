@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analysers
 description: Adds rules for AEM Java development
 details: 
+seo:
+  name: AEM Rules for SonarQube
+  headline: AEM Rules for SonarQube - SonarQube Plugin
+  type: ItemPage
 
 ---

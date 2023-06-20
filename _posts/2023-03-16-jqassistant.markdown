@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: external analyzers
 description: Analyze issues reported by jQAssistant.
 details: 
+seo:
+  name: jQAssistant
+  headline: jQAssistant - SonarQube Plugin
+  type: ItemPage
 
 ---

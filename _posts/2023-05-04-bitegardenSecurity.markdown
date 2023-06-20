@@ -14,5 +14,9 @@ sonarqube_version: [7.9-LATEST]
 category: governance
 description: Provides information about security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
 details: 
+seo:
+  name: bitegarden Security Assessment
+  headline: bitegarden Security Assessment - SonarQube Plugin
+  type: ItemPage
 
 ---

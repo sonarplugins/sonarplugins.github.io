@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: localization
 description: Language Pack for Spanish
 details: 
+seo:
+  name: L10n &#58;&#58; Spanish Pack
+  headline: L10n &#58;&#58; Spanish Pack - SonarQube Plugin
+  type: ItemPage
 
 ---

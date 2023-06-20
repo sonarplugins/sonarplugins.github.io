@@ -14,5 +14,9 @@ sonarqube_version: 8.9-10.0
 category: localization
 description: Language Pack for Korean
 details: 
+seo:
+  name: Korean Pack
+  headline: Korean Pack - SonarQube Plugin
+  type: ItemPage
 
 ---
