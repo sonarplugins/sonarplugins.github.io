@@ -1,0 +1,46 @@
+ <!-- About Section -->
+    <section class="success" id="contribution">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Contribution</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>This website is open-source and it is located at <a href="https://github.com/sonarplugins/sonarplugins.github.io" style="color:white" target="_blank"><strong>https://github.com/sonarplugins/sonarplugins.github.io</strong></a> </p>
+                    <p>Feel free to change the info and create a pull request to update any plugin information or to add new plugins to the index.</p>
+                    <p>The format is quite simple, just create a new file with a date in the <a href="https://github.com/sonarplugins/sonarplugins.github.io/tree/master/_posts" style="color:white" target="_blank"><strong>_posts</strong></a> folder, <br>for instance <strong>"2023-04-21-mypluginkey.markdown"</strong> and fill it with the plugin information:
+                    <pre>
+                    ---
+                    title: My Plugin
+                    layout: plugin
+                    homepage: https://mypluginhomepage
+                    organization: my organization
+                    organization_url: my organization url
+                    download_url: https://myplugindownloadurl
+                    download_version: X.Y.Z
+                    download_description: release notes for the version
+                    download_date: YYYY-MM-DD
+                    license: GNU LGPL 3 ...
+                    developers: list of developers that contribute to the plugin
+                    sonarqube_version: 8.9-9.9-10.x
+                    category: choose a category
+                    description: plugin description
+                    details: additional details
+                    seo:
+                      name: My Plugin
+                      headline: My Plugin - SonarQube Plugin
+                      type: ItemPage
+
+                    ---
+                    </pre>
+
+                    <p>Once the pull request is merged the data will be updated on the website.</p>
+                    <p>Take a look at the samples <a href="https://github.com/sonarplugins/sonarplugins.github.io/tree/master/_posts" style="color:white" target="_blank"><strong>here.</strong></a></p>
+                    <p>Plugins available at SonarSource update center are refreshed automatically.</p>
+                </div>
+            </div>
+        </div>
+    </section>
