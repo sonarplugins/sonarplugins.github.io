@@ -1,0 +1,18 @@
+---
+title: Quboo
+layout: plugin
+homepage: https://quboo.io
+organization: Quboo
+organization_url: https://quboo.io
+download_url: https://github.com/thepracticaldeveloper/quboo-sonarqube-plugin/releases/download/v1.4.1/quboo-sonar-plugin-1.4.1.jar
+download_version: 1.4.1
+download_description: Bugfix - updated issues are included even with more than 10k issues in results
+download_date: 2021-08-20
+license: GNU LGPL 3
+developers: Moisés Macero
+sonarqube_version: 8.9-10.0
+category: visualization/reporting
+description: Provides integration with Quboo to use Gamification techniques to fix your legacy code.
+details: 
+
+---

@@ -1,0 +1,18 @@
+---
+title: Groovy
+layout: plugin
+homepage: https://github.com/Inform-Software/sonar-groovy
+organization: SonarQube Community
+organization_url: unknown
+download_url: https://github.com/Inform-Software/sonar-groovy/releases/download/1.8/sonar-groovy-plugin-1.8.jar
+download_version: 1.8
+download_description: Uses CodeNarc 1.6.1, compatibility with SonarQube 9.0
+download_date: 2021-08-19
+license: GNU LGPL 3
+developers: Tobias Gruetzmacher
+sonarqube_version: 8.9-10.0
+category: languages
+description: Enables scanning of Groovy source files
+details: 
+
+---

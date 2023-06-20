@@ -1,0 +1,18 @@
+---
+title: SoftVis3D Sonar plugin
+layout: plugin
+homepage: http://softvis3d.com
+organization: Stefan Rinderle and Yvo Niedrich
+organization_url: http://softvis3d.com
+download_url: https://github.com/stefanrinderle/softvis3d/releases/download/softvis3d-1.2.1/sonar-softvis3d-plugin-1.2.1.jar
+download_version: 1.2.1
+download_description: Compatibility with latest LTS.
+download_date: 2021-05-16
+license: GNU LGPL 3
+developers: Stefan Rinderle,Yvo Niedrich
+sonarqube_version: 8.9-10.0
+category: visualization/reporting
+description: Provides 3D city models
+details: 
+
+---

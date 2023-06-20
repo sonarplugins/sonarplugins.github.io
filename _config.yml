@@ -1,7 +1,7 @@
 # Site settings
 title: SonarQube™ Plugins Index
 email: sonarplugins@gmail.com
-url: http://www.sonarplugins.com
+url: https://www.sonarplugins.com
 description: "SonarQube™ Plugins Index site includes a list of all the existing plugins for SonarQube™. Use this site to add new functionalities to your SonarQube™ instance."
 skills: "Unleash your SonarQube instance with awesome plugins"
 meta_author: Plugins Sonar

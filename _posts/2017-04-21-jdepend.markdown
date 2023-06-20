@@ -2,21 +2,17 @@
 title: jDepend
 layout: plugin
 homepage: https://github.com/willemsrb/sonar-jdepend-plugin
-organization: unkown
-organization_url: unkown
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/willemsrb/sonar-jdepend-plugin/releases/download/sonar-jdepend-plugin-1.1.1/sonar-jdepend-plugin-1.1.1.jar
 download_version: 1.1.1
 download_description: Fix a bug that caused a crash when both 'main' and 'test' packages had a package-info.java
 download_date: 2017-04-21
 license: Apache License, Version 2.0
 developers: Robert Willems of Brilman
-sonarqube_version: 6.7-7.3
+sonarqube_version: 8.9-10.0
 category: external analysers
 description: Provide package-level metrics and rules
 details: 
-seo: 
-  name: jDepend
-  headline: jDepend - SonarQube Plugin
-  type: ItemPage
 
 ---

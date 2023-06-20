@@ -2,21 +2,17 @@
 title: CVS
 layout: plugin
 homepage: https://github.com/SonarQubeCommunity/sonar-scm-cvs
-organization: unkown
-organization_url: unkown
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/SonarQubeCommunity/sonar-scm-cvs/releases/download/1.1.1/sonar-scm-cvs-plugin-1.1.1.jar
 download_version: 1.1.1
 download_description: Fix classnotfound error
 download_date: 2018-07-06
 license: GNU LGPL 3
 developers: Julien Henry
-sonarqube_version: 6.7-7.3
+sonarqube_version: 8.9-10.0
 category: integration
 description: Provides SCM CVS integration
 details: 
-seo: 
-  name: CVS
-  headline: CVS - SonarQube Plugin
-  type: ItemPage
 
 ---

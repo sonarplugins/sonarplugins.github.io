@@ -10,13 +10,9 @@ download_description: Compatible with SonarQube 6.7 LTS
 download_date: 2018-07-24
 license: GNU LGPL 3
 developers: Julien Henry
-sonarqube_version: 6.7-7.3
+sonarqube_version: 8.9-10.0
 category: integration
 description: Provides SCM Mercurial integration
 details: 
-seo: 
-  name: Mercurial
-  headline: Mercurial - SonarQube Plugin
-  type: ItemPage
 
 ---

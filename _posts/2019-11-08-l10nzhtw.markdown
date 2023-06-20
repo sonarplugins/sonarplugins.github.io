@@ -10,13 +10,9 @@ download_description: SonarQube Traditional Chinese Pack
 download_date: 2019-11-08
 license: GNU LGPL 3
 developers: Tim Lee
-sonarqube_version: 7.9-8.2
+sonarqube_version: 8.9-10.0
 category: localization
 description: SonarQube Traditional Chinese Language Pack (not compatible with the "Chinese Pack" which uses Simplified Chinese)
 details: 
-seo: 
-  name: Traditional Chinese Language Pack
-  headline: Traditional Chinese Language Pack - SonarQube Plugin
-  type: ItemPage
 
 ---

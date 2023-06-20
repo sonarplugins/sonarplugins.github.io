@@ -1,0 +1,18 @@
+---
+title: SonarQube Hadolint Plugin
+layout: plugin
+homepage: https://github.com/cnescatlab/sonar-hadolint-plugin
+organization: CNES
+organization_url: http://cnes.fr
+download_url: https://github.com/cnescatlab/sonar-hadolint-plugin/releases/download/1.1.0/sonar-hadolint-plugin-1.1.0.jar
+download_version: 1.1.0
+download_description: Update rules with Shellcheck plugin 2.4.0 & Hadolint 2.6.1, add hability to use wildcards in reports path, and fix a bug regarding absolute paths for reports.
+download_date: 2021-09-23
+license: GNU General Public License, Version 3.0
+developers: Alexis Chatillon
+sonarqube_version: 8.9-10.0
+category: external analyzers
+description: Sonar Hadolint Plugin allows users to import results from Hadolint into SonarQube. To do this, it creates a Dockerfile language with highlightings & metrics, and a Quality Profile with Hadolint & Shellcheck rules.
+details: 
+
+---

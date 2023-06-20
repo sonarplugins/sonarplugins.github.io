@@ -2,21 +2,17 @@
 title: Clover
 layout: plugin
 homepage: https://redirect.sonarsource.com/plugins/clover.html
-organization: unkown
-organization_url: unkown
-download_url: https://bintray.com/api/ui/download/sfeir-open-source/maven/org/sfeir/sonar-clover-plugin/4.1/sonar-clover-plugin-4.1.jar
+organization: unknown
+organization_url: unknown
+download_url: https://repo1.maven.org/maven2/io/github/sfeir-open-source/sonar-clover-plugin/4.1/sonar-clover-plugin-4.1.jar
 download_version: 4.1
 download_description: Makes the plugin compatible with SQ 7.9
 download_date: 2019-09-27
 license: GNU LGPL 3
 developers: Eric Hartmann,Julien Henry,Evgeny Mandrikov,Olivier Gaudin,Simon Brandhof
-sonarqube_version: 7.9-8.2
+sonarqube_version: 8.9-10.0
 category: coverage
 description: Provides the ability to compute coverage with Clover
 details: 
-seo: 
-  name: Clover
-  headline: Clover - SonarQube Plugin
-  type: ItemPage
 
 ---

@@ -1,0 +1,18 @@
+---
+title: YAML Analyzer
+layout: plugin
+homepage: https://github.com/sbaudoin/sonar-yaml
+organization: unknown
+organization_url: unknown
+download_url: https://github.com/sbaudoin/sonar-yaml/releases/download/v1.7.0/sonar-yaml-plugin-1.7.0.jar
+download_version: 1.7.0
+download_description: Allows rule customization from a local .yamllint file and fixes some documentation inconsistencies
+download_date: 2021-11-24
+license: Apache License, Version 2.0
+developers: Sylvain Baudoin
+sonarqube_version: 8.9-10.0
+category: languages
+description: Allows the analysis of YAML documents
+details: 
+
+---

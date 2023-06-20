@@ -1,0 +1,18 @@
+---
+title: AEM Rules for SonarQube
+layout: plugin
+homepage: https://github.com/wttech/AEM-Rules-for-SonarQube
+organization: Wunderman Thompson Technology
+organization_url: http://www.cognifide.com
+download_url: https://github.com/wttech/AEM-Rules-for-SonarQube/releases/download/v1.6/sonar-aemrules-plugin-1.6.jar
+download_version: 1.6
+download_description: SonarQube 8.9 LTS compatiblity release due to underlying Java plugin API changes
+download_date: 2022-04-08
+license: The Apache Software License, Version 2.0
+developers: Michal Chudy,Szymon Owczarzak,Piotr Wilczyński,Michał Tobiasz,Mateusz Bartkowiak,Jędrzej Pluciński,Krystian Panek
+sonarqube_version: 8.9-10.0
+category: external analysers
+description: Adds rules for AEM Java development
+details: 
+
+---

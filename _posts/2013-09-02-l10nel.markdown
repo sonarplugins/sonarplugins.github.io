@@ -3,20 +3,16 @@ title: Greek Pack
 layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-el
 organization: Patroklos PAPAPETROU
-organization_url: unkown
-download_url: http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/l10n/sonar-l10n-el-plugin/1.8/sonar-l10n-el-plugin-1.8.jar
+organization_url: unknown
+download_url: https://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/l10n/sonar-l10n-el-plugin/1.8/sonar-l10n-el-plugin-1.8.jar
 download_version: 1.8
 download_description: Adds Sonar 3.6 terms
 download_date: 2013-09-02
 license: GNU LGPL 3
 developers: Papapetrou Patroklos
-sonarqube_version: 6.7-7.3
+sonarqube_version: 8.9-10.0
 category: localization
 description: Language Pack for Greek
 details: 
-seo: 
-  name: Greek Pack
-  headline: Greek Pack - SonarQube Plugin
-  type: ItemPage
 
 ---

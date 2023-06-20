@@ -10,13 +10,9 @@ download_description: Support for SonarQube 7.0
 download_date: 2018-04-09
 license: GNU LGPL 3
 developers: Moses Kim
-sonarqube_version: 7.0-7.3
+sonarqube_version: 8.9-10.0
 category: localization
 description: Language Pack for Korean
 details: 
-seo: 
-  name: Korean Pack
-  headline: Korean Pack - SonarQube Plugin
-  type: ItemPage
 
 ---

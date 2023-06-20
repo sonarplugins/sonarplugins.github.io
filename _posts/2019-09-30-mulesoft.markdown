@@ -9,14 +9,10 @@ download_version: 0.5.1
 download_description: Initial release, includes basic support for analyzing Mulesoft test coverage reports.
 download_date: 2019-09-30
 license: GNU LGPL 3
-developers: unkown
-sonarqube_version: 7.9-8.2
+developers: unknown
+sonarqube_version: 8.9-10.0
 category: coverage
 description: Coverage analyzer for Mulesoft Workflows
 details: 
-seo: 
-  name: Mulesoft
-  headline: Mulesoft - SonarQube Plugin
-  type: ItemPage
 
 ---

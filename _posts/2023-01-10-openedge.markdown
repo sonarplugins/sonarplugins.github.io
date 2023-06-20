@@ -1,0 +1,18 @@
+---
+title: OpenEdge
+layout: plugin
+homepage: https://github.com/Riverside-Software/sonar-openedge
+organization: Riverside Software
+organization_url: http://riverside-software.fr
+download_url: https://github.com/Riverside-Software/sonar-openedge/releases/download/V2.19.1/sonar-openedge-plugin-2.19.2.jar
+download_version: 2.19.2
+download_description: Version 2.19.2
+download_date: 2023-01-10
+license: LGPL 3.0
+developers: Gilles QUERRET
+sonarqube_version: 8.9-10.0
+category: languages
+description: Code Analyzer for OpenEdge
+details: 
+
+---

@@ -1,0 +1,18 @@
+---
+title: Russian Pack
+layout: plugin
+homepage: https://github.com/1c-syntax/sonar-l10n-ru
+organization: SilverBulleters, 1c-syntax and contributors
+organization_url: https://github.com/1c-syntax
+download_url: https://github.com/1c-syntax/sonar-l10n-ru/releases/download/v9.9/sonar-l10n-ru-plugin-9.9.jar
+download_version: 9.9
+download_description: Support SonarQube 9.9
+download_date: 2023-03-03
+license: GNU LGPL v3
+developers: Alexey Lustin, Nikita Gryzlov
+sonarqube_version: 9.9-10.0
+category: localization
+description: Language pack for Russian
+details: 
+
+---

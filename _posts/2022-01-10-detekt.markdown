@@ -1,0 +1,18 @@
+---
+title: detekt
+layout: plugin
+homepage: https://github.com/detekt/sonar-kotlin
+organization: detekt Team
+organization_url: https://github.com/detekt
+download_url: https://github.com/detekt/sonar-kotlin/releases/download/2.5.0/sonar-detekt-2.5.0.jar
+download_version: 2.5.0
+download_description: Upgrade to detekt 1.19.0
+download_date: 2022-01-10
+license: GNU LGPL 3
+developers: unknown
+sonarqube_version: 8.9-10.0
+category: external analysers
+description: Provide detekt rules for Kotlin projects
+details: 
+
+---
