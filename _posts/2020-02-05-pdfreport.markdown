@@ -11,7 +11,7 @@ download_date: 2020-02-05
 license: Commercial
 developers: bitegarden
 sonarqube_version: 7.9+
-category: reporting
+category: visualization/reporting
 description: SonarQube plugin for PDF reporting
 details: PDF plugin was deprecated and replaced by bitegarden Report Plugin
 seo: 
