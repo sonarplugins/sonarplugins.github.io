@@ -11,7 +11,7 @@ download_date: 2023-05-29
 license: Commercial
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
-category: governance
+category: visualization/reporting
 description: Generate your project report in PDF, Excel or from a customizable Open Document (ODT)
 details: 
 seo:

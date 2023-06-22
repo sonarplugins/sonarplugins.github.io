@@ -11,7 +11,7 @@ download_date: 2023-04-25
 license: Commercial
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
-category: governance
+category: visualization/reporting
 description: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 details: 
 seo:

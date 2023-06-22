@@ -11,7 +11,7 @@ download_date: 2023-05-04
 license: Commercial
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
-category: governance
+category: visualization/reporting
 description: Provides information about security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
 details: 
 seo:

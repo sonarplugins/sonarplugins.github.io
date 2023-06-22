@@ -11,7 +11,7 @@ download_date: 2023-04-19
 license: Commercial
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
-category: governance
+category: visualization/reporting
 description: Get ratings for all your rule tags in SonarQube
 details: 
 seo:
