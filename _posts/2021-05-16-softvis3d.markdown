@@ -10,7 +10,7 @@ download_description: Compatibility with latest LTS.
 download_date: 2021-05-16
 license: GNU LGPL 3
 developers: Stefan Rinderle,Yvo Niedrich
-sonarqube_version: 8.9-10.0
+sonarqube_version: 8.9-10.1
 category: visualization/reporting
 description: Provides 3D city models
 details: 

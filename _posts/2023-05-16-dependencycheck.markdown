@@ -10,7 +10,7 @@ download_description: Support SonarQube 10
 download_date: 2023-05-16
 license: GNU LGPL 3
 developers: Steve Springett,Philipp Dallig
-sonarqube_version: 9.9-10.0
+sonarqube_version: 9.9-10.1
 category: integration
 description: Integrates Dependency-Check reports into SonarQube
 details: 

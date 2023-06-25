@@ -10,7 +10,7 @@ download_description: Use SpotBugs 4.7.3, sb-contrib 7.4.7, and findsecbugs 1.12
 download_date: 2023-02-12
 license: GNU LGPL 3
 developers: Evgeny Mandrikov,Nicolas Peru
-sonarqube_version: 8.9-10.0
+sonarqube_version: 8.9-10.1
 category: external analysers
 description: Provide Findbugs rules for analysis of Java projects
 details: 

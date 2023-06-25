@@ -10,7 +10,7 @@ download_description: Upgrade to PMD 6.45 and Java 18 support
 download_date: 2022-05-11
 license: GNU LGPL 3
 developers: Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov
-sonarqube_version: 8.9-10.0
+sonarqube_version: 8.9-10.1
 category: external analysers
 description: Provide PMD rules to analyse Java projects
 details: 

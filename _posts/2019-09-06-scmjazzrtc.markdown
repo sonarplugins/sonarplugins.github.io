@@ -10,7 +10,7 @@ download_description: Compatibility with SQ 7.7+
 download_date: 2019-09-06
 license: GNU LGPL 3
 developers: Julien Henry,de Troostembergh Antoine
-sonarqube_version: 8.9-10.0
+sonarqube_version: 8.9-10.1
 category: integration
 description: Provides SCM Jazz RTC integration
 details: 

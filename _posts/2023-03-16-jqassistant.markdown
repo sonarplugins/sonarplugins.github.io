@@ -10,7 +10,7 @@ download_description: Improved sensor performance and ensure that all issues tha
 download_date: 2023-03-16
 license: GNU General Public License, v3
 developers: Dirk Mahler
-sonarqube_version: 8.9-10.0
+sonarqube_version: 8.9-10.1
 category: external analyzers
 description: Analyze issues reported by jQAssistant.
 details: 

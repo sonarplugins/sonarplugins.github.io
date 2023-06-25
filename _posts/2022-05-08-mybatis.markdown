@@ -10,7 +10,7 @@ download_description: support sonarqube 9.0
 download_date: 2022-05-08
 license: Apache License, Version 2.0
 developers: donghui
-sonarqube_version: 9.0-10.0
+sonarqube_version: 9.0-10.1
 category: external analysers
 description: Rules to check SQL statements in MyBatis Mapper XML files.
 details: 

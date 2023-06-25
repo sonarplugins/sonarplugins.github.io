@@ -10,7 +10,7 @@ download_description: Initial release, includes basic support for analyzing Mule
 download_date: 2019-09-30
 license: GNU LGPL 3
 developers: unknown
-sonarqube_version: 8.9-10.0
+sonarqube_version: 8.9-10.1
 category: coverage
 description: Coverage analyzer for Mulesoft Workflows
 details: 
