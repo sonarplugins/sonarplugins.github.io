@@ -14,6 +14,8 @@ sonarqube_version: 8.9.10
 category: visualization/reporting
 description: CNES plugin that allows users to download a bundle of project reports in multiple formats.
 details: 
+warning: The marketplace version of this plugin is not supported in 9.9 LTS or 10.x LATEST
+alternative: bitegardenReport
 seo:
   name: SonarQube CNES Report
   headline: SonarQube CNES Report - SonarQube Plugin

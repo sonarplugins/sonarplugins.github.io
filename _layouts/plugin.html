@@ -46,6 +46,14 @@
         <div style="padding-top: 150px">
         <div class="container">
                 <div class="row">
+                    <h5 class="label label-danger" style="font-size: 20px">{{ page.warning }}</h5>
+                    </div>
+                    {% if page.alternative %}
+                    <div class="row" style="margin-top: 20px">
+                        <h5 class="label label-primary"style="font-size: 15px" >Use <a href="/{{page.alternative}}">this alternative</a> for similar features</h5>
+                    {% endif %}
+                    </div>
+                <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h1>{{ page.title }}</h1>
