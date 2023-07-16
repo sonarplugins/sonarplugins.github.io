@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/ecoCode
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/ecoCode/releases/download/1.2.1/ecocode-java-plugin-1.2.1.jar
-download_version: 1.2.1
-download_description: Initial Marketplace publication of plugin for SonarQube 9.9.+ LTS
-download_date: 2023-04-14
+download_url: https://github.com/green-code-initiative/ecoCode/releases/download/1.3.0/ecocode-java-plugin-1.3.0.jar
+download_version: 1.3.0
+download_description: Update rules tags ; upgrade librairies to SonarQube 10.0.0 ; clean-up plugins and dependencies
+download_date: 2023-07-04
 license: GPL v3
 developers: unknown
 sonarqube_version: 9.9-10.1
