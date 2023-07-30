@@ -4,10 +4,10 @@ layout: plugin
 homepage: http://www.bitegarden.com/sonarqube-report
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.16&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 2.16
-download_description: New feature to enable/disable activity section in PDF reports.
-download_date: 2023-07-20
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.16.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 2.16.1
+download_description: Fix bug with pdf report page number
+download_date: 2023-07-26
 license: Commercial
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
