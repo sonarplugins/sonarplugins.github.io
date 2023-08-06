@@ -4,10 +4,10 @@ layout: plugin
 homepage: http://www.bitegarden.com/sonarqube-report
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-rating-report&productVersion=1.5.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.5.3
-download_description: Added support to SonarQube 10.x
-download_date: 2023-04-19
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-rating-report&productVersion=1.6&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.6
+download_description: Added Pull request and Branch compatibility.
+download_date: 2023-08-04
 license: Commercial
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
