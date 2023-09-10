@@ -10,7 +10,7 @@ download_description: Upgrade to detekt 1.19.0
 download_date: 2022-01-10
 license: GNU LGPL 3
 developers: unknown
-sonarqube_version: 8.9-10.1
+sonarqube_version: 8.9-10.2
 category: external analysers
 description: Provide detekt rules for Kotlin projects
 details: 

@@ -10,7 +10,7 @@ download_description: Support for SonarQube 9.2
 download_date: 2022-01-23
 license: Apache License, Version 2.0
 developers: Sylvain Baudoin
-sonarqube_version: 8.9-10.1
+sonarqube_version: 8.9-10.2
 category: external analyzers
 description: Analyze Ansible playbooks.
 details: 

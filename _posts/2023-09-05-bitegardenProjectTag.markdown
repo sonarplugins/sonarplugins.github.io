@@ -4,10 +4,10 @@ layout: plugin
 homepage: http://www.bitegarden.com/sonarqube-project-tag
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-project-tag-plugin&productVersion=1.2.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.2.1
-download_description: Support for SonarQube 10.x
-download_date: 2023-08-02
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-project-tag-plugin&productVersion=1.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.3
+download_description: Change update tags endpoint response to JSON and internal improvements
+download_date: 2023-09-05
 license: Commercial
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
