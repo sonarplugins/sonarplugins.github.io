@@ -10,7 +10,7 @@ download_description: Makes the plugin compatible with SQ 7.9
 download_date: 2019-09-27
 license: GNU LGPL 3
 developers: Eric Hartmann,Julien Henry,Evgeny Mandrikov,Olivier Gaudin,Simon Brandhof
-sonarqube_version: 8.9-10.2
+sonarqube_version: 8.9-10.2.1
 category: coverage
 description: Provides the ability to compute coverage with Clover
 details: 

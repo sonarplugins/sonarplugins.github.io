@@ -10,7 +10,7 @@ download_description: Bugfix - updated issues are included even with more than 1
 download_date: 2021-08-20
 license: GNU LGPL 3
 developers: Moisés Macero
-sonarqube_version: 8.9-10.2
+sonarqube_version: 8.9-10.2.1
 category: visualization/reporting
 description: Provides integration with Quboo to use Gamification techniques to fix your legacy code.
 details: 

@@ -10,7 +10,7 @@ download_description: Updates rules tags ; adds rules (EC10, EC66, EC203, EC404
 download_date: 2023-07-04
 license: GPL v3
 developers: unknown
-sonarqube_version: 9.9-10.2
+sonarqube_version: 9.9-10.2.1
 category: external analysers
 description: Provide a list of static code analyzers (for Python language) to highlight code structures that may have a negative ecological impact&#58; energy and resources over-consumption, "fatware", shortening terminals' lifespan, etc.
 details: 

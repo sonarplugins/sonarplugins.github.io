@@ -10,7 +10,7 @@ download_description: Support for SQ 9.7+
 download_date: 2022-12-15
 license: Apache License, Version 2.0
 developers: Nicolas Tisserand
-sonarqube_version: 9.7-10.2
+sonarqube_version: 9.7-10.2.1
 category: external analyzers
 description: Adds XML rules test Apigee apiproxies.
 details: 
