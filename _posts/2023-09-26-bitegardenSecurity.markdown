@@ -4,7 +4,7 @@ layout: plugin
 homepage: http://www.bitegarden.com/sonarqube-security
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.187&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.18&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
 download_version: 2.18
 download_description: Added mail notification when the scan its finished
 download_date: 2023-09-26
