@@ -4,10 +4,10 @@ layout: plugin
 homepage: http://www.bitegarden.com/sonarqube-upm
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.6.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.6.1
-download_description: Fix loading bitegarden plugins on instances with network problems
-download_date: 2023-04-13
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.6.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.6.2
+download_description: Added warning to update plugins message
+download_date: 2023-10-17
 license: Commercial (free)
 developers: bitegarden
 sonarqube_version: [7.9-LATEST]
