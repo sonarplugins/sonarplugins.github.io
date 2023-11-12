@@ -1,16 +1,16 @@
 ---
 title: bitegarden Report
 layout: plugin
-homepage: http://www.bitegarden.com/sonarqube-report
+homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
-organization_url: http://www.bitegarden.com
+organization_url: https://www.bitegarden.com
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.18&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
 download_version: 2.18
 download_description: Report generated from code
 download_date: 2023-11-02
 license: Commercial
 developers: bitegarden
-sonarqube_version: [7.9-LATEST]
+sonarqube_version: 7.9-LATEST
 category: visualization/reporting
 description: Generate your project report in PDF, Excel or from a customizable Open Document (ODT)
 details: 

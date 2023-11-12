@@ -10,7 +10,7 @@ download_description: Added bulk tag actions, show lines code and more!!
 download_date: 2023-08-21
 license: Commercial
 developers: bitegarden
-sonarqube_version: [7.9-LATEST]
+sonarqube_version: 7.9-LATEST
 category: admin tools
 description: Manage SonarQube instances
 details: 

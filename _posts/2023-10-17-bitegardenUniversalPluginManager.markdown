@@ -1,16 +1,16 @@
 ---
 title: bitegarden Universal Plugin Manager (UPM)
 layout: plugin
-homepage: http://www.bitegarden.com/sonarqube-upm
+homepage: https://www.bitegarden.com/sonarqube-upm
 organization: bitegarden
-organization_url: http://www.bitegarden.com
+organization_url: https://www.bitegarden.com
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.6.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
 download_version: 1.6.2
 download_description: Added warning to update plugins message
 download_date: 2023-10-17
 license: Commercial (free)
 developers: bitegarden
-sonarqube_version: [7.9-LATEST]
+sonarqube_version: 7.9-LATEST
 category: admin tools
 description: Provides a user-friendly interface to manage your plugins
 details: 

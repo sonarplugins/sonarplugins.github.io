@@ -10,7 +10,7 @@ download_description: Fix properties with equals symbol bug
 download_date: 2023-02-20
 license: Commercial
 developers: bitegarden
-sonarqube_version: [7.9-LATEST]
+sonarqube_version: 7.9-LATEST
 category: languages
 description: Enables analysis for Properties files in SonarQube
 details: 
