@@ -10,7 +10,7 @@ download_description: Version 2.19.2
 download_date: 2023-01-10
 license: LGPL 3.0
 developers: Gilles QUERRET
-sonarqube_version: 8.9-10.2.1
+sonarqube_version: 8.9-10.3
 category: languages
 description: Code Analyzer for OpenEdge
 details: 

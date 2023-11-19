@@ -10,7 +10,7 @@ download_description: Added new rules
 download_date: 2022-01-27
 license: unknown
 developers: unknown
-sonarqube_version: 8.9-10.2.1
+sonarqube_version: 8.9-10.3
 category: external analysers
 description: Analyze Java code smell
 details: 

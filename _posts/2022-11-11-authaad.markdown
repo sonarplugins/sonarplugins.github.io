@@ -10,7 +10,7 @@ download_description: Updates commons-text to fix CVE-2022-42889.
 download_date: 2022-11-11
 license: The MIT License (MIT)
 developers: Hosam Kamel,Michael Johnson
-sonarqube_version: 8.9-10.2.1
+sonarqube_version: 8.9-10.3
 category: integration
 description: Allows the use of Azure Active Directory as an authentication source for SonarQube.
 details: 

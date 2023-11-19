@@ -10,7 +10,7 @@ download_description: Initial Update Center version
 download_date: 2017-04-24
 license: GNU LGPL 3
 developers: Julien Lancelot,Deven Phillips
-sonarqube_version: 8.9-10.2.1
+sonarqube_version: 8.9-10.3
 category: integration
 description: Delegate Authentication to Google
 details: 

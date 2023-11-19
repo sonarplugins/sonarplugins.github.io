@@ -10,7 +10,7 @@ download_description: Initial Marketplace entry
 download_date: 2023-04-13
 license: GNU AGPL 3
 developers: unknown
-sonarqube_version: 8.9-9.9.2
+sonarqube_version: 8.9-9.9.3
 category: languages
 description: Code Analyzer for Gosu
 details: 

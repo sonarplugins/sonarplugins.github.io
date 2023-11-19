@@ -10,7 +10,7 @@ download_description: SonarQube 8.9 LTS compatiblity release due to underlying J
 download_date: 2022-04-08
 license: The Apache Software License, Version 2.0
 developers: Michal Chudy,Szymon Owczarzak,Piotr Wilczyński,Michał Tobiasz,Mateusz Bartkowiak,Jędrzej Pluciński,Krystian Panek
-sonarqube_version: 8.9-10.2.1
+sonarqube_version: 8.9-10.3
 category: external analysers
 description: Adds rules for AEM Java development
 details: 
