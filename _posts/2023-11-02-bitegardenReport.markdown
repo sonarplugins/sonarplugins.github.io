@@ -6,7 +6,7 @@ organization: bitegarden
 organization_url: https://www.bitegarden.com
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.18&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
 download_version: 2.18
-download_description: Report generated from code
+download_description: Internal improvements on report generation
 download_date: 2023-11-02
 license: Commercial
 developers: bitegarden
