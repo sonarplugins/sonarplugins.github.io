@@ -4,9 +4,9 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-upm
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.6.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.6.3
-download_description: Fix encoding characters bug
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.6.4&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.6.4
+download_description: Fix invalid server ID license message
 download_date: 2023-11-17
 license: Commercial (free)
 developers: bitegarden
