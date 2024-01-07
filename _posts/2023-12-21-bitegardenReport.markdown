@@ -4,9 +4,9 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.19&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 2.19
-download_description: New Only Issues and Only Hotspots Report
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-report&productVersion=2.19.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 2.19.1
+download_description: Fix PR mail links and fix disable coverage section bug
 download_date: 2023-12-21
 license: Commercial
 developers: bitegarden
