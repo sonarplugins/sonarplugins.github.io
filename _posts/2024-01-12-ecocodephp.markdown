@@ -1,13 +1,13 @@
 ---
 title: ecoCode - PHP language
 layout: plugin
-homepage: https://github.com/green-code-initiative/ecoCode
+homepage: https://github.com/green-code-initiative/ecoCode-php
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/ecoCode/releases/download/1.3.0/ecocode-php-plugin-1.3.0.jar
-download_version: 1.3.0
-download_description: Updates rules tags ; adds rule (EC3) ; upgrades librairies to SonarQube 10.0.0 ; clean-up plugins and dependencies
-download_date: 2023-07-04
+download_url: https://github.com/green-code-initiative/ecoCode-php/releases/download/1.4.2/ecocode-php-plugin-1.4.2.jar
+download_version: 1.4.2
+download_description: Correction deprecation of EC34 rule; Add 10.3 SonarQube compatibility; Adding EC35 rule; correction bug (SHA1 null when starting SONARQUBE); Fix unit tests execution with Maven; Add new EC2 (Multiple if-else statement)
+download_date: 2024-01-12
 license: GPL v3
 developers: unknown
 sonarqube_version: 9.9-10.3

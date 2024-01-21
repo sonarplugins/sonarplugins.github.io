@@ -1,13 +1,13 @@
 ---
 title: ecoCode - Python language
 layout: plugin
-homepage: https://github.com/green-code-initiative/ecoCode
+homepage: https://github.com/green-code-initiative/ecoCode-python
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/ecoCode/releases/download/1.3.0/ecocode-python-plugin-1.3.0.jar
-download_version: 1.3.0
-download_description: Updates rules tags ; adds rules (EC10, EC66, EC203, EC404) ; upgrade librairies to SonarQube 10.0.0 ; clean-up plugins and dependencies
-download_date: 2023-07-04
+download_url: https://github.com/green-code-initiative/ecoCode-python/releases/download/1.4.2/ecocode-python-plugin-1.4.2.jar
+download_version: 1.4.2
+download_description: Correction deprecation of EC34 rule; Add 10.3 SonarQube compatibility; Adding EC35 rule; Improve unit tests for EC7 rule; Correction of NullPointException in EC2 rule; Deprecate rule EC66
+download_date: 2024-01-11
 license: GPL v3
 developers: unknown
 sonarqube_version: 9.9-10.3
