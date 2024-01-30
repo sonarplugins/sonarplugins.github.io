@@ -10,7 +10,7 @@ download_description: Fix a bug that caused a crash when both 'main' and 'test' 
 download_date: 2017-04-21
 license: Apache License, Version 2.0
 developers: Robert Willems of Brilman
-sonarqube_version: 8.9-10.3
+sonarqube_version: 9.9-10.3
 category: external analysers
 description: Provide package-level metrics and rules
 details: 
