@@ -10,7 +10,7 @@ download_description: Upgrade to Checkstyle 10.12.5
 download_date: 2023-11-26
 license: LGPL-3.0
 developers: Daniel Muehlbachler-Pietrzykowski,Roman Ivanov,Richard Veach,Evgeny Mandrikov,Michael Gumowski,Nicolas Peru
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-10.4
 category: external analysers
 description: Provide Checkstyle rules for Java projects
 details: 

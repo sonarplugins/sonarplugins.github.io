@@ -10,7 +10,7 @@ download_description: Upgraded compatibility to jQAssistant 2.0 and SonarQube 9.
 download_date: 2023-08-27
 license: GNU General Public License, v3
 developers: Dirk Mahler
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-10.4
 category: external analyzers
 description: Analyze issues reported by jQAssistant.
 details: 

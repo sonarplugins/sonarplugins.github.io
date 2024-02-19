@@ -10,7 +10,7 @@ download_description: Support dependency-check 9.0.2
 download_date: 2023-12-12
 license: GNU LGPL 3
 developers: Steve Springett,Philipp Dallig
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-10.4
 category: integration
 description: Integrates Dependency-Check reports into SonarQube
 details: 

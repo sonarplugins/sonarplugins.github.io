@@ -10,7 +10,7 @@ download_description: Speed optimization
 download_date: 2023-07-31
 license: GNU LGPL v3
 developers: Alexey Sosnoviy, Nikita Fedkin
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-10.4
 category: languages
 description: Code Analyzer for 1C (BSL)
 details: 

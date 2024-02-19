@@ -10,7 +10,7 @@ download_description: Initial Marketplace publication. Add 33 new rules (Java), 
 download_date: 2023-11-17
 license: GPL v3
 developers: unknown
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-10.4
 category: external analysers
 description: Provides rules to reduce the environmental footprint of your Android applications
 details: 

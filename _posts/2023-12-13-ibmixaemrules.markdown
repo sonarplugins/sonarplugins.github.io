@@ -10,7 +10,7 @@ download_description: Bugfixes and improvements, compatibility changes
 download_date: 2023-12-13
 license: Apache License, Version 2.0
 developers: Martin Gluhak,Andreas Maller,Daniel Strmecki
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-10.4
 category: external analysers
 description: Plugin containing custom Sonar rules for AEM development based on IBM iX internal guidelines
 details: 

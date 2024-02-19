@@ -10,7 +10,7 @@ download_description: Support for Surviving Mutants as Code Smells
 download_date: 2022-09-02
 license: GNU LGPL 3
 developers: Gerald Muecke
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-10.4
 category: coverage
 description: Import Pitest mutation analysis results
 details: 
