@@ -10,7 +10,7 @@ download_description: 5 new rules, parsing improvements, improvements to intrins
 download_date: 2024-02-02
 license: GNU LGPL 3
 developers: Jonah Jeleniewski,The Agile Excuse Team - Monash University,Sandro Luck,Fabricio Colombo,Przemyslaw Kociolek,Michal Wojcik
-sonarqube_version: 9.9-10.4
+sonarqube_version: 9.9-10.4.1
 category: languages
 description: Code Analyzer for Delphi
 details: 

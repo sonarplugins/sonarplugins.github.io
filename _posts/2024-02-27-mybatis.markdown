@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/donhui/sonar-mybatis
 organization: unknown
 organization_url: unknown
-download_url: https://github.com/donhui/sonar-mybatis/releases/download/1.0.7/sonar-mybatis-plugin-1.0.7.jar
-download_version: 1.0.7
-download_description: support sonarqube 9.0
-download_date: 2022-05-08
+download_url: https://github.com/donhui/sonar-mybatis/releases/download/1.0.8/sonar-mybatis-plugin-1.0.8.jar
+download_version: 1.0.8
+download_description: support sonarqube 10.4
+download_date: 2024-02-27
 license: Apache License, Version 2.0
 developers: donghui
-sonarqube_version: 9.9-10.4
+sonarqube_version: 10.4-10.4.1
 category: external analysers
 description: Rules to check SQL statements in MyBatis Mapper XML files.
 details: 
