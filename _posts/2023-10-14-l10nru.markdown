@@ -10,7 +10,7 @@ download_description: Support SonarQube 10.3
 download_date: 2023-10-14
 license: GNU LGPL v3
 developers: Alexey Lustin, Nikita Gryzlov
-sonarqube_version: 10.3-10.4.1
+sonarqube_version: 10.3-10.5
 category: localization
 description: Language pack for Russian
 details: 

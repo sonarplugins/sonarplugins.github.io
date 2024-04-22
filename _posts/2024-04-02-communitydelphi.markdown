@@ -10,7 +10,7 @@ download_description: Full Delphi 12 support, attribute parsing improvements, pe
 download_date: 2024-04-02
 license: GNU LGPL 3
 developers: Jonah Jeleniewski,The Agile Excuse Team - Monash University,Sandro Luck,Fabricio Colombo,Przemyslaw Kociolek,Michal Wojcik
-sonarqube_version: 9.9-10.4.1
+sonarqube_version: 9.9-10.5
 category: languages
 description: Code Analyzer for Delphi
 details: 

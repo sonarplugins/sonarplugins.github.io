@@ -10,7 +10,7 @@ download_description: update DevOps api
 download_date: 2022-05-26
 license: MIT
 developers: Dinesh Bolkensteyn,Julien Henry
-sonarqube_version: 9.9-10.4.1
+sonarqube_version: 9.9-10.5
 category: integration
 description: Provides SCM TFVC integration
 details: 

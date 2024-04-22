@@ -10,7 +10,7 @@ download_description: New rules added for AEM testing
 download_date: 2024-02-28
 license: Apache License, Version 2.0
 developers: Martin Gluhak,Andreas Maller,Daniel Strmecki
-sonarqube_version: 9.9-10.4.1
+sonarqube_version: 9.9-10.5
 category: external analysers
 description: Plugin containing custom Sonar rules for AEM development based on IBM iX internal guidelines
 details: 

@@ -10,7 +10,7 @@ download_description: Fix classnotfound error
 download_date: 2018-07-06
 license: GNU LGPL 3
 developers: Julien Henry
-sonarqube_version: 9.9-10.4.1
+sonarqube_version: 9.9-10.5
 category: integration
 description: Provides SCM CVS integration
 details: 

@@ -10,7 +10,7 @@ download_description: Rust Grammar for SQ 10
 download_date: 2023-03-29
 license: Apache License, Version 2.0
 developers: Eric Le Goff,Philipp Fruck,Thibault Falque
-sonarqube_version: 10.4-10.4.1
+sonarqube_version: 10.4-10.5
 category: languages
 description: Code Analyzer for Rust
 details: 

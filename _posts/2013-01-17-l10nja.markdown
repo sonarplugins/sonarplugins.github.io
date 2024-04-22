@@ -10,7 +10,7 @@ download_description: Supports Sonar 3.4
 download_date: 2013-01-17
 license: GNU LGPL 3
 developers: unknown
-sonarqube_version: 9.9-10.3
+sonarqube_version: 9.9-9.9.4
 category: localization
 description: Language Pack for Japanese
 details: 
