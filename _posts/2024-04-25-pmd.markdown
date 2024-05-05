@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/jborgers/sonar-pmd
 organization: unknown
 organization_url: unknown
-download_url: https://github.com/jborgers/sonar-pmd/releases/download/3.4.0/sonar-pmd-plugin-3.4.0.jar
-download_version: 3.4.0
-download_description: Upgrade to PMD 6.45 and Java 18 support
-download_date: 2022-05-11
+download_url: https://github.com/jborgers/sonar-pmd/releases/download/3.5.0/sonar-pmd-plugin-3.5.0.jar
+download_version: 3.5.0
+download_description: Upgrade to PMD 6.55 and Java 20-preview support. Java 21: falls back on 20-preview.
+download_date: 2024-04-25
 license: GNU LGPL 3
 developers: Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov
-sonarqube_version: 9.9-10.1
+sonarqube_version: 9.9-10.4.1
 category: external analysers
 description: Provide PMD rules to analyse Java projects
 details: 

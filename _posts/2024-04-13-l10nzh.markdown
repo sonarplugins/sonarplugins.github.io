@@ -10,7 +10,7 @@ download_description: Support SonarQube 10.5
 download_date: 2024-04-13
 license: GNU LGPL 3
 developers: Xu Huisheng
-sonarqube_version: 10.5
+sonarqube_version: 10.5-10.5.1
 category: localization
 description: SonarQube Chinese Pack
 details: 

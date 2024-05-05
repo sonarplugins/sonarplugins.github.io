@@ -10,7 +10,7 @@ download_description: Brings 54 new rules, fixes some minor issues
 download_date: 2021-11-17
 license: Apache License, Version 2.0
 developers: Sylvain Baudoin
-sonarqube_version: 9.9-10.5
+sonarqube_version: 9.9-10.5.1
 category: languages
 description: Enables scanning of shell scripts
 details: 
