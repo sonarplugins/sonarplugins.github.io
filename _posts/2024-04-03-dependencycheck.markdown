@@ -10,7 +10,7 @@ download_description: Update SonarQube-API and SonarSource Parent
 download_date: 2024-04-03
 license: GNU LGPL 3
 developers: Steve Springett,Philipp Dallig
-sonarqube_version: 10.4-10.5.1
+sonarqube_version: 10.4-10.6
 category: integration
 description: Integrates Dependency-Check reports into SonarQube
 details: 
