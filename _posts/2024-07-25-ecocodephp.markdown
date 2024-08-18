@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/ecoCode-php
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/ecoCode-php/releases/download/1.4.4/ecocode-php-plugin-1.4.4.jar
-download_version: 1.4.4
-download_description: Add support for SonarQube 10.6.0
-download_date: 2024-07-19
+download_url: https://github.com/green-code-initiative/ecoCode-php/releases/download/1.5.1/ecocode-php-plugin-1.5.1.jar
+download_version: 1.5.1
+download_description: incompatible upgrade of dependencies to latest ones; internal technical modifications
+download_date: 2024-07-25
 license: GPL v3
 developers: unknown
 sonarqube_version: 9.9-10.6
