@@ -1,0 +1,22 @@
+---
+title: ZPA
+layout: plugin
+homepage: https://zpa.felipebz.com
+organization: Felipe Zorzo
+organization_url: https://felipebz.com
+download_url: https://github.com/felipebz/zpa/releases/download/3.6.0/sonar-zpa-plugin-3.6.0.jar
+download_version: 3.6.0
+download_description: Improved support for syntaxes introduced in Oracle 23ai, bug fixes, and performance improvements.
+download_date: 2024-10-03
+license: GNU LGPL 3
+developers: Felipe Zorzo
+sonarqube_version: 9.9-10.7
+category: languages
+description: Enables analysis and reporting on PL/SQL projects
+details: 
+seo:
+  name: ZPA
+  headline: ZPA - SonarQube Plugin
+  type: ItemPage
+
+---
