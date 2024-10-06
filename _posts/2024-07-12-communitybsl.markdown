@@ -10,7 +10,7 @@ download_description: Performance optimization, filtering by subsystems
 download_date: 2024-07-12
 license: GNU LGPL v3
 developers: Alexey Sosnoviy, Nikita Fedkin
-sonarqube_version: 9.9-10.6
+sonarqube_version: 9.9-10.7
 category: languages
 description: Code Analyzer for 1C (BSL)
 details: 

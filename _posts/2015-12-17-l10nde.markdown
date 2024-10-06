@@ -10,7 +10,7 @@ download_description: Supports SonarQube 5.0
 download_date: 2015-12-17
 license: GNU LGPL 3
 developers: Christian Schulz,Philipp Nestler
-sonarqube_version: 9.9-9.9.6
+sonarqube_version: 9.9-9.9.7
 category: localization
 description: Language Pack for German
 details: 

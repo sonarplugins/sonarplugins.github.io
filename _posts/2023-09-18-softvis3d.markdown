@@ -10,7 +10,7 @@ download_description: Compatibility with SQ 10.X.
 download_date: 2023-09-18
 license: GNU LGPL 3
 developers: Stefan Rinderle,Yvo Niedrich
-sonarqube_version: 10.0-10.6
+sonarqube_version: 10.0-10.7
 category: visualization/reporting
 description: Provides 3D city models
 details: 

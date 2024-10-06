@@ -10,7 +10,7 @@ download_description: Uses CodeNarc 1.6.1, compatibility with SonarQube 9.0
 download_date: 2021-08-19
 license: GNU LGPL 3
 developers: Tobias Gruetzmacher
-sonarqube_version: 9.9-10.6
+sonarqube_version: 9.9-10.7
 category: languages
 description: Enables scanning of Groovy source files
 details: 

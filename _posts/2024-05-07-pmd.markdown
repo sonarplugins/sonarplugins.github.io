@@ -10,7 +10,7 @@ download_description: PMD 6.55, support Java 20-preview (Java 21), run on Java 1
 download_date: 2024-05-07
 license: GNU LGPL 3
 developers: Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov
-sonarqube_version: 9.9.4-10.6
+sonarqube_version: 9.9.4-10.7
 category: external analysers
 description: Provide PMD rules to analyse Java projects
 details: 
