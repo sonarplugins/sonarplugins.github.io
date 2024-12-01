@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-upm
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.6.7&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.6.7
-download_description: UI modified to be compatible with new versions
-download_date: 2024-05-14
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.7&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.7
+download_description: Added marketplace section and obtain plugins from marketplace
+download_date: 2024-11-28
 license: Commercial (free)
 developers: bitegarden
 sonarqube_version: 7.9-LATEST
