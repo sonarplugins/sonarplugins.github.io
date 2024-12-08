@@ -10,7 +10,7 @@ download_description: Adds Sonar 3.6 terms
 download_date: 2013-09-02
 license: GNU LGPL 3
 developers: Papapetrou Patroklos
-sonarqube_version: 9.9-9.9.7
+sonarqube_version: 9.9-9.9.8
 category: localization
 description: Language Pack for Greek
 details: 
