@@ -1,7 +1,7 @@
 ---
 title: Google Authentication for SonarQube
 layout: plugin
-homepage: null
+homepage: 
 organization: SonarSource
 organization_url: http://www.sonarsource.com
 download_url: https://github.com/InfoSec812/sonar-auth-google/releases/download/1.6.1/sonar-auth-googleoauth-plugin-1.6.1.jar
@@ -10,8 +10,8 @@ download_description: Initial Update Center version
 download_date: 2017-04-24
 license: GNU LGPL 3
 developers: Julien Lancelot,Deven Phillips
-sonarqube_version: 9.9-9.9.8
-category: integration
+sonarqube_version: 9.9-10.6
+category: integraciã³n
 description: Delegate Authentication to Google
 details: 
 seo:

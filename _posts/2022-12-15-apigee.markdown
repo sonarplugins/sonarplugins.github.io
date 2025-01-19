@@ -2,7 +2,7 @@
 title: Apigee
 layout: plugin
 homepage: https://github.com/CreditMutuelArkea/sonar-apigee-plugin
-organization: Crédit Mutuel Arkéa
+organization: CrÃ©dit Mutuel ArkÃ©a
 organization_url: https://github.com/CreditMutuelArkea
 download_url: https://github.com/CreditMutuelArkea/sonar-apigee-plugin/releases/download/v3.0.2/sonar-apigee-plugin-3.0.2.jar
 download_version: 3.0.2
@@ -11,7 +11,7 @@ download_date: 2022-12-15
 license: Apache License, Version 2.0
 developers: Nicolas Tisserand
 sonarqube_version: 9.9-10.4
-category: external analyzers
+category: analizadores externos
 description: Adds XML rules test Apigee apiproxies.
 details: 
 seo:

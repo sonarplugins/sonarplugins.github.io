@@ -9,9 +9,9 @@ download_version: 1.14
 download_description: Support for SonarQube 6.7+
 download_date: 2018-09-12
 license: GNU LGPL 3
-developers: Rubén Melcón,Antonio Calero
-sonarqube_version: 9.9-10.7
-category: localization
+developers: RubÃ©n MelcÃ³n,Antonio Calero
+sonarqube_version: 9.9-10.6
+category: localizaciã³n
 description: Language Pack for Spanish
 details: 
 seo:

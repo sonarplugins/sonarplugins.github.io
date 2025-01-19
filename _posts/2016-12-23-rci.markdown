@@ -2,16 +2,16 @@
 title: Rules Compliance Index (RCI)
 layout: plugin
 homepage: https://github.com/willemsrb/sonar-rci-plugin
-organization: unknown
-organization_url: unknown
+organization: 
+organization_url: 
 download_url: https://github.com/willemsrb/sonar-rci-plugin/releases/download/sonar-rci-plugin-1.0.1/sonar-rci-plugin-1.0.1.jar
 download_version: 1.0.1
 download_description: Typo fix
 download_date: 2016-12-23
 license: Apache License, Version 2.0
 developers: Robert Willems of Brilman
-sonarqube_version: 9.9-10.7
-category: external analysers
+sonarqube_version: 9.9-10.6
+category: analizadores externos
 description: Revives the Rule Compliance Index metric
 details: 
 seo:

@@ -10,8 +10,8 @@ download_description: Fixes some issues with the newly added auto-login servlet 
 download_date: 2022-01-07
 license: APACHE 2
 developers: Torsten Juergeleit
-sonarqube_version: 9.9-10.7
-category: integration
+sonarqube_version: 9.9-10.6
+category: integraciã³n
 description: Delegate authentication using the OpenID Connect protocol
 details: 
 seo:

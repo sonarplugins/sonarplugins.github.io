@@ -10,8 +10,8 @@ download_description: Fix logger info on measure computer
 download_date: 2024-04-11
 license: Commercial (free)
 developers: bitegarden
-sonarqube_version: 6.7-LATEST
-category: additional metrics
+sonarqube_version: 7.9-10.5
+category: mã©tricas adicionales
 description: Provides a new bunch of metrics for your SonarQube instance
 details: 
 seo:

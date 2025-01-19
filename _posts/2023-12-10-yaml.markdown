@@ -2,16 +2,16 @@
 title: YAML Analyzer
 layout: plugin
 homepage: https://github.com/sbaudoin/sonar-yaml
-organization: unknown
-organization_url: unknown
+organization: 
+organization_url: 
 download_url: https://github.com/sbaudoin/sonar-yaml/releases/download/v1.9.1/sonar-yaml-plugin-1.9.1.jar
 download_version: 1.9.1
 download_description: Few bugs and security fixes
 download_date: 2023-12-10
 license: Apache License, Version 2.0
 developers: Sylvain Baudoin
-sonarqube_version: 9.9-10.7
-category: languages
+sonarqube_version: 9.9-10.6
+category: lenguajes
 description: Allows the analysis of YAML documents
 details: 
 seo:

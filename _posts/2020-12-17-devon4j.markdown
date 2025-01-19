@@ -9,9 +9,9 @@ download_version: 2020.12.002
 download_description: Added support for custom architecture configurations, additional rules checking the correct use of third-party libraries as well as multiple bug fixes and minor improvements.
 download_date: 2020-12-17
 license: Apache Software License, Version 2.0
-developers: Jörg Hohwiller,Sam Sabah
+developers: JÃ¶rg Hohwiller,Sam Sabah
 sonarqube_version: 9.9-10.4
-category: governance
+category: gobernanza
 description: Plugin for SonarQube to validate devon4j architecture and conventions.
 details: 
 seo:

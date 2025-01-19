@@ -10,8 +10,8 @@ download_description: Update rules with Shellcheck plugin 2.4.0 & Hadolint 2.6.1
 download_date: 2021-09-23
 license: GNU General Public License, Version 3.0
 developers: Alexis Chatillon
-sonarqube_version: 9.9-10.7
-category: external analyzers
+sonarqube_version: 9.9-10.6
+category: analizadores externos
 description: Sonar Hadolint Plugin allows users to import results from Hadolint into SonarQube. To do this, it creates a Dockerfile language with highlightings & metrics, and a Quality Profile with Hadolint & Shellcheck rules.
 details: 
 seo:
