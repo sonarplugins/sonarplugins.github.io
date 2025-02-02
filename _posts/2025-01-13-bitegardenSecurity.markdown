@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-security
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.24&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 2.24
-download_description: New endpoint to sent analysis notifications and added more info to reports
-download_date: 2024-06-07
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.26.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 2.26.1
+download_description: Added compatibility with SonarQube Server Community
+download_date: 2025-01-13
 license: Commercial
 developers: bitegarden
-sonarqube_version: 7.9-LATEST
+sonarqube_version: 10.7-7.9
 category: visualizaciã³n/informes
 description: Provides information about security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
 details: 

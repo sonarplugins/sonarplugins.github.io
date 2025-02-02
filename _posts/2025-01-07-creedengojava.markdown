@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/creedengo-java
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/creedengo-java/releases/download/2.0.0/creedengo-java-plugin-2.0.0.jar
-download_version: 2.0.0
-download_description: Initial Marketplace publication of plugin after renaming from "ecocode-java"
-download_date: 2024-12-18
+download_url: https://github.com/green-code-initiative/creedengo-java/releases/download/2.1.0/creedengo-java-plugin-2.1.0.jar
+download_version: 2.1.0
+download_description: Add rule GCI82 and GCI94; Add support for SonarQube 24.12.0; improve library versions
+download_date: 2025-01-07
 license: GPL v3
 developers: 
 sonarqube_version: 9.9-10.7

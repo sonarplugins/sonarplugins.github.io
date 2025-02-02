@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/Riverside-Software/sonar-openedge
 organization: Riverside Software
 organization_url: http://riverside-software.fr
-download_url: https://github.com/Riverside-Software/sonar-openedge/releases/download/V2.24.1/sonar-openedge-plugin-2.24.3.jar
-download_version: 2.24.3
-download_description: Version 2.24.3
-download_date: 2024-01-26
+download_url: https://github.com/Riverside-Software/sonar-openedge/releases/download/V2.30.0/sonar-openedge-plugin-2.30.0.jar
+download_version: 2.30.0
+download_description: Version 2.30.0
+download_date: 2025-01-02
 license: LGPL 3.0
 developers: Gilles QUERRET
-sonarqube_version: 9.9-10.6
+sonarqube_version: 
 category: lenguajes
 description: Code Analyzer for OpenEdge
 details: 
