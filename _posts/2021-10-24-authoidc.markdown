@@ -1,19 +1,19 @@
 ---
 title: OpenID Connect Authentication for SonarQube
 layout: plugin
-homepage: https://github.com/vaulttec/sonar-auth-oidc
-organization: Vaulttec
-organization_url: http://vaulttec.org
-download_url: https://github.com/vaulttec/sonar-auth-oidc/releases/download/v2.1.1/sonar-auth-oidc-plugin-2.1.1.jar
+homepage: https://github.com/sonar-auth-oidc/sonar-auth-oidc
+organization: sonar-auth-oidc
+organization_url: https://github.com/sonar-auth-oidc/
+download_url: https://github.com/sonar-auth-oidc/sonar-auth-oidc/releases/download/v2.1.1/sonar-auth-oidc-plugin-2.1.1.jar
 download_version: 2.1.1
 download_description: Fixes some issues with the newly added auto-login servlet filter
-download_date: 2022-01-07
+download_date: 2021-10-24
 license: APACHE 2
 developers: Torsten Juergeleit
 sonarqube_version: 9.9-10.6
 category: integraciã³n
 description: Delegate authentication using the OpenID Connect protocol
-details: 
+details: This plugin currently does not work with SonarQube v25 or greater. See https://github.com/sonar-auth-oidc/sonar-auth-oidc/issues/81.
 seo:
   name: OpenID Connect Authentication for SonarQube
   headline: OpenID Connect Authentication for SonarQube - SonarQube Plugin
