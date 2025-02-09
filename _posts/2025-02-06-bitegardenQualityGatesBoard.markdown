@@ -4,10 +4,10 @@ layout: plugin
 homepage: http://www.bitegarden.com
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-quality-gates-board&productVersion=1.1.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.1.1
-download_description: Added compatibility with SonarQube Server Community
-download_date: 2025-01-13
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-quality-gates-board&productVersion=1.1.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.1.2
+download_description: Fix missing metric texts problem
+download_date: 2025-02-06
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9

@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/integrated-application-development/sonar-delphi
 organization: IntegraDev
 organization_url: https://www.integradev.com.au/
-download_url: https://github.com/integrated-application-development/sonar-delphi/releases/download/v1.12.2/sonar-delphi-plugin-1.12.2.jar
-download_version: 1.12.2
-download_description: Bug fixes
-download_date: 2025-01-06
+download_url: https://github.com/integrated-application-development/sonar-delphi/releases/download/v1.13.0/sonar-delphi-plugin-1.13.0.jar
+download_version: 1.13.0
+download_description: Improvements to EmptyBlock and EmptyRoutine, analyzer search path improvements, bug fixes
+download_date: 2025-02-04
 license: GNU LGPL 3
 developers: Jonah Jeleniewski,The Agile Excuse Team - Monash University,Sandro Luck,Fabricio Colombo,Przemyslaw Kociolek,Michal Wojcik
 sonarqube_version: 9.9-10.7
