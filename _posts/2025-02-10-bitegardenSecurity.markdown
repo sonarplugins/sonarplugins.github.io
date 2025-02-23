@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-security
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.26.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 2.26.1
-download_description: Added compatibility with SonarQube Server Community
-download_date: 2025-01-13
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.27&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 2.27
+download_description: Added the ability to filter requirement levels in the ASVS report
+download_date: 2025-02-10
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
