@@ -11,7 +11,7 @@ download_date: 2025-01-22
 license: GPL v3
 developers: 
 sonarqube_version: 9.9-10.7
-category: analizadores externos
+category: external analysers
 description: Provide a list of static code analyzers (for Javascript language) to highlight code structures that may have a negative ecological impact&#58; energy and resources over-consumption, "fatware", shortening terminals' lifespan, etc.
 details: 
 seo:

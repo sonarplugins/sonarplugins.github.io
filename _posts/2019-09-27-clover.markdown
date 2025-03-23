@@ -11,7 +11,7 @@ download_date: 2019-09-27
 license: GNU LGPL 3
 developers: Eric Hartmann,Julien Henry,Evgeny Mandrikov,Olivier Gaudin,Simon Brandhof
 sonarqube_version: 9.9-10.4
-category: cobertura
+category: coverage
 description: Provides the ability to compute coverage with Clover
 details: 
 seo:

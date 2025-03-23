@@ -11,7 +11,7 @@ download_date: 2022-11-11
 license: The MIT License (MIT)
 developers: Hosam Kamel,Michael Johnson
 sonarqube_version: 9.9-10.6
-category: integraciã³n
+category: integration
 description: Allows the use of Azure Active Directory as an authentication source for SonarQube.
 details: 
 seo:

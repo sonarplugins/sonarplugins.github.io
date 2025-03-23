@@ -11,7 +11,7 @@ download_date: 2025-01-09
 license: Commercial (free)
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: herramientas de administraciã³n
+category: admin tools
 description: Provides a user-friendly interface to manage your plugins
 details: 
 seo:

@@ -11,7 +11,7 @@ download_date: 2022-04-08
 license: The Apache Software License, Version 2.0
 developers: Michal Chudy,Szymon Owczarzak,Piotr WilczyÅski,MichaÅ Tobiasz,Mateusz Bartkowiak,JÄdrzej PluciÅski,Krystian Panek
 sonarqube_version: 9.9-10.4
-category: analizadores externos
+category: external analysers
 description: Adds rules for AEM Java development
 details: 
 seo:

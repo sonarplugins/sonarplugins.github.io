@@ -11,7 +11,7 @@ download_date: 2025-01-10
 license: GNU LGPL v3
 developers: Alexey Lustin, Nikita Gryzlov
 sonarqube_version: 
-category: localizaciã³n
+category: localization
 description: Language pack for Russian
 details: 
 seo:

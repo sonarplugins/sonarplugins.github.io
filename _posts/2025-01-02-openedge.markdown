@@ -11,7 +11,7 @@ download_date: 2025-01-02
 license: LGPL 3.0
 developers: Gilles QUERRET
 sonarqube_version: 
-category: lenguajes
+category: languages
 description: Code Analyzer for OpenEdge
 details: 
 seo:

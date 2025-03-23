@@ -11,7 +11,7 @@ download_date: 2022-05-26
 license: MIT
 developers: Dinesh Bolkensteyn,Julien Henry
 sonarqube_version: 9.9-10.6
-category: integraciã³n
+category: integration
 description: Provides SCM TFVC integration
 details: 
 seo:

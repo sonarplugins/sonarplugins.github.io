@@ -11,7 +11,7 @@ download_date: 2025-02-06
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualizaciã³n/informes
+category: visualization/reporting
 description: Provides a board in your project space to check if you pass or fail a given set of quality gates
 details: 
 seo:
