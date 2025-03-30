@@ -11,7 +11,7 @@ download_date: 2023-04-13
 license: GNU AGPL 3
 developers: 
 sonarqube_version: 9.9-9.9.6
-category: languages
+category: lenguajes
 description: Code Analyzer for Gosu
 details: 
 seo:

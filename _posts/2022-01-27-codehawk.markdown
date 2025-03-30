@@ -11,7 +11,7 @@ download_date: 2022-01-27
 license: 
 developers: 
 sonarqube_version: 9.9-10.4
-category: external analysers
+category: analizadores externos
 description: Analyze Java code smell
 details: 
 seo:

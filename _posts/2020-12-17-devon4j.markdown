@@ -11,7 +11,7 @@ download_date: 2020-12-17
 license: Apache Software License, Version 2.0
 developers: JÃ¶rg Hohwiller,Sam Sabah
 sonarqube_version: 9.9-10.4
-category: governance
+category: gobernanza
 description: Plugin for SonarQube to validate devon4j architecture and conventions.
 details: 
 seo:

@@ -11,7 +11,7 @@ download_date: 2013-09-02
 license: GNU LGPL 3
 developers: Papapetrou Patroklos
 sonarqube_version: 9.9-10.6
-category: localization
+category: localizaciã³n
 description: Language Pack for Greek
 details: 
 seo:

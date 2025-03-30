@@ -11,7 +11,7 @@ download_date: 2025-01-13
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualization/reporting
+category: visualizaciã³n/informes
 description: View your Dependency Track reports from SonarQubeâ¢
 details: 
 seo:

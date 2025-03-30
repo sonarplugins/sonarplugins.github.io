@@ -11,7 +11,7 @@ download_date: 2025-03-03
 license: GNU LGPL 3
 developers: Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov
 sonarqube_version: 9.9.4-10.7
-category: external analysers
+category: analizadores externos
 description: Provide PMD rules to analyse Java projects
 details: 
 seo:

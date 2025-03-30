@@ -11,7 +11,7 @@ download_date: 2023-11-17
 license: GPL v3
 developers: 
 sonarqube_version: 9.9-10.4
-category: external analysers
+category: analizadores externos
 description: Provides rules to reduce the environmental footprint of your Android applications
 details: 
 seo:

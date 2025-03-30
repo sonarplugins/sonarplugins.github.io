@@ -11,7 +11,7 @@ download_date: 2025-03-05
 license: GNU LGPL 3
 developers: Jonah Jeleniewski,The Agile Excuse Team - Monash University,Sandro Luck,Fabricio Colombo,Przemyslaw Kociolek,Michal Wojcik
 sonarqube_version: 9.9-10.7
-category: languages
+category: lenguajes
 description: Code Analyzer for Delphi
 details: 
 seo:

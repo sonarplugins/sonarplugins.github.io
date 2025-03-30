@@ -11,7 +11,7 @@ download_date: 2018-04-09
 license: GNU LGPL 3
 developers: Moses Kim
 sonarqube_version: 9.9-10.6
-category: localization
+category: localizaciã³n
 description: Language Pack for Korean
 details: 
 seo:

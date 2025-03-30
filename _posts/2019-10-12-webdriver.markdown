@@ -11,7 +11,7 @@ download_date: 2019-10-12
 license: 
 developers: 
 sonarqube_version: 9.9-10.4
-category: external analysers
+category: analizadores externos
 description: Analyzer for WebDriver (Selenium or Appium) tests.
 details: 
 seo:

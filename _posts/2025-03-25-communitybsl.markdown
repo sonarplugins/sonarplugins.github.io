@@ -4,14 +4,14 @@ layout: plugin
 homepage: https://1c-syntax.github.io/sonar-bsl-plugin-community/en
 organization: 1c-syntax
 organization_url: https://github.com/1c-syntax
-download_url: https://github.com/1c-syntax/sonar-bsl-plugin-community/releases/download/v1.15.2/sonar-communitybsl-plugin-1.15.2.jar
-download_version: 1.15.2
-download_description: Support SQ 25.1+
-download_date: 2025-01-28
+download_url: https://github.com/1c-syntax/sonar-bsl-plugin-community/releases/download/v1.16.1/sonar-communitybsl-plugin-1.16.1.jar
+download_version: 1.16.1
+download_description: Performance optimization, new diagnostics
+download_date: 2025-03-25
 license: GNU LGPL v3
 developers: Alexey Sosnoviy, Nikita Fedkin
 sonarqube_version: 9.9-10.7
-category: languages
+category: lenguajes
 description: Code Analyzer for 1C (BSL)
 details: 
 seo:
