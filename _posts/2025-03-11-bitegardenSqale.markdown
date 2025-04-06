@@ -1,5 +1,5 @@
 ---
-title: bitegarden SQALE
+title: SQALE for SonarQubeâ¢ Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-sqale
 organization: bitegarden
@@ -15,8 +15,8 @@ category: visualizaciã³n/informes
 description: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 details: 
 seo:
-  name: bitegarden SQALE
-  headline: bitegarden SQALE - SonarQube Plugin
+  name: SQALE for SonarQubeâ¢ Server
+  headline: SQALE for SonarQubeâ¢ Server - SonarQube Plugin
   type: ItemPage
 
 ---

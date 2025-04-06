@@ -1,5 +1,5 @@
 ---
-title: Overview Report for SonarQubeâ¢
+title: Overview Report for SonarQubeâ¢ Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-portfolio
 organization: bitegarden
@@ -12,11 +12,11 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: visualizaciã³n/informes
-description: Provides a big picture of your SonarQube instance with all the aggregated measures in a single view
+description: Provides a big picture of your server with all the aggregated measures in a single view
 details: 
 seo:
-  name: Overview Report for SonarQubeâ¢
-  headline: Overview Report for SonarQubeâ¢ - SonarQube Plugin
+  name: Overview Report for SonarQubeâ¢ Server
+  headline: Overview Report for SonarQubeâ¢ Server - SonarQube Plugin
   type: ItemPage
 
 ---

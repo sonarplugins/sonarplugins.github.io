@@ -1,5 +1,5 @@
 ---
-title: bitegarden Rating Report
+title: Rating Report for SonarQubeâ¢ Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
@@ -12,11 +12,11 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: visualizaciã³n/informes
-description: Get ratings for all your rule tags in SonarQube
+description: Get rating reports for all your rules tags in SonarQubeâ¢ Server
 details: 
 seo:
-  name: bitegarden Rating Report
-  headline: bitegarden Rating Report - SonarQube Plugin
+  name: Rating Report for SonarQubeâ¢ Server
+  headline: Rating Report for SonarQubeâ¢ Server - SonarQube Plugin
   type: ItemPage
 
 ---

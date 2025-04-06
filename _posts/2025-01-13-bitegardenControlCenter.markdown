@@ -1,5 +1,5 @@
 ---
-title: Control Center for SonarQubeâ¢
+title: Control Center for SonarQubeâ¢ Server
 layout: plugin
 homepage: https://www.bitegarden.com
 organization: bitegarden
@@ -12,11 +12,11 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: herramientas de administraciã³n
-description: Provides a control center for SonarQubeâ¢ administrators
+description: Provides a control center for SonarQubeâ¢ Server administrators
 details: 
 seo:
-  name: Control Center for SonarQubeâ¢
-  headline: Control Center for SonarQubeâ¢ - SonarQube Plugin
+  name: Control Center for SonarQubeâ¢ Server
+  headline: Control Center for SonarQubeâ¢ Server - SonarQube Plugin
   type: ItemPage
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: bitegarden Security Assessment
+title: Security Assessment for SonarQubeâ¢ Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-security
 organization: bitegarden
@@ -12,11 +12,11 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: visualizaciã³n/informes
-description: Provides information about security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
+description: Assessments for security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
 details: 
 seo:
-  name: bitegarden Security Assessment
-  headline: bitegarden Security Assessment - SonarQube Plugin
+  name: Security Assessment for SonarQubeâ¢ Server
+  headline: Security Assessment for SonarQubeâ¢ Server - SonarQube Plugin
   type: ItemPage
 
 ---

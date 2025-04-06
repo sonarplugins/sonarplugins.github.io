@@ -1,5 +1,5 @@
 ---
-title: bitegarden Universal Plugin Manager (UPM)
+title: Universal Plugin Manager (UPM) for SonarQubeâ¢ Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-upm
 organization: bitegarden
@@ -15,8 +15,8 @@ category: herramientas de administraciã³n
 description: Provides a user-friendly interface to manage your plugins
 details: 
 seo:
-  name: bitegarden Universal Plugin Manager (UPM)
-  headline: bitegarden Universal Plugin Manager (UPM) - SonarQube Plugin
+  name: Universal Plugin Manager (UPM) for SonarQubeâ¢ Server
+  headline: Universal Plugin Manager (UPM) for SonarQubeâ¢ Server - SonarQube Plugin
   type: ItemPage
 
 ---
