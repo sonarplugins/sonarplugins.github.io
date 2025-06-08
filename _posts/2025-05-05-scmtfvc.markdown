@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/lg2de/sonar-scm-tfvc
 organization: Community
 organization_url: https://github.com/lg2de/sonar-scm-tfvc/graphs/contributors
-download_url: https://github.com/lg2de/sonar-scm-tfvc/releases/download/2.4.0/sonar-scm-tfvc-plugin-2.4.0.127.jar
-download_version: 2.4.0
+download_url: https://github.com/lg2de/sonar-scm-tfvc/releases/download/2.5.0/sonar-scm-tfvc-plugin-2.5.0.318.jar
+download_version: 2.5.0
 download_description: update DevOps api
-download_date: 2022-05-26
+download_date: 2025-05-05
 license: MIT
 developers: Dinesh Bolkensteyn,Julien Henry
-sonarqube_version: 9.9-10.6
+sonarqube_version: 
 category: integraciã³n
 description: Provides SCM TFVC integration
 details: 

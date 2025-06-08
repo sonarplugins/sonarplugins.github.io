@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/spotbugs/sonar-findbugs/
 organization: SpotBugs Team
 organization_url: https://github.com/spotbugs/
-download_url: https://repo.maven.apache.org/maven2/com/github/spotbugs/sonar-findbugs-plugin/4.4.2/sonar-findbugs-plugin-4.4.2.jar
-download_version: 4.4.2
+download_url: https://github.com/spotbugs/sonar-findbugs/releases/download/4.5.1/sonar-findbugs-plugin.jar
+download_version: 4.5.1
 download_description: Use SpotBugs 4.9.1, sb-contrib 7.6.9, and findsecbugs 1.13.0
-download_date: 2025-03-14
+download_date: 2025-06-04
 license: GNU LGPL 3
 developers: Evgeny Mandrikov,Nicolas Peru
 sonarqube_version: 9.9-10.7
