@@ -83,12 +83,11 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background-color: #737373;
 }
 
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 150px;
 }
 
 header img {
@@ -112,7 +111,6 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
     }
 
     header .intro-text .name {
@@ -175,7 +173,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 section h2 {
@@ -493,3 +491,23 @@ footer .footer-below {
     padding-bottom: 20px;
   }
 
+
+/* Banner simple y llamativo */
+.top-banner {
+  background-color: darkgreen;
+  border-radius: 10px;
+  color: white;
+  padding: 1rem 1rem;
+  text-align: center;
+  font-weight: 200;
+  font-size: 1.5em;
+}
+
+.top-banner a {
+  color: lightgreen;
+  text-decoration: none;
+}
+
+.top-banner a:hover {
+  text-decoration: underline;
+}

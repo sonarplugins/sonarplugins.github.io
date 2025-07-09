@@ -2,13 +2,7 @@
     <!-- Portfolio Grid Section -->
     <section id="portfolio">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Index</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            
+
             {% assign rows = site.posts.size | divided_by: 3.0 | ceil %}
             {% for i in (1..rows) %}
             {% assign offset = forloop.index0 | times: 3 %}
