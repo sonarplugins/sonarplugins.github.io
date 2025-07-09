@@ -1,5 +1,5 @@
 ---
-title: Quality Gates Board for SonarQubeâ¢ Server
+title: Quality Gates Board for SonarQube Server
 layout: plugin
 homepage: http://www.bitegarden.com
 organization: bitegarden
@@ -15,8 +15,8 @@ category: visualizaciã³n/informes
 description: Provides a board in your project space to check if you pass or fail a given set of quality gates
 details: 
 seo:
-  name: Quality Gates Board for SonarQubeâ¢ Server
-  headline: Quality Gates Board for SonarQubeâ¢ Server - SonarQube Plugin
+  name: Quality Gates Board for SonarQube Server
+  headline: Quality Gates Board for SonarQube Server - SonarQube Plugin
   type: ItemPage
 
 ---

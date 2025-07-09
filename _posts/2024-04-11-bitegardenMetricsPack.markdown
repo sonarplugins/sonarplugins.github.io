@@ -1,5 +1,5 @@
 ---
-title: Metrics Pack for SonarQubeâ¢ Server
+title: Metrics Pack for SonarQube Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-metrics-pack
 organization: bitegarden
@@ -12,11 +12,11 @@ license: Commercial (free)
 developers: bitegarden
 sonarqube_version: 7.9-10.5
 category: mã©tricas adicionales
-description: Provides a new bunch of metrics for your  SonarQubeâ¢ Server instance
+description: Provides a new bunch of metrics for your  SonarQube Server instance
 details: 
 seo:
-  name: Metrics Pack for SonarQubeâ¢ Server
-  headline: Metrics Pack for SonarQubeâ¢ Server - SonarQube Plugin
+  name: Metrics Pack for SonarQube Server
+  headline: Metrics Pack for SonarQube Server - SonarQube Plugin
   type: ItemPage
 
 ---

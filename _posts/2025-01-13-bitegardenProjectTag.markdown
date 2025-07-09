@@ -1,5 +1,5 @@
 ---
-title: Project Tag for SonarQubeâ¢ Server
+title: Project Tag for SonarQube Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-project-tag
 organization: bitegarden
@@ -15,8 +15,8 @@ category: mã©tricas adicionales
 description: Tag your project during project analysis with command line property
 details: 
 seo:
-  name: Project Tag for SonarQubeâ¢ Server
-  headline: Project Tag for SonarQubeâ¢ Server - SonarQube Plugin
+  name: Project Tag for SonarQube Server
+  headline: Project Tag for SonarQube Server - SonarQube Plugin
   type: ItemPage
 
 ---

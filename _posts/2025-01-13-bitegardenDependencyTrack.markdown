@@ -1,5 +1,5 @@
 ---
-title: Dependency Track for SonarQubeâ¢ Server
+title: Dependency Track for SonarQube Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-dependency-track
 organization: bitegarden
@@ -12,11 +12,11 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: visualizaciã³n/informes
-description: View your Dependency Track reports in SonarQubeâ¢ Server
+description: View your Dependency Track reports in SonarQube Server
 details: 
 seo:
-  name: Dependency Track for SonarQubeâ¢ Server
-  headline: Dependency Track for SonarQubeâ¢ Server - SonarQube Plugin
+  name: Dependency Track for SonarQube Server
+  headline: Dependency Track for SonarQube Server - SonarQube Plugin
   type: ItemPage
 
 ---

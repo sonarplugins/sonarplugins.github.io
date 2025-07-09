@@ -1,5 +1,5 @@
 ---
-title: Report for SonarQubeâ¢ Server
+title: Report for SonarQube Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
@@ -15,8 +15,8 @@ category: visualizaciã³n/informes
 description: Generate your project report in PDF, Excel or from a customizable Open Document (ODT)
 details: 
 seo:
-  name: Report for SonarQubeâ¢ Server
-  headline: Report for SonarQubeâ¢ Server - SonarQube Plugin
+  name: Report for SonarQube Server
+  headline: Report for SonarQube Server - SonarQube Plugin
   type: ItemPage
 
 ---
