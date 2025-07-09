@@ -1,5 +1,5 @@
 ---
-title: SQALE for SonarQubeâ¢ Server
+title: SQALE for SonarQube Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-sqale
 organization: bitegarden
