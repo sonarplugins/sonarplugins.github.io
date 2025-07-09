@@ -11,7 +11,7 @@ download_date: 2023-09-18
 license: GNU LGPL 3
 developers: Stefan Rinderle,Yvo Niedrich
 sonarqube_version: 10.0-10.6
-category: visualizaciã³n/informes
+category: visualización/informes
 description: Provides 3D city models
 details: 
 seo:

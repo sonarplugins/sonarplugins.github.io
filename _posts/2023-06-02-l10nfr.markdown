@@ -11,7 +11,7 @@ download_date: 2023-06-02
 license: GNU LGPL 3
 developers: 
 sonarqube_version: 10.0-10.6
-category: localizaciã³n
+category: localización
 description: Language Pack for French
 details: 
 seo:

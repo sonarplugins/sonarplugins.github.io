@@ -11,7 +11,7 @@ download_date: 2014-07-29
 license: GNU LGPL 3
 developers: Massimo Borgogno,Laura Cuttica,Claudio Gaiani
 sonarqube_version: 9.9-10.6
-category: localizaciã³n
+category: localización
 description: Language Pack for Italian
 details: 
 seo:

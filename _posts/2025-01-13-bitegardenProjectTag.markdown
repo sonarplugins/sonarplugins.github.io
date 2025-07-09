@@ -11,7 +11,7 @@ download_date: 2025-01-13
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: mã©tricas adicionales
+category: métricas adicionales
 description: Tag your project during project analysis with command line property
 details: 
 seo:

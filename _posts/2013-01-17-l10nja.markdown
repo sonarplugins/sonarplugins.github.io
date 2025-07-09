@@ -11,7 +11,7 @@ download_date: 2013-01-17
 license: GNU LGPL 3
 developers: 
 sonarqube_version: 9.9-9.9.6
-category: localizaciã³n
+category: localización
 description: Language Pack for Japanese
 details: 
 seo:

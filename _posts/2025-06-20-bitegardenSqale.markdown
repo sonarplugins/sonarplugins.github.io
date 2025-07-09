@@ -11,7 +11,7 @@ download_date: 2025-06-20
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualizaciã³n/informes
+category: visualización/informes
 description: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 details: 
 seo:

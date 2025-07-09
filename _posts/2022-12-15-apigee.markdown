@@ -2,7 +2,7 @@
 title: Apigee
 layout: plugin
 homepage: https://github.com/CreditMutuelArkea/sonar-apigee-plugin
-organization: CrÃ©dit Mutuel ArkÃ©a
+organization: Crédit Mutuel Arkéa
 organization_url: https://github.com/CreditMutuelArkea
 download_url: https://github.com/CreditMutuelArkea/sonar-apigee-plugin/releases/download/v3.0.2/sonar-apigee-plugin-3.0.2.jar
 download_version: 3.0.2
