@@ -11,7 +11,7 @@ download_date: 2025-06-05
 license: GNU General Public License, v3
 developers: Dirk Mahler
 sonarqube_version: 
-category: analizadores externos
+category: external analysers
 description: Analyze issues reported by jQAssistant.
 details: 
 seo:
