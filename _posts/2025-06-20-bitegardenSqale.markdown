@@ -15,8 +15,8 @@ category: visualizaciã³n/informes
 description: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 details: 
 seo:
-  name: SQALE for SonarQubeâ¢ Server
-  headline: SQALE for SonarQubeâ¢ Server - SonarQube Plugin
+  name: SQALE for SonarQube Server
+  headline: SQALE for SonarQube Server - SonarQube Plugin
   type: ItemPage
 
 ---
