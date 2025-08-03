@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://www.bitegarden.com
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-control-center&productVersion=1.6&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.6
-download_description: New tag features added to the project page
-download_date: 2025-07-08
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-control-center&productVersion=1.7&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.7
+download_description: Unify all screens into one.
+download_date: 2025-07-30
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
