@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/creedengo-python
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/creedengo-python/releases/download/2.0.1/creedengo-python-plugin-2.0.1.jar
-download_version: 2.0.1
-download_description: improve library versions; check and upgrades for SonarQube until 25.3.0 version
-download_date: 2025-03-14
+download_url: https://github.com/green-code-initiative/creedengo-python/releases/download/2.1.0/creedengo-python-plugin-2.1.0.jar
+download_version: 2.1.0
+download_description: add 5 new rules; compatibility with SonarQube 25.5.0; upgrade Integration Test System; update jdk 11 to 17
+download_date: 2025-08-02
 license: GPL v3
 developers: 
 sonarqube_version: 9.9-10.7
