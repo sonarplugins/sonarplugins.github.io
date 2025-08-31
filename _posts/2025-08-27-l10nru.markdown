@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/1c-syntax/sonar-l10n-ru
 organization: SilverBulleters, 1c-syntax and contributors
 organization_url: https://github.com/1c-syntax
-download_url: https://github.com/1c-syntax/sonar-l10n-ru/releases/download/v25.1/sonar-l10n-ru-plugin-25.1.jar
-download_version: 25.1
-download_description: Support SonarQube Core 25.1
-download_date: 2025-01-10
+download_url: https://github.com/1c-syntax/sonar-l10n-ru/releases/download/v25.7/sonar-l10n-ru-plugin-25.7.jar
+download_version: 25.7
+download_description: Support SonarQube 25.7
+download_date: 2025-08-27
 license: GNU LGPL v3
 developers: Alexey Lustin, Nikita Gryzlov
 sonarqube_version: 
