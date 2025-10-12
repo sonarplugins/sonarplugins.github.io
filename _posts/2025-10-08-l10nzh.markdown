@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-zh
 organization: Mossle
 organization_url: http://www.mossle.com
-download_url: https://github.com/xuhuisheng/sonar-l10n-zh/releases/download/sonar-l10n-zh-plugin-25.9/sonar-l10n-zh-plugin-25.9.jar
-download_version: 25.9
-download_description: Support SonarQube 25.9
-download_date: 2025-09-04
+download_url: https://github.com/xuhuisheng/sonar-l10n-zh/releases/download/sonar-l10n-zh-plugin-25.10/sonar-l10n-zh-plugin-25.10.jar
+download_version: 25.10
+download_description: Support SonarQube 25.10
+download_date: 2025-10-08
 license: GNU LGPL 3
 developers: Xu Huisheng
 sonarqube_version: 
