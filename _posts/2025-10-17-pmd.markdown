@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/jborgers/sonar-pmd
 organization: 
 organization_url: 
-download_url: https://github.com/jborgers/sonar-pmd/releases/download/4.1.0/sonar-pmd-plugin-4.1.0.jar
-download_version: 4.1.0
-download_description: All rules of PMD 7.15.0. Supports Java 24 and 24-preview, runs on Java 11+ analysis side
-download_date: 2025-07-18
+download_url: https://github.com/jborgers/sonar-pmd/releases/download/4.2.1/sonar-pmd-plugin-4.2.1.jar
+download_version: 4.2.1
+download_description: Supports Java 25, PMD 7.17.0, Kotlin rules, rule customization, analysis scope and adjusted code-style severity.
+download_date: 2025-10-17
 license: GNU LGPL 3
 developers: Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov
-sonarqube_version: 9.9.4-10.7
+sonarqube_version: 9.9.9-10.7
 category: external analysers
 description: Provide PMD rules to analyse Java projects
 details: 
