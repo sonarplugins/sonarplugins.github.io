@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/vaulttec/sonar-auth-oidc
 organization: Vaulttec
 organization_url: http://vaulttec.org
-download_url: https://github.com/vaulttec/sonar-auth-oidc/releases/download/v2.1.1/sonar-auth-oidc-plugin-2.1.1.jar
-download_version: 2.1.1
-download_description: Fixes some issues with the newly added auto-login servlet filter
-download_date: 2022-01-07
+download_url: https://github.com/sonar-auth-oidc/sonar-auth-oidc/releases/download/v3.0.0/sonar-auth-oidc-plugin-3.0.0.jar
+download_version: 3.0.0
+download_description: Add compatibility with Sonarqube v25.x/2025.x.
+download_date: 2025-05-25
 license: APACHE 2
 developers: Torsten Juergeleit
-sonarqube_version: 9.9-10.6
+sonarqube_version: 
 category: integration
 description: Delegate authentication using the OpenID Connect protocol
 details: 
