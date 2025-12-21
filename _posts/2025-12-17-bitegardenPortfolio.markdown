@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-portfolio
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-overview-report&productVersion=3.0.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 3.0.1
-download_description: Fixed Hotspot pdf visualization issue
-download_date: 2025-10-08
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-overview-report&productVersion=3.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 3.1
+download_description: Now the PDF is generated in a new tab, providing feedback to the user
+download_date: 2025-12-17
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
