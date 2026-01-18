@@ -11,7 +11,7 @@ download_date: 2017-04-24
 license: GNU LGPL 3
 developers: Julien Lancelot,Deven Phillips
 sonarqube_version: 9.9-10.6
-category: integration
+category: integración
 description: Delegate Authentication to Google
 details: 
 seo:

@@ -11,7 +11,7 @@ download_date: 2018-07-24
 license: GNU LGPL 3
 developers: Julien Henry
 sonarqube_version: 9.9-10.6
-category: integration
+category: integración
 description: Provides SCM Mercurial integration
 details: 
 seo:

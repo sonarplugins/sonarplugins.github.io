@@ -11,7 +11,7 @@ download_date: 2025-12-03
 license: GNU LGPL 3
 developers: Steve Springett,Philipp Dallig
 sonarqube_version: 
-category: integration
+category: integración
 description: Integrates Dependency-Check reports into SonarQube
 details: 
 seo:

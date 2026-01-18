@@ -11,7 +11,7 @@ download_date: 2025-12-20
 license: GNU LGPL 3
 developers: Xu Huisheng
 sonarqube_version: 
-category: localization
+category: localización
 description: SonarQube Chinese Pack
 details: 
 seo:
