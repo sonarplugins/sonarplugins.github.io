@@ -11,7 +11,7 @@ download_date: 2025-05-25
 license: APACHE 2
 developers: Torsten Juergeleit
 sonarqube_version: 
-category: integración
+category: integration
 description: Delegate authentication using the OpenID Connect protocol
 details: 
 seo:

@@ -11,7 +11,7 @@ download_date: 2025-06-17
 license: 
 developers: 
 sonarqube_version: 
-category: analizadores externos
+category: external analysers
 description: Adds rules for Magento2 PHP development
 details: 
 seo:

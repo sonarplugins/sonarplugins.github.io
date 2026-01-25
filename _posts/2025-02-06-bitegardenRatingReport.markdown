@@ -11,7 +11,7 @@ download_date: 2025-02-06
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualización/informes
+category: visualization/reporting
 description: Get rating reports for all your rules tags in SonarQube Server
 details: 
 seo:

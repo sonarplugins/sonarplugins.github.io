@@ -11,7 +11,7 @@ download_date: 2025-12-16
 license: GNU LGPL v3
 developers: Alexey Sosnoviy, Nikita Fedkin
 sonarqube_version: 
-category: lenguajes
+category: languages
 description: Code Analyzer for 1C (BSL)
 details: 
 seo:
