@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-security
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.28.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 2.28.1
-download_description: Internal Improvements
-download_date: 2025-04-09
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.29&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 2.29
+download_description: Se añade feedback a la generación de pdf
+download_date: 2026-01-30
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
