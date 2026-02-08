@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: visualization/reporting
-description: View your Dependency Track reports in SonarQube Server
+description: Integrate Dependency Check vulnerability results into SonarQube Cloud to strengthen security and manage risks effectively.
 details: 
 seo:
   name: Dependency Track for SonarQube Server

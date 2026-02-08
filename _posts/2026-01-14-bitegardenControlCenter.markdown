@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: admin tools
-description: Provides a control center for SonarQube Server administrators
+description: Access a centralised control centre designed to help SonarQube server administrators efficiently manage their instance
 details: 
 seo:
   name: Control Center for SonarQube Server

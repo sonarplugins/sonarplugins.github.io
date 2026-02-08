@@ -12,7 +12,7 @@ license: Commercial (free)
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: admin tools
-description: Provides a user-friendly interface to manage your plugins
+description: Manage your SonarQube Server plugins easily with a user-friendly interface designed for installation and updates
 details: 
 seo:
   name: Universal Plugin Manager (UPM) for SonarQube Server

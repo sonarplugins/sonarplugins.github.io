@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
 category: visualization/reporting
-description: Generate your project report in PDF, Excel or from a customizable Open Document (ODT)
+description: Generate detailed code quality reports in PDF, Excel or ODT for your projects in SonarQube Server
 details: 
 seo:
   name: Report for SonarQube Server
