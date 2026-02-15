@@ -11,7 +11,7 @@ download_date: 2025-01-13
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualization/reporting
+category: visualización/informes
 description: Integrate Dependency Check vulnerability results into SonarQube Cloud to strengthen security and manage risks effectively.
 details: 
 seo:

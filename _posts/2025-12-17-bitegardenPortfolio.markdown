@@ -11,8 +11,8 @@ download_date: 2025-12-17
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualization/reporting
-description: Provides a big picture of your server with all the aggregated measures in a single view
+category: visualización/informes
+description: Manage your SonarQube instance and view aggregated quality metrics by projects, custom groups, or tags, all from a single dashboard.
 details: 
 seo:
   name: Overview Report for SonarQube Server

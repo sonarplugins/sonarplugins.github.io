@@ -11,7 +11,7 @@ download_date: 2026-01-30
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualization/reporting
+category: visualización/informes
 description: Assessments for security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
 details: 
 seo:

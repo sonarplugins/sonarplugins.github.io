@@ -11,8 +11,8 @@ download_date: 2025-02-06
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualization/reporting
-description: Provides a board in your project space to check if you pass or fail a given set of quality gates
+category: visualización/informes
+description: Validate your code against multiple quality gates in SonarQube, going beyond the default single gate to gain more precise and flexible control.
 details: 
 seo:
   name: Quality Gates Board for SonarQube Server

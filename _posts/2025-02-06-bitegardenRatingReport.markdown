@@ -11,8 +11,8 @@ download_date: 2025-02-06
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualization/reporting
-description: Get rating reports for all your rules tags in SonarQube Server
+category: visualización/informes
+description: Calculates ratings (A, B, C…) per tag in SonarQube and generates an extra report, helping you evaluate code quality beyond security, reliability and maintainability.
 details: 
 seo:
   name: Rating Report for SonarQube Server

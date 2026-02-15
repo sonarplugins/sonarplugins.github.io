@@ -11,7 +11,7 @@ download_date: 2017-04-21
 license: Apache License, Version 2.0
 developers: Robert Willems of Brilman
 sonarqube_version: 9.9-10.4
-category: external analysers
+category: analizadores externos
 description: Provide package-level metrics and rules
 details: 
 seo:

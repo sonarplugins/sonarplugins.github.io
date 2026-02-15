@@ -11,7 +11,7 @@ download_date: 2018-09-12
 license: GNU LGPL 3
 developers: Rubén Melcón,Antonio Calero
 sonarqube_version: 9.9-10.6
-category: localization
+category: localización
 description: Language Pack for Spanish
 details: 
 seo:

@@ -11,8 +11,8 @@ download_date: 2025-11-10
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualization/reporting
-description: Generate detailed code quality reports in PDF, Excel or ODT for your projects in SonarQube Server
+category: visualización/informes
+description: Generate detailed code quality reports for your SonarQube Server projects in PDF, Excel, or ODT formats for easy sharing and analysis.
 details: 
 seo:
   name: Report for SonarQube Server
