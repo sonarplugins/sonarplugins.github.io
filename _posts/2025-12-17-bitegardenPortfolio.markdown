@@ -11,7 +11,7 @@ download_date: 2025-12-17
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualización/informes
+category: visualization/reporting
 description: Manage your SonarQube instance and view aggregated quality metrics by projects, custom groups, or tags, all from a single dashboard.
 details: 
 seo:

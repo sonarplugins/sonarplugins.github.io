@@ -11,7 +11,7 @@ download_date: 2025-11-08
 license: GNU LGPL 3
 developers: Evgeny Mandrikov,Nicolas Peru
 sonarqube_version: 
-category: analizadores externos
+category: external analysers
 description: Provide Findbugs rules for analysis of Java projects
 details: 
 seo:

@@ -11,7 +11,7 @@ download_date: 2025-02-06
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: visualización/informes
+category: visualization/reporting
 description: Validate your code against multiple quality gates in SonarQube, going beyond the default single gate to gain more precise and flexible control.
 details: 
 seo:

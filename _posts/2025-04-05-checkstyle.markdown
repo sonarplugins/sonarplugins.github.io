@@ -11,7 +11,7 @@ download_date: 2025-04-05
 license: LGPL-3.0
 developers: Daniel Muehlbachler-Pietrzykowski,Roman Ivanov,Richard Veach,Evgeny Mandrikov,Michael Gumowski,Nicolas Peru
 sonarqube_version: 9.9-10.7
-category: analizadores externos
+category: external analysers
 description: Provide Checkstyle rules for Java projects
 details: 
 seo:

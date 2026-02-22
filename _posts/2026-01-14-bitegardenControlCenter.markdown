@@ -11,7 +11,7 @@ download_date: 2026-01-14
 license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-7.9
-category: herramientas de administración
+category: admin tools
 description: Access a centralised control centre designed to help SonarQube server administrators efficiently manage their instance
 details: 
 seo:
