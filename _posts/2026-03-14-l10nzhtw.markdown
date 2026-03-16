@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/timlee/sonar-l10n-zh-tw
 organization: Tim Lee
 organization_url: https://github.com/SonarQubeCommunity/sonar-l10n-zhtw
-download_url: https://github.com/SDPM-lab/sonar-l10n-zh-tw/releases/download/26.2/sonar-l10n-zh-tw-plugin-26.2.jar
-download_version: 26.2
-download_description: Support SonarQube versions 26.2
-download_date: 2026-02-28
+download_url: https://github.com/SDPM-lab/sonar-l10n-zh-tw/releases/download/26.3/sonar-l10n-zh-tw-plugin-26.3.jar
+download_version: 26.3
+download_description: Support SonarQube versions 26.3
+download_date: 2026-03-14
 license: GNU LGPL 3
 developers: Tim Lee
 sonarqube_version: 
