@@ -10,7 +10,7 @@ download_description: Error accessing the marketplace when a proxy is configured
 download_date: 2026-03-09
 license: Commercial (free)
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 2026.1.0-LATEST
 category: admin tools
 description: Manage your SonarQube Server plugins easily with a user-friendly interface designed for installation and updates
 details: 

@@ -10,7 +10,7 @@ download_description: Internal Improvements
 download_date: 2026-02-20
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: visualization/reporting
 description: Assessments for security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
 details: 

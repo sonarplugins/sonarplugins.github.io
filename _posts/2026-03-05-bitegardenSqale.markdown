@@ -10,7 +10,7 @@ download_description: Internal improvements to make responsive design
 download_date: 2026-03-05
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: visualization/reporting
 description: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 details: 

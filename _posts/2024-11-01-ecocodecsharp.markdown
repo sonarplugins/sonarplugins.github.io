@@ -10,7 +10,7 @@ download_description: Add rules EC91, EC92, EC93; support of SonarQube 10.7; upg
 download_date: 2024-11-01
 license: GPL v3
 developers: 
-sonarqube_version: 9.9-10.7
+sonarqube_version: 9.9-LATEST
 category: external analysers
 description: Provide a list of static code analyzers (for C# language) to highlight code structures that may have a negative ecological impact&#58; energy and resources over-consumption, "fatware", shortening terminals' lifespan, etc.
 details: 

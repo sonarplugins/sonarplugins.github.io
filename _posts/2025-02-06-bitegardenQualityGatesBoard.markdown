@@ -10,7 +10,7 @@ download_description: Fix missing metric texts problem
 download_date: 2025-02-06
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: visualization/reporting
 description: Validate your code against multiple quality gates in SonarQube, going beyond the default single gate to gain more precise and flexible control.
 details: 

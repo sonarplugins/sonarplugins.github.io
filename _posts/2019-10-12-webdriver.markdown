@@ -10,7 +10,7 @@ download_description: Upgrade sonar versions to sync with 7.9.1
 download_date: 2019-10-12
 license: 
 developers: 
-sonarqube_version: 9.9-10.4
+sonarqube_version: 9.9-LATEST
 category: external analysers
 description: Analyzer for WebDriver (Selenium or Appium) tests.
 details: 

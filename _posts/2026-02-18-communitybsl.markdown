@@ -10,7 +10,7 @@ download_description: New diagnostics, performance optimization
 download_date: 2026-02-18
 license: GNU LGPL v3
 developers: Alexey Sosnoviy, Nikita Fedkin
-sonarqube_version: 
+sonarqube_version: 2026.1.0-LATEST
 category: languages
 description: Code Analyzer for 1C (BSL)
 details: 

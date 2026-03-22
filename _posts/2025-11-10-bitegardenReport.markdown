@@ -10,7 +10,7 @@ download_description: New rules report for a given quality profile and language
 download_date: 2025-11-10
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: visualization/reporting
 description: Generate detailed code quality reports for your SonarQube Server projects in PDF, Excel, or ODT formats for easy sharing and analysis.
 details: 

@@ -10,7 +10,7 @@ download_description: First release
 download_date: 2025-03-11
 license: Commercial
 developers: Antonio Calero
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: visualization/reporting
 description: SonarQube 3D Code Metrics Plugin
 details: 

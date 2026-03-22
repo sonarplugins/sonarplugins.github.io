@@ -10,7 +10,7 @@ download_description: Fix pagination bar on big amounts on sonar projects
 download_date: 2026-01-14
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: admin tools
 description: Access a centralised control centre designed to help SonarQube server administrators efficiently manage their instance
 details: 

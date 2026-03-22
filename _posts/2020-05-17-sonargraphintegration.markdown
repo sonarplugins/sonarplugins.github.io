@@ -10,7 +10,7 @@ download_description: Support for C#.
 download_date: 2020-05-17
 license: Apache License 2
 developers: Ingmar Kellner,Andreas Hoyer,Dietmar Menges
-sonarqube_version: 9.9-10.4
+sonarqube_version: 9.9-LATEST
 category: external analysers
 description: Provides support for Sonargraph 8+'s architecture governance features, accompanied by metrics about cyclic dependencies and other structural aspects.
 details: 

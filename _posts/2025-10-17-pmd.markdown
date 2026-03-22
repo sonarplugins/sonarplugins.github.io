@@ -10,7 +10,7 @@ download_description: Supports Java 25, PMD 7.17.0, Kotlin rules, rule customiza
 download_date: 2025-10-17
 license: GNU LGPL 3
 developers: Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov
-sonarqube_version: 9.9.9-10.7
+sonarqube_version: 9.9.9-LATEST
 category: external analysers
 description: Provide PMD rules to analyse Java projects
 details: 

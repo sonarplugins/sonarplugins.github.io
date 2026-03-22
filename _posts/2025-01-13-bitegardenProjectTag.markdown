@@ -10,7 +10,7 @@ download_description: Added compatibility with SonarQube Server Community
 download_date: 2025-01-13
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: additional metrics
 description: Tag your project during analysis using command-line properties to track, organize, and monitor projects with full accuracy.
 details: 

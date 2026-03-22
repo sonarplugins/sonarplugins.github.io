@@ -10,7 +10,7 @@ download_description: Add compatibility with Sonarqube v25.x/2025.x.
 download_date: 2025-05-25
 license: APACHE 2
 developers: Torsten Juergeleit
-sonarqube_version: 
+sonarqube_version: 2026.1.0-LATEST
 category: integration
 description: Delegate authentication using the OpenID Connect protocol
 details: 

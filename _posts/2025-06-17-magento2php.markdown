@@ -10,7 +10,7 @@ download_description: PHP Custom Rules for Magento 2 CMS
 download_date: 2025-06-17
 license: 
 developers: 
-sonarqube_version: 
+sonarqube_version: 2026.1.0-LATEST
 category: external analysers
 description: Adds rules for Magento2 PHP development
 details: 

@@ -10,7 +10,7 @@ download_description: Multiple performance improvements
 download_date: 2026-03-03
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-7.9
+sonarqube_version: 10.7-LATEST
 category: visualization/reporting
 description: Manage your SonarQube instance and view aggregated quality metrics by projects, custom groups, or tags, all from a single dashboard.
 details: 

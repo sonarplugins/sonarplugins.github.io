@@ -10,7 +10,7 @@ download_description: Analyze Java Code with ErrorProne 2.39.0
 download_date: 2025-06-30
 license: Apache License, Version 2.0
 developers: Guillaume Toison
-sonarqube_version: 9.9-10.7
+sonarqube_version: 9.9-LATEST
 category: external analysers
 description: Analyze Java Code with ErrorProne, NullAway, errorprone-slf4j and Picnic ErrorProne support
 details: 
