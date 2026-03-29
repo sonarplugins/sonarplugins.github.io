@@ -10,7 +10,7 @@ download_description: Bug fixes and improvements
 download_date: 2025-11-19
 license: AGPL-3.0
 developers: 
-sonarqube_version: 2026.1.0-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: languages
 description: Code Quality and Security for Wolfram Mathematica
 details: 

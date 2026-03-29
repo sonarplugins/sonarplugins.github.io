@@ -10,7 +10,7 @@ download_description: Breaking changes: SonarQube Community 25.12+ / Server 2025
 download_date: 2026-02-03
 license: GPL v3
 developers: 
-sonarqube_version: 2026.1.0-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: external analysers
 description: Provide a list of static code analyzers (for Javascript language) to highlight code structures that may have a negative ecological impact&#58; energy and resources over-consumption, "fatware", shortening terminals' lifespan, etc.
 details: 

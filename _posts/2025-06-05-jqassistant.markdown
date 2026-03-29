@@ -10,7 +10,7 @@ download_description: Fixed compatibility issue with SonarQube 2025 (LTA)
 download_date: 2025-06-05
 license: GNU General Public License, v3
 developers: Dirk Mahler
-sonarqube_version: 2026.1.0-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: external analysers
 description: Analyze issues reported by jQAssistant.
 details: 

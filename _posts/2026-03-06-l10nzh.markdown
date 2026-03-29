@@ -10,7 +10,7 @@ download_description: Support SonarQube 26.3
 download_date: 2026-03-06
 license: GNU LGPL 3
 developers: Xu Huisheng
-sonarqube_version: 2026.1.0-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: localization
 description: SonarQube Chinese Pack
 details: 

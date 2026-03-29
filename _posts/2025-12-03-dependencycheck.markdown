@@ -10,7 +10,7 @@ download_description: Compatibilty with SonarQube >= 2025.1/25.1. Removed HTML r
 download_date: 2025-12-03
 license: GNU LGPL 3
 developers: Steve Springett,Philipp Dallig
-sonarqube_version: 2026.1.0-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: integration
 description: Integrates Dependency-Check reports into SonarQube
 details: 

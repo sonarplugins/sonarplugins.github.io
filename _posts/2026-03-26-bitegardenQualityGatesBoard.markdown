@@ -4,13 +4,13 @@ layout: plugin
 homepage: http://www.bitegarden.com
 organization: bitegarden
 organization_url: http://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-quality-gates-board&productVersion=1.1.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.1.2
-download_description: Fix missing metric texts problem
-download_date: 2025-02-06
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-quality-gates-board&productVersion=1.1.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.1.3
+download_description: Se corrige error en el formateo de números según el locale correspondiente.
+download_date: 2026-03-26
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-LATEST
+sonarqube_version: 2026.2.0-LATEST
 category: visualization/reporting
 description: Validate your code against multiple quality gates in SonarQube, going beyond the default single gate to gain more precise and flexible control.
 details: 

@@ -10,7 +10,7 @@ download_description: Support SonarQube versions 25.5
 download_date: 2025-10-21
 license: GNU LGPL 3
 developers: 
-sonarqube_version: 2026.1.0-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: localization
 description: Language Pack for Japanese
 details: 
