@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-rating-report&productVersion=1.6.8&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.6.8
-download_description: Fix select branch bug and Internal improvements
-download_date: 2025-02-06
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-rating-report&productVersion=1.6.9&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.6.9
+download_description: Fix scroll in new SonarQube UI
+download_date: 2026-04-04
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: visualization/reporting
 description: Calculates ratings (A, B, C…) per tag in SonarQube and generates an extra report, helping you evaluate code quality beyond security, reliability and maintainability.
 details: 

@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-sqale
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-sqale&productVersion=1.7.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.7.1
-download_description: Internal improvements to make responsive design
-download_date: 2026-03-05
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-sqale&productVersion=1.7.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.7.2
+download_description: Fix scroll on new SonarQube UI
+download_date: 2026-04-03
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-LATEST
+sonarqube_version: 2026.2.1-LATEST
 category: visualization/reporting
 description: Software Quality Assessment based on Lifecycle Expectations is back to SonarQube! Track your technical debt with SQALE method
 details: 

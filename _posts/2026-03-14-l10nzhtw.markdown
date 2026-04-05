@@ -11,7 +11,7 @@ download_date: 2026-03-14
 license: GNU LGPL 3
 developers: Tim Lee
 sonarqube_version: 2026.2.1-LATEST
-category: localization
+category: localización
 description: SonarQube Traditional Chinese Language Pack (not compatible with the "Chinese Pack" which uses Simplified Chinese)
 details: 
 seo:
