@@ -11,7 +11,7 @@ download_date: 2024-04-08
 license: GNU LGPL 3
 developers: Gerald Muecke
 sonarqube_version: 9.9-LATEST
-category: cobertura
+category: coverage
 description: Import Pitest mutation analysis results
 details: 
 seo:

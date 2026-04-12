@@ -11,7 +11,7 @@ download_date: 2019-09-06
 license: GNU LGPL 3
 developers: Julien Henry,de Troostembergh Antoine
 sonarqube_version: 9.9-LATEST
-category: integración
+category: integration
 description: Provides SCM Jazz RTC integration
 details: 
 seo:
