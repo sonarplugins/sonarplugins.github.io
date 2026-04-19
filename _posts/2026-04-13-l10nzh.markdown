@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-zh
 organization: Mossle
 organization_url: http://www.mossle.com
-download_url: https://github.com/xuhuisheng/sonar-l10n-zh/releases/download/sonar-l10n-zh-plugin-26.3/sonar-l10n-zh-plugin-26.3.jar
-download_version: 26.3
-download_description: Support SonarQube 26.3
-download_date: 2026-03-06
+download_url: https://github.com/xuhuisheng/sonar-l10n-zh/releases/download/sonar-l10n-zh-plugin-26.4/sonar-l10n-zh-plugin-26.4.jar
+download_version: 26.4
+download_description: Support SonarQube 26.4
+download_date: 2026-04-13
 license: GNU LGPL 3
 developers: Xu Huisheng
-sonarqube_version: 2026.2.1-LATEST
+sonarqube_version: 26.4-LATEST
 category: localization
 description: SonarQube Chinese Pack
 details: 
