@@ -3,7 +3,7 @@ title: Quality Gates Board for SonarQube Server
 layout: plugin
 homepage: http://www.bitegarden.com
 organization: bitegarden
-organization_url: http://www.bitegarden.com
+organization_url: https://www.bitegarden.com
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-quality-gates-board&productVersion=1.1.4&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
 download_version: 1.1.4
 download_description: Fix scroll on new SonarQube UI
