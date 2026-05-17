@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/timlee/sonar-l10n-zh-tw
 organization: Tim Lee
 organization_url: https://github.com/SonarQubeCommunity/sonar-l10n-zhtw
-download_url: https://github.com/SDPM-lab/sonar-l10n-zh-tw/releases/download/26.3/sonar-l10n-zh-tw-plugin-26.3.jar
-download_version: 26.3
-download_description: Support SonarQube versions 26.3
-download_date: 2026-03-14
+download_url: https://github.com/SDPM-lab/sonar-l10n-zh-tw/releases/download/26.4/sonar-l10n-zh-tw-plugin-26.4.jar
+download_version: 26.4
+download_description: Support SonarQube versions 26.4
+download_date: 2026-04-26
 license: GNU LGPL 3
 developers: Tim Lee
-sonarqube_version: 2026.2.1-LATEST
+sonarqube_version: 26.4-LATEST
 category: localization
 description: SonarQube Traditional Chinese Language Pack (not compatible with the "Chinese Pack" which uses Simplified Chinese)
 details: 
