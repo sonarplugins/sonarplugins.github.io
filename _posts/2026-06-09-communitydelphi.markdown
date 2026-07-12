@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://github.com/integrated-application-development/sonar-delphi
 organization: IntegraDev
 organization_url: https://www.integradev.com.au/
-download_url: https://github.com/integrated-application-development/sonar-delphi/releases/download/v1.18.3/sonar-delphi-plugin-1.18.3.jar
-download_version: 1.18.3
-download_description: Bug fixes
-download_date: 2025-11-11
+download_url: https://github.com/integrated-application-development/sonar-delphi/releases/download/v1.19.0/sonar-delphi-plugin-1.19.0.jar
+download_version: 1.19.0
+download_description: 1 new rule, improved Delphi 13 support, parsing improvements, bug fixes
+download_date: 2026-06-09
 license: GNU LGPL 3
 developers: Jonah Jeleniewski,The Agile Excuse Team - Monash University,Sandro Luck,Fabricio Colombo,Przemyslaw Kociolek,Michal Wojcik
 sonarqube_version: 9.9-LATEST
