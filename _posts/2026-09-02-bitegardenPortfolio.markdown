@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-portfolio
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-overview-report&productVersion=3.2.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 3.2.3
-download_description: More reliable mode detection & refreshed PDF download experience
-download_date: 2026-07-21
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-overview-report&productVersion=3.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 3.3
+download_description: Added branch to the groups page and fix problem with anonymous access
+download_date: 2026-09-02
 license: Commercial
 developers: bitegarden
-sonarqube_version: 2026.3.1-LATEST
+sonarqube_version: 2026.4.1-LATEST
 category: visualization/reporting
 description: Manage your SonarQube™ instance and view aggregated quality metrics by projects, custom groups, or tags, all from a single dashboard.
 details: 
