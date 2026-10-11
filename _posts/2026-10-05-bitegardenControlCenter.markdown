@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://www.bitegarden.com
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-control-center&productVersion=1.10&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.10
-download_description: New general, global and Data Center checks.
-download_date: 2026-05-04
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-control-center&productVersion=1.10.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.10.1
+download_description: Fixes DCE audit checks and plugin settings descriptions
+download_date: 2026-10-05
 license: Commercial
 developers: bitegarden
-sonarqube_version: 2026.2.1-LATEST
+sonarqube_version: 2026.5.1-LATEST
 category: admin tools
 description: Access a centralised control centre designed to help SonarQube server administrators efficiently manage their instance
 details: 
