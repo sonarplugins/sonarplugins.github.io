@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-security
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.35.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 2.35.1
-download_description: Fix problem in generating reports with anonymous access
-download_date: 2026-09-02
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.36.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 2.36.1
+download_description: PCI DSS report and PDF download now available in all editions
+download_date: 2026-10-20
 license: Commercial
 developers: bitegarden
-sonarqube_version: 2026.4.1-LATEST
+sonarqube_version: 2026.5.2-LATEST
 category: visualization/reporting
 description: Assessments for security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
 details: 
