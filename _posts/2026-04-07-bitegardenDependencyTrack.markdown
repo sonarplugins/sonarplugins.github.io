@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 2026.2.1-LATEST
 category: visualization/reporting
-description: Integrate Dependency Check vulnerability results into SonarQube Cloud to strengthen security and manage risks effectively.
+description: View Dependency Track vulnerabilities, affected components and Risk Score inside SonarQube Server. Review findings by severity and download a free 14-day trial.
 details: 
 seo:
   name: Dependency Track for SonarQube Server

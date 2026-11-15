@@ -12,7 +12,7 @@ license: Commercial (free)
 developers: bitegarden
 sonarqube_version: 7.9-10.5-LATEST
 category: additional metrics
-description: Metrics Pack restores key SonarQube™ metrics like Rules Compliance Index, Dead Code, and Total Technical Ratio for better project tracking.
+description: Add free SonarQube metrics for rules compliance, dead code issues, estimated development cost and total technical debt. Download Metrics Pack and check version compatibility before installation.
 details: 
 seo:
   name: Metrics Pack for SonarQube Server

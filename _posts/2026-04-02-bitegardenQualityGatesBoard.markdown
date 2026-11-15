@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 2026.2.1-LATEST
 category: visualization/reporting
-description: Validate your code against multiple quality gates in SonarQube, going beyond the default single gate to gain more precise and flexible control.
+description: Compare SonarQube projects against multiple quality thresholds in one board. See passed and failed conditions, customise quality levels and download a free 14-day trial.
 details: 
 seo:
   name: Quality Gates Board for SonarQube Server

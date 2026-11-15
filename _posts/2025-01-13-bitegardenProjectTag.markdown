@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 10.7-LATEST
 category: additional metrics
-description: Tag your project during analysis using command-line properties to track, organize, and monitor projects with full accuracy.
+description: Install plugins by uploading JAR files from the SonarQube administration interface. Browse, update and remove bitegarden plugins with Universal Plugin Manager. Download it for free.
 details: 
 seo:
   name: Project Tag for SonarQube Server

@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 2026.5.2-LATEST
 category: visualization/reporting
-description: Assessments for security standards (OWASP, CWE, ASVS and ISO5055) including risk factor and security vulnerabilities and categories
+description: Assess SonarQube findings against OWASP, CWE and ASVS standards. Generate PDF security reports with bitegarden. Try it free for 14 days.
 details: 
 seo:
   name: Security Assessment for SonarQube Server

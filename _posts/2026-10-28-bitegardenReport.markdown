@@ -1,5 +1,5 @@
 ---
-title: Report for SonarQube Server
+title: Report Plugin for SonarQube Server
 layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-report
 organization: bitegarden
@@ -12,11 +12,11 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 2026.5.3-LATEST
 category: visualization/reporting
-description: Generate detailed code quality reports for your SonarQube Server projects in PDF, Excel, or ODT formats for easy sharing and analysis.
+description: Generate SonarQube PDF reports with executive summaries and detailed findings. Export editable Excel and ODT reports, check version compatibility and download a free 14-day trial.
 details: 
 seo:
-  name: Report for SonarQube Server
-  headline: Report for SonarQube Server - SonarQube Plugin
+  name: Report Plugin for SonarQube Server
+  headline: Report Plugin for SonarQube Server - SonarQube Plugin
   type: ItemPage
 
 ---

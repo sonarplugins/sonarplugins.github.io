@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 2026.2.1-LATEST
 category: visualization/reporting
-description: Calculates ratings (A, B, C…) per tag in SonarQube and generates an extra report, helping you evaluate code quality beyond security, reliability and maintainability.
+description: Get severity-based ratings for SonarQube rule tags, with issue counts and severity breakdowns in a project report. Explore more quality characteristics and download a free 14-day trial.
 details: 
 seo:
   name: Rating Report for SonarQube Server

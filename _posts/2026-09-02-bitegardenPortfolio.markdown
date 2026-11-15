@@ -12,7 +12,7 @@ license: Commercial
 developers: bitegarden
 sonarqube_version: 2026.4.1-LATEST
 category: visualization/reporting
-description: Manage your SonarQube™ instance and view aggregated quality metrics by projects, custom groups, or tags, all from a single dashboard.
+description: Aggregate SonarQube project metrics across your instance, custom groups or project tags. Review quality gates, coverage and security, and export PDF reports. Download a free 14-day trial.
 details: 
 seo:
   name: Overview Report for SonarQube™  Server
