@@ -146,6 +146,13 @@ em {
   color:var(--blue);
 }
 
+.brand-logo {
+  width:48px;
+  height:48px;
+  margin-right:8px;
+  vertical-align:middle;
+}
+
 .navigation nav {
   display:flex;
   align-items:center;
@@ -793,6 +800,11 @@ code {
   .brand {
     font-size:24px;
   }
+  .brand-logo {
+    width:32px;
+    height:32px;
+    margin-right:6px;
+  }
   .navigation nav {
     gap:18px;
   }
@@ -950,6 +962,9 @@ code {
 }
 
 @media(max-width:380px) {
+  .navigation {
+    gap:8px;
+  }
   .navigation nav {
     gap:10px;
   }
