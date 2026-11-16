@@ -1,45 +1,26 @@
-
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container">
-
-            {% assign rows = site.posts.size | divided_by: 3.0 | ceil %}
-            {% for i in (1..rows) %}
-            {% assign offset = forloop.index0 | times: 3 %}
-            <div class="row">
-                {% for post in site.posts limit:3 offset:offset %}
-                    <div class="col-sm-4 portfolio-item">
-                        
-                        <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <div>
-                                <h3>{{ post.title }}</h3>
-                                <span class=style="color: green">{{ post.download_date }}</span>
-                                <p>{{ post.description }}</p>
-                                {% if post.category == "deprecated" %}
-                                <h5 class="label label-warning">{{ post.category }}</h5>
-                                {% else %}
-                                <h5 class="label label-success">{{ post.category }}</h5>
-                                {% endif %}
-                                {% if post.license == "Commercial" %}
-                                <h5 class="label label-danger">
-                                    {{ post.license }}
-                                </h5>
-                                {% endif %}
-                                {% if post.license == "SonarSource" %}
-                                <h5 class="label label-danger">
-                                    Commercial
-                                </h5>
-                                {% endif %}
-                            </div>                            
-                        </a>
-                    </div>
-                {% endfor %}
-            </div>
-            {% endfor %}
-        </div>
-    </section>
+<section class="catalog container" id="portfolio" aria-labelledby="catalog-title">
+  <form class="catalog-toolbar" id="catalog-filters" hidden>
+    <div class="filter-fields">
+      <label for="category-filter">Category
+        <select id="category-filter" name="category">
+          <option value="">All categories</option>
+          {% assign categories = site.categories | sort %}
+          {% for category in categories %}<option value="{{ category[0] | escape }}">{{ category[0] | escape }}</option>{% endfor %}
+        </select>
+      </label>
+      <label for="license-filter">License
+        <select id="license-filter" name="license"><option value="">All licenses</option><option value="commercial">Commercial</option><option value="other">Other licenses</option></select>
+      </label>
+    </div>
+    <label for="sort-order">Sort by
+      <select id="sort-order" name="sort"><option value="updated">Recently updated</option><option value="name">Name A–Z</option></select>
+    </label>
+  </form>
+  <div class="section-heading"><h2 id="catalog-title">Explore plugins</h2><p id="result-count" role="status" aria-live="polite">{{ site.posts.size }} plugins</p></div>
+  <div id="search-results">
+    {% assign plugins = site.posts | sort: 'download_date' | reverse %}
+    {% for post in plugins %}{% include plugin_row.html plugin=post %}{% endfor %}
+  </div>
+  <div class="empty-state" id="no-results" hidden><h3>No plugins found.</h3><p>Try another term or broaden your filters.</p><button class="button button-outline" type="button" id="reset-filters">Clear search and filters</button></div>
+  <noscript><p class="notice">The complete index is available on this page. Enable JavaScript to search, filter and sort plugins.</p></noscript>
+</section>

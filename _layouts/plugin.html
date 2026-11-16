@@ -1,190 +1,31 @@
-<!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body id="page-top" class="text-center">
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/">{{ site.title }}</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="/#portfolio">Index</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="/#categories">Categories</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="/#contribution">Contribution</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="/#about">About</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="/#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-        <div class="container">
-            <div class="top-banner">
-                <span>
-                    Looking for a better experience extending SonarQube&trade;? Try with
-                    <a target="_blank" href="https://marketplace.bitegarden.com">bitegarden Marketplace</a>
-                </span>
-            </div>
-        </div>
-    </nav>
-        <div style="padding-top: 150px; background-color: rgb(252, 252, 253)">
-            <div class="container">
-                <div class="row">
-                    <h5 class="label label-danger" style="font-size: 20px">{{ page.warning }}</h5>
-                </div>
-
-                {% if page.alternative %}
-                <div class="row" style="margin-top: 20px">
-                    <h5 class="label label-primary"style="font-size: 15px" >Use <a href="/{{page.alternative}}">this alternative</a> for similar features</h5>
-                </div>
-                {% endif %}
-
-                <div class="row">
-                    <div class="col-sm-8 col-sm-offset-2">
-                        <div class="modal-body">
-                            <h1>{{ page.title }}</h1>
-                            <hr class="star-primary">
-                            <ul class="list-inline item-details">
-                                <li>
-                                    {% if page.category == "deprecated" %}
-                                        <a href="/search.html?query={{ page.category }}"><h5 class="label label-warning">{{ page.category }}</h5></a>                                    
-                                    {% else %}
-                                        <a href="/search.html?query={{ page.category }}"><h5 class="label label-success">{{ page.category }}</h5></a>
-                                    {% endif %}
-                                </li>
-                                <li>
-                                    {% if page.license == "Commercial" %}
-                                        <a href="/search.html?query={{ page.license }}">
-                                            <h5 class="label label-danger">
-                                                {{ page.license }}
-                                            </h5>
-                                        </a>
-                                    {% else %}
-                                        {% if page.license == "SonarSource" %}
-                                        <a href="/search.html?query={{ page.license }}">
-                                          <h5 class="label label-primary">
-                                              SonarSource
-                                          </h5>&nbsp;
-                                        </a>
-                                        <a href="/search.html?query=Commercial">
-                                            <h5 class="label label-danger">
-                                              Commercial
-                                            </h5>
-                                        </a>
-                                        {% else %}
-                                        <a href="/search.html?query={{ page.license }}">
-                                            <h5 class="label label-primary">
-                                                {{ page.license }}
-                                            </h5>
-                                        </a>
-                                        {% endif %}
-                                    {% endif %}
-                                </li>
-                            </ul>
-
-                            <p>{{ page.details }}</p>
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-5 col-sm-offset-2 text-left">
-                        <p>{{ page.description }}</p>
-
-                        {% if page.download_description %}
-                            <strong>Last update</strong>: {{ page.download_description }}
-                        {% endif %}
-                    </div>
-                    <div class="col-sm-3 plugin-description-column text-left">
-                            <div class="row">
-                                <div class="col-sm-12 text-center">
-                                    <p><a href="{{ page.homepage }}" target="_blank"><i class="fa fa-home"></i> Plugin Website</a></p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-2">
-                                    Organization:
-                                </div>
-                                <div class="col-sm-10 text-right">
-                                    <strong><a href="{{ page.organization_url }}" target="_blank">{{ page.organization }}</a>
-                                    </strong>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-2">
-                                    Developers:
-                                </div>
-                                <div class="col-sm-10 text-right">
-                                    <strong>{{ page.developers }}</strong>
-                                </div>
-                            </div>
-                            <div class="row">&nbsp;
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    Last update:
-                                </div>
-                                <div class="col-sm-6 text-right">
-                                    <strong>{{ page.download_date }}</strong>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    Compatibility:
-                                </div>
-                                <div class="col-sm-6 text-right">
-                                    <strong>{{ page.sonarqube_version }}</strong>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    Latest Version:
-                                </div>
-                                <div class="col-sm-6 text-right">
-                                    <strong>{{ page.download_version }}</strong>
-                                </div>
-                            </div>
-                            <div class="row">&nbsp;
-                            </div>
-                            <div class="row text-center">
-                                <a href="{{ page.download_url }}" class="btn btn-lg btn-default">
-                                    <i class="fa fa-download"></i> Download
-                                </a>
-                            </div>
-                        </div>
-
-
-                </div>
-            </div>
-        </div>
-    {% include contact_disqus.html %}
-
-    {% include footer.html %}
-    {% include js.html %}
-    {% include js_disqus.html %}
-    </body>
-</html>
+---
+layout: base
+---
+<main id="main-content" class="plugin-page container">
+  <a class="back-link" href="{{ '/#portfolio' | relative_url }}">← Back to plugins</a>
+  {% if page.warning and page.warning != '' %}<p class="notice notice-warning">{{ page.warning }}</p>{% endif %}
+  {% if page.category == 'deprecated' %}<p class="notice notice-warning">This plugin is deprecated. Review its maintenance status and compatibility before use.</p>{% endif %}
+  {% if page.alternative %}<p class="notice">For similar features, <a href="{{ page.alternative | prepend: '/' | relative_url }}">explore this alternative →</a>.</p>{% endif %}
+  <div class="plugin-layout">
+    <article>
+      <a class="category-link" href="{{ '/search.html' | relative_url }}?category={{ page.category | url_encode }}"><span class="category-badge{% if page.category == 'deprecated' %} category-badge-warning{% endif %}">{{ page.category | escape }}</span></a>
+      <h1>{{ page.title | replace: '&#58;', ':' | escape }}</h1>
+      <div class="plugin-lead">{{ page.description }}</div>
+      {% if page.organization and page.organization != '' %}<p class="maintainer">Maintained by {% if page.organization_url and page.organization_url != '' %}<a href="{{ page.organization_url | escape }}" target="_blank" rel="noopener noreferrer">{{ page.organization | escape }} ↗</a>{% else %}{{ page.organization | escape }}{% endif %}</p>{% endif %}
+      {% if page.details and page.details != '' %}<section class="plugin-section"><h2>About this plugin</h2><div class="prose">{{ page.details | markdownify }}</div></section>{% endif %}
+      {% if content != '' %}<div class="prose plugin-section">{{ content }}</div>{% endif %}
+      {% if page.download_description and page.download_description != '' %}<section class="plugin-section"><p class="eyebrow">Latest release</p><h2>What’s new</h2><div class="prose">{{ page.download_description | markdownify }}</div></section>{% endif %}
+      {% if page.developers and page.developers != '' %}<section class="plugin-section"><h2>Developers</h2><p>{{ page.developers | escape }}</p></section>{% endif %}
+    </article>
+    <aside class="plugin-sidebar" aria-label="Plugin version and download">
+      <p class="eyebrow">Plugin details</p>
+      <dl><dt>Latest version</dt><dd>{{ page.download_version | default: 'Not specified' | escape }}</dd><dt>SonarQube compatibility</dt><dd>{{ page.sonarqube_version | default: 'Not specified' | escape }}</dd><dt>License</dt><dd>{% include license_badge.html license=page.license %}</dd><dt>Last updated</dt><dd>{{ page.download_date | date: '%d %b %Y' }}</dd></dl>
+      {% if page.download_url and page.download_url != '' %}<a class="button button-primary download-button" href="{{ page.download_url | escape }}">Download <span aria-hidden="true">↓</span></a>{% endif %}
+      {% if page.homepage and page.homepage != '' %}<a class="plugin-website" href="{{ page.homepage | escape }}" target="_blank" rel="noopener noreferrer">Plugin website <span aria-hidden="true">↗</span></a>{% endif %}
+    </aside>
+  </div>
+</main>
+{% if site.disqus_shortname and site.disqus_shortname != '' %}
+  {% include contact_disqus.html %}
+  {% include js_disqus.html %}
+{% endif %}

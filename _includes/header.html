@@ -1,20 +1,17 @@
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="intro-text">
-                        <span class="skills">Here you can find a lot of awesome plugins to extend your SonarQube™ instance</span><br><br>
-                        <span class="skills">We have indexed <big><span class="label label-default">{{ site.posts.size }}</span></big> plugins and counting!</span><br><br>
-                        <span class="skills">SonarQube™ Server and Cloud enables your team with to systematically deliver and meet high code quality standards, for every project, at every step of the workflow.</span><br><br>
-                        <form action="/search.html" method="get" class="navbar navbar-form" role="search">
-                            <div class="form-group">
-                                <input type="text" id="search-box" name="query" class="form-control" placeholder="Search plugins" required data-validation-required-message="Please enter a term to search.">
-                            </div>
-                            <button type="submit" class="btn btn-default">Search</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<section class="hero{% if include.compact %} hero-compact{% endif %}" aria-labelledby="hero-title">
+  <div class="container">
+    <p class="eyebrow">SonarQube&trade; plugins index</p>
+    {% if include.compact %}
+      <h1 id="hero-title">Find your next <em>plugin.</em></h1>
+    {% else %}
+      <h1 id="hero-title">Your SonarQube&trade;<br><em>More powerful</em></h1>
+    {% endif %}
+    <p class="hero-description">Discover community and commercial plugins to extend your code analysis, reporting and integrations.</p>
+    <form class="search-form" action="{{ '/search.html' | relative_url }}" method="get" role="search" id="plugin-search">
+      <label class="sr-only" for="search-box">Search plugins, languages or features</label>
+      <input id="search-box" type="search" name="query" placeholder="Search plugins, languages or features…" autocomplete="off">
+      <button class="button button-primary" type="submit">Search <span aria-hidden="true">→</span></button>
+    </form>
+    <p class="index-note">{{ site.posts.size }} plugins indexed.</p>
+  </div>
+</section>

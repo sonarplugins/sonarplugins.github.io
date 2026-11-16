@@ -1,36 +1,9 @@
-<!-- Categories Grid Section -->
-    <section id="categories">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Categories</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                {% for category in site.categories %}
-                    {% if category[0] != "deprecated" %}
-                    <div class="col-sm-4">
-                        <a href="/search.html?query={{ category[0] }}">
-                            <div>
-                                <h3><span class="label label-success">{{ category[0] }}</span>&nbsp<span class="label label-default">{{ category[1].size }}</span></h3>
-                            </div>  
-                        </a>
-                    </div>
-                    {% endif %}
-                {% endfor %}
-                
-                {% for category in site.categories %}
-                    {% if category[0] == "deprecated" %}
-                    <div class="col-sm-4">
-                        <a href="/search.html?query={{ category[0] }}">
-                            <div>
-                                <h3><span class="label label-warning">{{ category[0] }}</span>&nbsp<span class="label label-default">{{ category[1].size }}</span></h3>
-                            </div>  
-                        </a>
-                    </div>
-                    {% endif %}                
-                {% endfor %}
-            </div>
-        </div>
-    </section>
+<section class="category-section" id="categories" aria-labelledby="categories-title">
+  <div class="container">
+    <p class="eyebrow">Explore the ecosystem</p><h2 id="categories-title">Better tools. Better code. Better SonarQube&trade;</h2>
+    <div class="category-links">
+      {% assign categories = site.categories | sort %}
+      {% for category in categories %}<a href="{{ '/search.html' | relative_url }}?category={{ category[0] | url_encode }}"><span class="category-badge{% if category[0] == 'deprecated' %} category-badge-warning{% endif %}">{{ category[0] | escape }}</span><span class="category-count">{{ category[1].size }} <span aria-hidden="true">↗</span></span></a>{% endfor %}
+    </div>
+  </div>
+</section>

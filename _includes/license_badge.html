@@ -1,0 +1,2 @@
+{% assign badge_license_name = include.license | downcase %}
+<span class="license-badge{% if badge_license_name contains 'commercial' or badge_license_name == 'sonarsource' %} license-badge-commercial{% endif %}">{{ include.license | default: 'Not specified' | escape }}{% if badge_license_name == 'sonarsource' %} · Commercial{% endif %}</span>

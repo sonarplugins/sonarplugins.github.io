@@ -1,49 +1,11 @@
-   <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="#portfolio">Index</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="#categories">Categories</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="#contribution">Contribution</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="#about">About</a>
-                    </li>
-                    <li class="page-scroll navbar-option">
-                        <a href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-        <div class="container">
-            <div class="top-banner">
-                <span>
-                    Looking for a better experience extending SonarQube&trade;? Try with
-                    <a target="_blank" href="https://marketplace.bitegarden.com">bitegarden Marketplace</a>
-                </span>
-            </div>
-        </div>
+<header class="site-header">
+  <div class="container navigation">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="SonarPlugins home">sonar<span>plugins</span></a>
+    <nav aria-label="Main navigation">
+      <a href="{{ '/#portfolio' | relative_url }}"{% if page.layout == 'default' or page.layout == 'search' %} aria-current="page"{% endif %}>Explore</a>
+      <a class="nav-secondary" href="{{ '/#categories' | relative_url }}">Categories</a>
+      <a class="nav-secondary" href="{{ '/#about' | relative_url }}">About</a>
+      <a href="{{ '/#contribution' | relative_url }}">Contribute <span aria-hidden="true">↗</span></a>
     </nav>
+  </div>
+</header>

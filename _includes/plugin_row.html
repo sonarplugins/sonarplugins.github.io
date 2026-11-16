@@ -1,0 +1,14 @@
+{% assign plugin = include.plugin %}
+{% assign license_type = 'other' %}
+{% assign license_name = plugin.license | downcase %}
+{% if license_name contains 'commercial' or license_name == 'sonarsource' %}{% assign license_type = 'commercial' %}{% endif %}
+<article class="plugin-row" data-category="{{ plugin.category | escape }}" data-license="{{ license_type }}" data-date="{{ plugin.download_date | date: '%Y-%m-%d' }}" data-title="{{ plugin.title | escape }}" data-search="{{ plugin.title | escape }} {{ plugin.description | strip_html | escape }} {{ plugin.details | strip_html | escape }} {{ plugin.organization | escape }} {{ plugin.developers | escape }} {{ plugin.category | escape }} {{ plugin.license | escape }}">
+  <div class="plugin-summary">
+    <h3><a href="{{ plugin.url | relative_url }}">{{ plugin.title | replace: '&#58;', ':' | escape }}<span class="row-arrow" aria-hidden="true">↗</span></a></h3>
+    <p class="plugin-description">{{ plugin.description }}</p>
+    <p class="plugin-byline">{% if plugin.organization and plugin.organization != '' %}{{ plugin.organization | escape }} <span aria-hidden="true">·</span> {% endif %}<span class="category-badge{% if plugin.category == 'deprecated' %} category-badge-warning{% endif %}">{{ plugin.category | escape }}</span></p>
+  </div>
+  <dl class="row-meta"><dt>SonarQube</dt><dd>{{ plugin.sonarqube_version | default: 'Not specified' | escape }}</dd></dl>
+  <dl class="row-meta"><dt>License</dt><dd>{% include license_badge.html license=plugin.license %}</dd></dl>
+  <dl class="row-meta row-updated"><dt>Updated</dt><dd>{{ plugin.download_date | date: '%d %b %Y' }}</dd></dl>
+</article>

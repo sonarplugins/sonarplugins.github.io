@@ -11,7 +11,7 @@ download_date: 2021-01-06
 license: Apache License 2
 developers: Norman Wenzel
 sonarqube_version: 7.9-8.2
-category: external analyzers
+category: deprecated
 description: Import Xanitizer security reports
 details: 
 seo: 
