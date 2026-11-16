@@ -2,8 +2,8 @@
 title: Rules Compliance Index (RCI)
 layout: plugin
 homepage: https://github.com/willemsrb/sonar-rci-plugin
-organization: 
-organization_url: 
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/willemsrb/sonar-rci-plugin/releases/download/sonar-rci-plugin-1.0.1/sonar-rci-plugin-1.0.1.jar
 download_version: 1.0.1
 download_description: Typo fix

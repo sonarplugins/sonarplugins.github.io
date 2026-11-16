@@ -3,7 +3,7 @@ title: Rust language analyzer
 layout: plugin
 homepage: https://github.com/C4tWithShell/community-rust
 organization: Eric Le Goff
-organization_url: 
+organization_url: unknown
 download_url: https://github.com/C4tWithShell/community-rust/releases/download/v0.2.3/community-rust-plugin-0.2.3.jar
 download_version: 0.2.3
 download_description: Rust Grammar for SQ 10  

@@ -2,14 +2,14 @@
 title: Codehawk Java
 layout: plugin
 homepage: https://github.com/SDPMLab/CodeHawk
-organization: 
-organization_url: 
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/SEPMLAB/CodeHawk/releases/download/1.6/codehawk-1.6.jar
 download_version: 1.6
 download_description: Added new rules
 download_date: 2022-01-27
-license: 
-developers: 
+license: unknown
+developers: unknown
 sonarqube_version: 9.9-LATEST
 category: external analysers
 description: Analyze Java code smell

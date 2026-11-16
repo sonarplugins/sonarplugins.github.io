@@ -1,0 +1,22 @@
+---
+title: Traditional Chinese Pack (zh-TW)
+layout: plugin
+homepage: https://github.com/Ray0907/sonar-l10n-zh-hant
+organization: Ray Tien
+organization_url: unknown
+download_url: https://github.com/Ray0907/sonar-l10n-zh-hant/releases/download/26.11/sonar-l10n-zhhant-26.11.jar
+download_version: 26.11
+download_description: Support SonarQube Community Build 26.11
+download_date: 2026-11-09
+license: GNU LGPL 3
+developers: unknown
+sonarqube_version: 26.11-LATEST
+category: localization
+description: SonarQube Traditional Chinese (Taiwan) Language Pack. Terms follow zhtw-mcp. Install only one Traditional Chinese pack at a time.
+details: 
+seo:
+  name: Traditional Chinese Pack (zh-TW)
+  headline: Traditional Chinese Pack (zh-TW) - SonarQube Plugin
+  type: ItemPage
+
+---

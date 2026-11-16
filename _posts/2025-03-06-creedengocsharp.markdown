@@ -9,7 +9,7 @@ download_version: 2.1.0
 download_description: Initial Marketplace publication of plugin after renaming from "ecocode-csharp"
 download_date: 2025-03-06
 license: GPL v3
-developers: 
+developers: unknown
 sonarqube_version: 9.9-LATEST
 category: external analysers
 description: Provide a list of static code analyzers (for C# language) to highlight code structures that may have a negative ecological impact&#58; energy and resources over-consumption, "fatware", shortening terminals' lifespan, etc.

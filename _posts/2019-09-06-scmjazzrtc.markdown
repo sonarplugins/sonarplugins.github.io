@@ -2,8 +2,8 @@
 title: Jazz RTC
 layout: plugin
 homepage: https://github.com/troosan/sonar-scm-jazzrtc
-organization: 
-organization_url: 
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/troosan/sonar-scm-jazzrtc/releases/download/1.2/sonar-scm-jazzrtc-plugin-1.2.jar
 download_version: 1.2
 download_description: Compatibility with SQ 7.7+

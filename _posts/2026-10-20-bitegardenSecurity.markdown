@@ -10,7 +10,7 @@ download_description: PCI DSS report and PDF download now available in all editi
 download_date: 2026-10-20
 license: Commercial
 developers: bitegarden
-sonarqube_version: 2026.5.2-LATEST
+sonarqube_version: 2026.5.5-LATEST
 category: visualization/reporting
 description: Assess SonarQube findings against OWASP, CWE and ASVS standards. Generate PDF security reports with bitegarden. Try it free for 14 days.
 details: 

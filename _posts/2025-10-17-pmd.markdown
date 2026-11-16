@@ -2,8 +2,8 @@
 title: PMD
 layout: plugin
 homepage: https://github.com/jborgers/sonar-pmd
-organization: 
-organization_url: 
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/jborgers/sonar-pmd/releases/download/4.2.1/sonar-pmd-plugin-4.2.1.jar
 download_version: 4.2.1
 download_description: Supports Java 25, PMD 7.17.0, Kotlin rules, rule customization, analysis scope and adjusted code-style severity.

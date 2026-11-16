@@ -2,8 +2,8 @@
 title: YAML Analyzer
 layout: plugin
 homepage: https://github.com/sbaudoin/sonar-yaml
-organization: 
-organization_url: 
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/sbaudoin/sonar-yaml/releases/download/v1.9.1/sonar-yaml-plugin-1.9.1.jar
 download_version: 1.9.1
 download_description: Few bugs and security fixes

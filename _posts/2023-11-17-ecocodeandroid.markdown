@@ -9,7 +9,7 @@ download_version: 1.1.0
 download_description: Initial Marketplace publication. Add 33 new rules (Java), 8 new rules (XML), 3 new rules (Groovy).
 download_date: 2023-11-17
 license: GPL v3
-developers: 
+developers: unknown
 sonarqube_version: 9.9-LATEST
 category: external analysers
 description: Provides rules to reduce the environmental footprint of your Android applications

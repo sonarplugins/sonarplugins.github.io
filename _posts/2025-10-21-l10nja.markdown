@@ -2,14 +2,14 @@
 title: Japanese Pack
 layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-ja
-organization: 
-organization_url: 
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/cresco-sonar/sonar-l10n-ja/releases/download/sonar-l10n-ja-plugin-25.5/sonar-l10n-ja-plugin-25.5.jar
 download_version: 25.5
 download_description: Support SonarQube versions 25.5
 download_date: 2025-10-21
 license: GNU LGPL 3
-developers: 
+developers: unknown
 sonarqube_version: 2026.5.5-LATEST
 category: localization
 description: Language Pack for Japanese

@@ -3,7 +3,7 @@ title: Greek Pack
 layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-el
 organization: Patroklos PAPAPETROU
-organization_url: 
+organization_url: unknown
 download_url: https://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/l10n/sonar-l10n-el-plugin/1.8/sonar-l10n-el-plugin-1.8.jar
 download_version: 1.8
 download_description: Adds Sonar 3.6 terms

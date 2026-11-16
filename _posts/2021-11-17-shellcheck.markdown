@@ -2,8 +2,8 @@
 title: ShellCheck Analyzer
 layout: plugin
 homepage: https://github.com/sbaudoin/sonar-shellcheck
-organization: 
-organization_url: 
+organization: unknown
+organization_url: unknown
 download_url: https://github.com/sbaudoin/sonar-shellcheck/releases/download/v2.5.0/sonar-shellcheck-plugin-2.5.0.jar
 download_version: 2.5.0
 download_description: Brings 54 new rules, fixes some minor issues
