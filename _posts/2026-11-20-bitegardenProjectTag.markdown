@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-project-tag
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-project-tag-plugin&productVersion=1.3.5&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 1.3.5
-download_description: Added compatibility with SonarQube Server Community
-download_date: 2025-01-13
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-project-tag-plugin&productVersion=1.3.6&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 1.3.6
+download_description: Dark mode support: follows the SonarQube light/dark theme
+download_date: 2026-11-20
 license: Commercial
 developers: bitegarden
-sonarqube_version: 10.7-LATEST
+sonarqube_version: 2026.5.5-LATEST
 category: additional metrics
 description: Install plugins by uploading JAR files from the SonarQube administration interface. Browse, update and remove bitegarden plugins with Universal Plugin Manager. Download it for free.
 details: 

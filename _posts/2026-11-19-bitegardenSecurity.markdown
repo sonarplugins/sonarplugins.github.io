@@ -4,10 +4,10 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-security
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.36.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
-download_version: 2.36.1
-download_description: PCI DSS report and PDF download now available in all editions
-download_date: 2026-10-20
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-security&productVersion=2.36.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_version: 2.36.2
+download_description: Dark theme support for SonarQube in all security reports
+download_date: 2026-11-19
 license: Commercial
 developers: bitegarden
 sonarqube_version: 2026.5.5-LATEST
