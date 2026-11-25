@@ -1,22 +1,23 @@
 ---
-title: CVS
+title: "CVS"
 layout: plugin
-homepage: https://github.com/SonarQubeCommunity/sonar-scm-cvs
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/SonarQubeCommunity/sonar-scm-cvs"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-scm-cvs-plugin&productVersion=1.1.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.1.1
-download_description: Fix classnotfound error
+download_version: "1.1.1"
+download_description: "Fix classnotfound error"
 download_date: 2018-07-06
-license: GNU LGPL 3
-developers: Julien Henry
-sonarqube_version: 9.9-LATEST
-category: integration
-description: Provides SCM CVS integration
-details: 
+license: "GNU LGPL 3"
+developers: "Julien Henry"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "integration"
+description: "Provides SCM CVS integration"
+details: ""
 seo:
-  name: CVS
-  headline: CVS - SonarQube Plugin
+  name: "CVS"
+  headline: "CVS - SonarQube Plugin"
   type: ItemPage
 
 ---

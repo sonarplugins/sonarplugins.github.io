@@ -1,22 +1,23 @@
 ---
-title: Korean Pack
+title: "Korean Pack"
 layout: plugin
-homepage: https://github.com/SonarCommunity/sonar-l10n-ko
-organization: creatinov
-organization_url: http://moseskim.github.io
+homepage: "https://github.com/SonarCommunity/sonar-l10n-ko"
+organization: "creatinov"
+organization_url: "http://moseskim.github.io"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-ko-plugin&productVersion=25.8&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 25.8
-download_description: Support SonarQube 25.x - 100% Korean translation (5,060 keys)
+download_version: "25.8"
+download_description: "Support SonarQube 25.x - 100% Korean translation (5,060 keys)"
 download_date: 2026-04-11
-license: GNU LGPL 3
-developers: Moses Kim
-sonarqube_version: 25.8-LATEST
-category: localization
-description: Language Pack for Korean
-details: 
+license: "GNU LGPL 3"
+developers: "Moses Kim"
+sonarqube_version: "[25.8,LATEST]"
+sonarqube_community_build_version: "[25.8,LATEST]"
+category: "localization"
+description: "Language Pack for Korean"
+details: ""
 seo:
-  name: Korean Pack
-  headline: Korean Pack - SonarQube Plugin
+  name: "Korean Pack"
+  headline: "Korean Pack - SonarQube Plugin"
   type: ItemPage
 
 ---

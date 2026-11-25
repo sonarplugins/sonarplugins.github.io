@@ -1,22 +1,23 @@
 ---
-title: Shell & CI plugin for SonarQube
+title: "Shell & CI plugin for SonarQube"
 layout: plugin
-homepage: https://github.com/muratcanozdemir/sonar-shell-ci-plugin
-organization: Murat Can Ozdemir
-organization_url: https://github.com/muratcanozdemir
+homepage: "https://github.com/muratcanozdemir/sonar-shell-ci-plugin"
+organization: "Murat Can Ozdemir"
+organization_url: "https://github.com/muratcanozdemir"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-shell-ci-plugin&productVersion=1.0.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.0.0
-download_description: ShellCheck rules for shell scripts and 13 security rules for GitHub Actions, GitLab CI and Azure Pipelines. Replaces the ShellCheck plugin: uninstall it first.
+download_version: "1.0.0"
+download_description: "ShellCheck rules for shell scripts and 13 security rules for GitHub Actions, GitLab CI and Azure Pipelines. Replaces the ShellCheck plugin: uninstall it first."
 download_date: 2026-11-14
-license: MIT License
-developers: Murat Can Ozdemir
-sonarqube_version: 25.12-LATEST
-category: languages
-description: Analysis of shell scripts (ShellCheck) and CI pipelines (GitHub Actions, GitLab CI, Azure Pipelines). Replaces the ShellCheck plugin, with the same language, rule and setting keys&#58; uninstall the ShellCheck plugin first, the two cannot be installed together.
-details: 
+license: "MIT License"
+developers: "Murat Can Ozdemir"
+sonarqube_version: "[25.12,LATEST]"
+sonarqube_community_build_version: "[25.12,LATEST]"
+category: "languages"
+description: "Analysis of shell scripts (ShellCheck) and CI pipelines (GitHub Actions, GitLab CI, Azure Pipelines). Replaces the ShellCheck plugin, with the same language, rule and setting keys: uninstall the ShellCheck plugin first, the two cannot be installed together."
+details: ""
 seo:
-  name: Shell & CI plugin for SonarQube
-  headline: Shell & CI plugin for SonarQube - SonarQube Plugin
+  name: "Shell & CI plugin for SonarQube"
+  headline: "Shell & CI plugin for SonarQube - SonarQube Plugin"
   type: ItemPage
 
 ---

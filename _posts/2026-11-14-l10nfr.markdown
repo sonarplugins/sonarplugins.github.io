@@ -1,22 +1,23 @@
 ---
-title: French Pack
+title: "French Pack"
 layout: plugin
-homepage: https://github.com/SonarCommunity/sonar-l10n-fr
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/SonarCommunity/sonar-l10n-fr"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-fr-plugin&productVersion=26.11.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 26.11.0
-download_description: Support SonarQube Community Build 26.11: 8,436 of 8,586 web app messages in French, Lightwell and container image screens, design system labels
+download_version: "26.11.0"
+download_description: "Support SonarQube Community Build 26.11: 8,436 of 8,586 web app messages in French, Lightwell and container image screens, design system labels"
 download_date: 2026-11-14
-license: GNU LGPL 3
-developers: unknown
-sonarqube_version: 26.11-LATEST
-category: localization
-description: Language Pack for French
-details: 
+license: "GNU LGPL 3"
+developers: "unknown"
+sonarqube_version: "[26.11,LATEST]"
+sonarqube_community_build_version: "[26.11,LATEST]"
+category: "localization"
+description: "Language Pack for French"
+details: ""
 seo:
-  name: French Pack
-  headline: French Pack - SonarQube Plugin
+  name: "French Pack"
+  headline: "French Pack - SonarQube Plugin"
   type: ItemPage
 
 ---

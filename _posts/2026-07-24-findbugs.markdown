@@ -1,22 +1,23 @@
 ---
-title: Findbugs
+title: "Findbugs"
 layout: plugin
-homepage: https://github.com/spotbugs/sonar-findbugs/
-organization: SpotBugs Team
-organization_url: https://github.com/spotbugs/
+homepage: "https://github.com/spotbugs/sonar-findbugs/"
+organization: "SpotBugs Team"
+organization_url: "https://github.com/spotbugs/"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-findbugs-plugin&productVersion=4.7.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 4.7.0
-download_description: Use SpotBugs 4.10.3, sb-contrib 7.7.4, and findsecbugs 1.14.0
+download_version: "4.7.0"
+download_description: "Use SpotBugs 4.10.3, sb-contrib 7.7.4, and findsecbugs 1.14.0"
 download_date: 2026-07-24
-license: GNU LGPL 3
-developers: Evgeny Mandrikov,Nicolas Peru
-sonarqube_version: 2025.1-LATEST
-category: external analysers
-description: Provide Findbugs rules for analysis of Java projects
-details: 
+license: "GNU LGPL 3"
+developers: "Evgeny Mandrikov,Nicolas Peru"
+sonarqube_version: "[2025.1,LATEST]"
+sonarqube_community_build_version: "[24.12,LATEST]"
+category: "external analysers"
+description: "Provide Findbugs rules for analysis of Java projects"
+details: ""
 seo:
-  name: Findbugs
-  headline: Findbugs - SonarQube Plugin
+  name: "Findbugs"
+  headline: "Findbugs - SonarQube Plugin"
   type: ItemPage
 
 ---

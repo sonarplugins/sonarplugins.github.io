@@ -1,22 +1,23 @@
 ---
-title: Italian Pack
+title: "Italian Pack"
 layout: plugin
-homepage: https://github.com/SonarCommunity/sonar-l10n-it
-organization: Assioma.net
-organization_url: http://www.assioma.net
+homepage: "https://github.com/SonarCommunity/sonar-l10n-it"
+organization: "Assioma.net"
+organization_url: "http://www.assioma.net"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-it-plugin&productVersion=1.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.3
-download_description: Italian Pack for Sonar
+download_version: "1.3"
+download_description: "Italian Pack for Sonar"
 download_date: 2014-07-29
-license: GNU LGPL 3
-developers: Massimo Borgogno,Laura Cuttica,Claudio Gaiani
-sonarqube_version: 9.9-LATEST
-category: localization
-description: Language Pack for Italian
-details: 
+license: "GNU LGPL 3"
+developers: "Massimo Borgogno,Laura Cuttica,Claudio Gaiani"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "localization"
+description: "Language Pack for Italian"
+details: ""
 seo:
-  name: Italian Pack
-  headline: Italian Pack - SonarQube Plugin
+  name: "Italian Pack"
+  headline: "Italian Pack - SonarQube Plugin"
   type: ItemPage
 
 ---

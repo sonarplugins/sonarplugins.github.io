@@ -1,22 +1,23 @@
 ---
-title: Rules Compliance Index (RCI)
+title: "Rules Compliance Index (RCI)"
 layout: plugin
-homepage: https://github.com/willemsrb/sonar-rci-plugin
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/willemsrb/sonar-rci-plugin"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-rci-plugin&productVersion=1.0.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.0.1
-download_description: Typo fix
+download_version: "1.0.1"
+download_description: "Typo fix"
 download_date: 2016-12-23
-license: Apache License, Version 2.0
-developers: Robert Willems of Brilman
-sonarqube_version: 9.9-LATEST
-category: external analysers
-description: Revives the Rule Compliance Index metric
-details: 
+license: "Apache License, Version 2.0"
+developers: "Robert Willems of Brilman"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "external analysers"
+description: "Revives the Rule Compliance Index metric"
+details: ""
 seo:
-  name: Rules Compliance Index (RCI)
-  headline: Rules Compliance Index (RCI) - SonarQube Plugin
+  name: "Rules Compliance Index (RCI)"
+  headline: "Rules Compliance Index (RCI) - SonarQube Plugin"
   type: ItemPage
 
 ---

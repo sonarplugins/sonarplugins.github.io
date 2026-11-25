@@ -1,22 +1,23 @@
 ---
-title: Traditional Chinese Pack (zh-TW)
+title: "Traditional Chinese Pack (zh-TW)"
 layout: plugin
-homepage: https://github.com/Ray0907/sonar-l10n-zh-hant
-organization: Ray Tien
-organization_url: unknown
+homepage: "https://github.com/Ray0907/sonar-l10n-zh-hant"
+organization: "Ray Tien"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-zhhant&productVersion=26.11&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 26.11
-download_description: Support SonarQube Community Build 26.11
+download_version: "26.11"
+download_description: "Support SonarQube Community Build 26.11"
 download_date: 2026-11-09
-license: GNU LGPL 3
-developers: unknown
-sonarqube_version: 26.11-LATEST
-category: localization
-description: SonarQube Traditional Chinese (Taiwan) Language Pack. Terms follow zhtw-mcp. Install only one Traditional Chinese pack at a time.
-details: 
+license: "GNU LGPL 3"
+developers: "unknown"
+sonarqube_version: "[26.11,LATEST]"
+sonarqube_community_build_version: "[26.11,LATEST]"
+category: "localization"
+description: "SonarQube Traditional Chinese (Taiwan) Language Pack. Terms follow zhtw-mcp. Install only one Traditional Chinese pack at a time."
+details: ""
 seo:
-  name: Traditional Chinese Pack (zh-TW)
-  headline: Traditional Chinese Pack (zh-TW) - SonarQube Plugin
+  name: "Traditional Chinese Pack (zh-TW)"
+  headline: "Traditional Chinese Pack (zh-TW) - SonarQube Plugin"
   type: ItemPage
 
 ---

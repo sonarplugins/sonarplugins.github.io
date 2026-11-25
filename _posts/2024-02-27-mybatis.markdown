@@ -1,22 +1,23 @@
 ---
-title: MyBatis Plugin for SonarQube
+title: "MyBatis Plugin for SonarQube"
 layout: plugin
-homepage: https://github.com/donhui/sonar-mybatis
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/donhui/sonar-mybatis"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-mybatis-plugin&productVersion=1.0.8&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.0.8
-download_description: support sonarqube 10.4
+download_version: "1.0.8"
+download_description: "support sonarqube 10.4"
 download_date: 2024-02-27
-license: Apache License, Version 2.0
-developers: donghui
-sonarqube_version: 10.4-LATEST
-category: external analysers
-description: Rules to check SQL statements in MyBatis Mapper XML files.
-details: 
+license: "Apache License, Version 2.0"
+developers: "donghui"
+sonarqube_version: "[10.4,LATEST]"
+sonarqube_community_build_version: "[10.4,LATEST]"
+category: "external analysers"
+description: "Rules to check SQL statements in MyBatis Mapper XML files."
+details: ""
 seo:
-  name: MyBatis Plugin for SonarQube
-  headline: MyBatis Plugin for SonarQube - SonarQube Plugin
+  name: "MyBatis Plugin for SonarQube"
+  headline: "MyBatis Plugin for SonarQube - SonarQube Plugin"
   type: ItemPage
 
 ---

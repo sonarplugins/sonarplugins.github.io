@@ -1,22 +1,23 @@
 ---
-title: Ansible Lint
+title: "Ansible Lint"
 layout: plugin
-homepage: https://github.com/sbaudoin/sonar-ansible
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/sbaudoin/sonar-ansible"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=ansible&productVersion=2.5.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 2.5.1
-download_description: Support for SonarQube 9.2
+download_version: "2.5.1"
+download_description: "Support for SonarQube 9.2"
 download_date: 2022-01-23
-license: Apache License, Version 2.0
-developers: Sylvain Baudoin
-sonarqube_version: 9.9-LATEST
-category: external analysers
-description: Analyze Ansible playbooks.
-details: 
+license: "Apache License, Version 2.0"
+developers: "Sylvain Baudoin"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "external analysers"
+description: "Analyze Ansible playbooks."
+details: ""
 seo:
-  name: Ansible Lint
-  headline: Ansible Lint - SonarQube Plugin
+  name: "Ansible Lint"
+  headline: "Ansible Lint - SonarQube Plugin"
   type: ItemPage
 
 ---

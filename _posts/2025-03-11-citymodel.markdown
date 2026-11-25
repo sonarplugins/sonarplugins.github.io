@@ -1,22 +1,23 @@
 ---
-title: 3D Code Metrics
+title: "3D Code Metrics"
 layout: plugin
-homepage: http://www.excentia.es/plugins/city-model/descargar_en.html
-organization: excentia
-organization_url: http://www.excentia.es
+homepage: "http://www.excentia.es/plugins/city-model/descargar_en.html"
+organization: "excentia"
+organization_url: "http://www.excentia.es"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-city-model-plugin&productVersion=4.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 4.0
-download_description: First release
+download_version: "4.0"
+download_description: "First release"
 download_date: 2025-03-11
-license: Commercial
-developers: Antonio Calero
-sonarqube_version: 10.7-LATEST
-category: visualization/reporting
-description: SonarQube 3D Code Metrics Plugin
-details: 
+license: "Commercial"
+developers: "Antonio Calero"
+sonarqube_version: "[7.9,LATEST]"
+sonarqube_community_build_version: "[7.9,LATEST]"
+category: "visualization/reporting"
+description: "SonarQube 3D Code Metrics Plugin"
+details: ""
 seo:
-  name: 3D Code Metrics
-  headline: 3D Code Metrics - SonarQube Plugin
+  name: "3D Code Metrics"
+  headline: "3D Code Metrics - SonarQube Plugin"
   type: ItemPage
 
 ---

@@ -1,22 +1,23 @@
 ---
-title: Sonar Devon4j Plugin
+title: "Sonar Devon4j Plugin"
 layout: plugin
-homepage: https://github.com/devonfw/sonar-devon4j-plugin/#sonar-devon4j-plugin
-organization: devonfw
-organization_url: https://devonfw.com
+homepage: "https://github.com/devonfw/sonar-devon4j-plugin/#sonar-devon4j-plugin"
+organization: "devonfw"
+organization_url: "https://devonfw.com"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-devon4j-plugin&productVersion=2020.12.002&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 2020.12.002
-download_description: Added support for custom architecture configurations, additional rules checking the correct use of third-party libraries as well as multiple bug fixes and minor improvements.
+download_version: "2020.12.002"
+download_description: "Added support for custom architecture configurations, additional rules checking the correct use of third-party libraries as well as multiple bug fixes and minor improvements."
 download_date: 2020-12-17
-license: Apache Software License, Version 2.0
-developers: Jörg Hohwiller,Sam Sabah
-sonarqube_version: 9.9-LATEST
-category: governance
-description: Plugin for SonarQube to validate devon4j architecture and conventions.
-details: 
+license: "Apache Software License, Version 2.0"
+developers: "Jörg Hohwiller,Sam Sabah"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "governance"
+description: "Plugin for SonarQube to validate devon4j architecture and conventions."
+details: ""
 seo:
-  name: Sonar Devon4j Plugin
-  headline: Sonar Devon4j Plugin - SonarQube Plugin
+  name: "Sonar Devon4j Plugin"
+  headline: "Sonar Devon4j Plugin - SonarQube Plugin"
   type: ItemPage
 
 ---

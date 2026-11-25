@@ -1,22 +1,23 @@
 ---
-title: ecoCode - C# language
+title: "ecoCode - C# language"
 layout: plugin
-homepage: https://github.com/green-code-initiative/ecoCode-csharp-sonarqube
-organization: green-code-initiative
-organization_url: https://github.com/green-code-initiative
+homepage: "https://github.com/green-code-initiative/ecoCode-csharp-sonarqube"
+organization: "green-code-initiative"
+organization_url: "https://github.com/green-code-initiative"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=ecocode-csharp-plugin&productVersion=1.5.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.5.1
-download_description: Add rules EC91, EC92, EC93; support of SonarQube 10.7; upgrade internal library versions
+download_version: "1.5.1"
+download_description: "Add rules EC91, EC92, EC93; support of SonarQube 10.7; upgrade internal library versions"
 download_date: 2024-11-01
-license: GPL v3
-developers: unknown
-sonarqube_version: 9.9-LATEST
-category: external analysers
-description: Provide a list of static code analyzers (for C# language) to highlight code structures that may have a negative ecological impact&#58; energy and resources over-consumption, "fatware", shortening terminals' lifespan, etc.
-details: 
+license: "GPL v3"
+developers: "unknown"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "external analysers"
+description: "Provide a list of static code analyzers (for C# language) to highlight code structures that may have a negative ecological impact: energy and resources over-consumption, \"fatware\", shortening terminals' lifespan, etc."
+details: ""
 seo:
-  name: ecoCode - C# language
-  headline: ecoCode - C# language - SonarQube Plugin
+  name: "ecoCode - C# language"
+  headline: "ecoCode - C# language - SonarQube Plugin"
   type: ItemPage
 
 ---

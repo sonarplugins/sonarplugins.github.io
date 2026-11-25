@@ -1,22 +1,23 @@
 ---
-title: OpenID Connect Authentication for SonarQube
+title: "OpenID Connect Authentication for SonarQube"
 layout: plugin
-homepage: https://github.com/vaulttec/sonar-auth-oidc
-organization: Vaulttec
-organization_url: http://vaulttec.org
+homepage: "https://github.com/vaulttec/sonar-auth-oidc"
+organization: "Vaulttec"
+organization_url: "http://vaulttec.org"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-auth-oidc-plugin&productVersion=3.0.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 3.0.0
-download_description: Add compatibility with Sonarqube v25.x/2025.x.
+download_version: "3.0.0"
+download_description: "Add compatibility with Sonarqube v25.x/2025.x."
 download_date: 2025-05-25
-license: APACHE 2
-developers: Torsten Juergeleit
-sonarqube_version: 2026.5.6-LATEST
-category: integration
-description: Delegate authentication using the OpenID Connect protocol
-details: 
+license: "APACHE 2"
+developers: "Torsten Juergeleit"
+sonarqube_version: "[7.9,LATEST]"
+sonarqube_community_build_version: "[7.9,LATEST]"
+category: "integration"
+description: "Delegate authentication using the OpenID Connect protocol"
+details: ""
 seo:
-  name: OpenID Connect Authentication for SonarQube
-  headline: OpenID Connect Authentication for SonarQube - SonarQube Plugin
+  name: "OpenID Connect Authentication for SonarQube"
+  headline: "OpenID Connect Authentication for SonarQube - SonarQube Plugin"
   type: ItemPage
 
 ---

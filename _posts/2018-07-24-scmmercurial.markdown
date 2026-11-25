@@ -1,22 +1,23 @@
 ---
-title: Mercurial
+title: "Mercurial"
 layout: plugin
-homepage: http://redirect.sonarsource.com/plugins/scmmercurial.html
-organization: SonarSource
-organization_url: http://www.sonarsource.com
+homepage: "http://redirect.sonarsource.com/plugins/scmmercurial.html"
+organization: "SonarSource"
+organization_url: "http://www.sonarsource.com"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-scm-mercurial-plugin&productVersion=1.1.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.1.2
-download_description: Compatible with SonarQube 6.7 LTS
+download_version: "1.1.2"
+download_description: "Compatible with SonarQube 6.7 LTS"
 download_date: 2018-07-24
-license: GNU LGPL 3
-developers: Julien Henry
-sonarqube_version: 9.9-LATEST
-category: integration
-description: Provides SCM Mercurial integration
-details: 
+license: "GNU LGPL 3"
+developers: "Julien Henry"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "integration"
+description: "Provides SCM Mercurial integration"
+details: ""
 seo:
-  name: Mercurial
-  headline: Mercurial - SonarQube Plugin
+  name: "Mercurial"
+  headline: "Mercurial - SonarQube Plugin"
   type: ItemPage
 
 ---

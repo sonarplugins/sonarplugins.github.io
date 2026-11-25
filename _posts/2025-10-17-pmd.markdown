@@ -1,22 +1,23 @@
 ---
-title: PMD
+title: "PMD"
 layout: plugin
-homepage: https://github.com/jborgers/sonar-pmd
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/jborgers/sonar-pmd"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-pmd-plugin&productVersion=4.2.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 4.2.1
-download_description: Supports Java 25, PMD 7.17.0, Kotlin rules, rule customization, analysis scope and adjusted code-style severity.
+download_version: "4.2.1"
+download_description: "Supports Java 25, PMD 7.17.0, Kotlin rules, rule customization, analysis scope and adjusted code-style severity."
 download_date: 2025-10-17
-license: GNU LGPL 3
-developers: Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov
-sonarqube_version: 9.9.9-LATEST
-category: external analysers
-description: Provide PMD rules to analyse Java projects
-details: 
+license: "GNU LGPL 3"
+developers: "Jeroen Borgers,Peter Paul Bakker,Jens Gerdes,Tim Webster,Evgeny Mandrikov"
+sonarqube_version: "[9.9.9,LATEST]"
+sonarqube_community_build_version: "[9.9.9,LATEST]"
+category: "external analysers"
+description: "Provide PMD rules to analyse Java projects"
+details: ""
 seo:
-  name: PMD
-  headline: PMD - SonarQube Plugin
+  name: "PMD"
+  headline: "PMD - SonarQube Plugin"
   type: ItemPage
 
 ---

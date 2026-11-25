@@ -1,22 +1,23 @@
 ---
-title: jQAssistant
+title: "jQAssistant"
 layout: plugin
-homepage: https://github.com/jqassistant-contrib/sonar-jqassistant-plugin
-organization: jQAssistant
-organization_url: http://jqassistant.org
+homepage: "https://github.com/jqassistant-contrib/sonar-jqassistant-plugin"
+organization: "jQAssistant"
+organization_url: "http://jqassistant.org"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-jqassistant-plugin&productVersion=3.0.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 3.0.1
-download_description: Fixed compatibility issue with SonarQube 2025 (LTA)
+download_version: "3.0.1"
+download_description: "Fixed compatibility issue with SonarQube 2025 (LTA)"
 download_date: 2025-06-05
-license: GNU General Public License, v3
-developers: Dirk Mahler
-sonarqube_version: 2026.5.6-LATEST
-category: external analysers
-description: Analyze issues reported by jQAssistant.
-details: 
+license: "GNU General Public License, v3"
+developers: "Dirk Mahler"
+sonarqube_version: "[7.9,LATEST]"
+sonarqube_community_build_version: "[7.9,LATEST]"
+category: "external analysers"
+description: "Analyze issues reported by jQAssistant."
+details: ""
 seo:
-  name: jQAssistant
-  headline: jQAssistant - SonarQube Plugin
+  name: "jQAssistant"
+  headline: "jQAssistant - SonarQube Plugin"
   type: ItemPage
 
 ---

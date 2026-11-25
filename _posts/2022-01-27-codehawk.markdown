@@ -1,22 +1,23 @@
 ---
-title: Codehawk Java
+title: "Codehawk Java"
 layout: plugin
-homepage: https://github.com/SDPMLab/CodeHawk
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/SDPMLab/CodeHawk"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=codehawk&productVersion=1.6&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.6
-download_description: Added new rules
+download_version: "1.6"
+download_description: "Added new rules"
 download_date: 2022-01-27
-license: unknown
-developers: unknown
-sonarqube_version: 9.9-LATEST
-category: external analysers
-description: Analyze Java code smell
-details: 
+license: "unknown"
+developers: "unknown"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "external analysers"
+description: "Analyze Java code smell"
+details: ""
 seo:
-  name: Codehawk Java
-  headline: Codehawk Java - SonarQube Plugin
+  name: "Codehawk Java"
+  headline: "Codehawk Java - SonarQube Plugin"
   type: ItemPage
 
 ---

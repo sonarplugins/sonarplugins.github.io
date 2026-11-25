@@ -1,22 +1,23 @@
 ---
-title: YAML Analyzer
+title: "YAML Analyzer"
 layout: plugin
-homepage: https://github.com/sbaudoin/sonar-yaml
-organization: unknown
-organization_url: unknown
+homepage: "https://github.com/sbaudoin/sonar-yaml"
+organization: "unknown"
+organization_url: "unknown"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-yaml-plugin&productVersion=1.9.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 1.9.1
-download_description: Few bugs and security fixes
+download_version: "1.9.1"
+download_description: "Few bugs and security fixes"
 download_date: 2023-12-10
-license: Apache License, Version 2.0
-developers: Sylvain Baudoin
-sonarqube_version: 9.9-LATEST
-category: languages
-description: Allows the analysis of YAML documents
-details: 
+license: "Apache License, Version 2.0"
+developers: "Sylvain Baudoin"
+sonarqube_version: "[9.9,LATEST]"
+sonarqube_community_build_version: "[9.9,LATEST]"
+category: "languages"
+description: "Allows the analysis of YAML documents"
+details: ""
 seo:
-  name: YAML Analyzer
-  headline: YAML Analyzer - SonarQube Plugin
+  name: "YAML Analyzer"
+  headline: "YAML Analyzer - SonarQube Plugin"
   type: ItemPage
 
 ---

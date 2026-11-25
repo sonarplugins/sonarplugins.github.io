@@ -1,22 +1,23 @@
 ---
-title: OpenEdge
+title: "OpenEdge"
 layout: plugin
-homepage: https://github.com/Riverside-Software/sonar-openedge
-organization: Riverside Software
-organization_url: http://riverside-software.fr
+homepage: "https://github.com/Riverside-Software/sonar-openedge"
+organization: "Riverside Software"
+organization_url: "http://riverside-software.fr"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-openedge-plugin&productVersion=2.30.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 2.30.0
-download_description: Version 2.30.0
+download_version: "2.30.0"
+download_description: "Version 2.30.0"
 download_date: 2025-01-02
-license: LGPL 3.0
-developers: Gilles QUERRET
-sonarqube_version: 2026.5.6-LATEST
-category: languages
-description: Code Analyzer for OpenEdge
-details: 
+license: "LGPL 3.0"
+developers: "Gilles QUERRET"
+sonarqube_version: "[7.9,LATEST]"
+sonarqube_community_build_version: "[7.9,LATEST]"
+category: "languages"
+description: "Code Analyzer for OpenEdge"
+details: ""
 seo:
-  name: OpenEdge
-  headline: OpenEdge - SonarQube Plugin
+  name: "OpenEdge"
+  headline: "OpenEdge - SonarQube Plugin"
   type: ItemPage
 
 ---

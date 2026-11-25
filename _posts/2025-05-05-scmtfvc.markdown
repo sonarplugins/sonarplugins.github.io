@@ -1,22 +1,23 @@
 ---
-title: TFVC
+title: "TFVC"
 layout: plugin
-homepage: https://github.com/lg2de/sonar-scm-tfvc
-organization: Community
-organization_url: https://github.com/lg2de/sonar-scm-tfvc/graphs/contributors
+homepage: "https://github.com/lg2de/sonar-scm-tfvc"
+organization: "Community"
+organization_url: "https://github.com/lg2de/sonar-scm-tfvc/graphs/contributors"
 download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-scm-tfvc-plugin&productVersion=2.5.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
-download_version: 2.5.0
-download_description: update DevOps api
+download_version: "2.5.0"
+download_description: "update DevOps api"
 download_date: 2025-05-05
-license: MIT
-developers: Dinesh Bolkensteyn,Julien Henry
-sonarqube_version: 2026.5.6-LATEST
-category: integration
-description: Provides SCM TFVC integration
-details: 
+license: "MIT"
+developers: "Dinesh Bolkensteyn,Julien Henry"
+sonarqube_version: "[7.9,LATEST]"
+sonarqube_community_build_version: "[7.9,LATEST]"
+category: "integration"
+description: "Provides SCM TFVC integration"
+details: ""
 seo:
-  name: TFVC
-  headline: TFVC - SonarQube Plugin
+  name: "TFVC"
+  headline: "TFVC - SonarQube Plugin"
   type: ItemPage
 
 ---
