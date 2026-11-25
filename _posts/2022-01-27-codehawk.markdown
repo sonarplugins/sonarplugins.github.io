@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/SDPMLab/CodeHawk
 organization: unknown
 organization_url: unknown
-download_url: https://github.com/SEPMLAB/CodeHawk/releases/download/1.6/codehawk-1.6.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=codehawk&productVersion=1.6&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.6
 download_description: Added new rules
 download_date: 2022-01-27

@@ -4,6 +4,7 @@ layout: plugin
 homepage: http://www.excentia.es/plugins/city-model/descargar_en.html
 organization: excentia
 organization_url: http://www.excentia.es
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-city-model-plugin&productVersion=4.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 4.0
 download_description: First release
 download_date: 2025-03-11

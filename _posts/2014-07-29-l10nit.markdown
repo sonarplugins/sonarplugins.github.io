@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-it
 organization: Assioma.net
 organization_url: http://www.assioma.net
-download_url: https://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/l10n/sonar-l10n-it-plugin/1.3/sonar-l10n-it-plugin-1.3.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-it-plugin&productVersion=1.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.3
 download_description: Italian Pack for Sonar
 download_date: 2014-07-29

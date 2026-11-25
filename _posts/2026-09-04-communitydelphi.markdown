@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/integrated-application-development/sonar-delphi
 organization: IntegraDev
 organization_url: https://www.integradev.com.au/
-download_url: https://github.com/integrated-application-development/sonar-delphi/releases/download/v1.21.0/sonar-delphi-plugin-1.21.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-delphi-plugin&productVersion=1.21.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.21.0
 download_description: Improved Delphi 13 support, improved semantic analysis, bug fixes
 download_date: 2026-09-04

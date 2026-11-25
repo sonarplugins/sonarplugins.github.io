@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/ecoCode-java
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/ecoCode-java/releases/download/1.6.2/ecocode-java-plugin-1.6.2.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=ecocode-java-plugin&productVersion=1.6.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.6.2
 download_description: check Sonarqube 10.6.0 compatibility; refactoring docker system; upgrade ecocode-rules-specifications
 download_date: 2024-07-21

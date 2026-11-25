@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/ecoCode-android
 organization: Green Code Initiative
 organization_url: https://collectif.greenit.fr
-download_url: https://github.com/green-code-initiative/ecoCode-android/releases/download/1.1.0/ecocode-android-1.1.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=ecocode-android-parent&productVersion=1.1.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.1.0
 download_description: Initial Marketplace publication. Add 33 new rules (Java), 8 new rules (XML), 3 new rules (Groovy).
 download_date: 2023-11-17

@@ -4,7 +4,7 @@ layout: plugin
 homepage: http://redirect.sonarsource.com/plugins/scmmercurial.html
 organization: SonarSource
 organization_url: http://www.sonarsource.com
-download_url: https://github.com/SonarQubeCommunity/sonar-scm-mercurial/releases/download/1.1.2/sonar-scm-mercurial-plugin-1.1.2.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-scm-mercurial-plugin&productVersion=1.1.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.1.2
 download_description: Compatible with SonarQube 6.7 LTS
 download_date: 2018-07-24

@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-zh
 organization: Mossle
 organization_url: http://www.mossle.com
-download_url: https://github.com/xuhuisheng/sonar-l10n-zh/releases/download/sonar-l10n-zh-plugin-26.11/sonar-l10n-zh-plugin-26.11.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-zh-plugin&productVersion=26.11&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 26.11
 download_description: Support SonarQube 26.11
 download_date: 2026-11-08

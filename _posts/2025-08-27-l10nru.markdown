@@ -4,13 +4,13 @@ layout: plugin
 homepage: https://github.com/1c-syntax/sonar-l10n-ru
 organization: SilverBulleters, 1c-syntax and contributors
 organization_url: https://github.com/1c-syntax
-download_url: https://github.com/1c-syntax/sonar-l10n-ru/releases/download/v25.7/sonar-l10n-ru-plugin-25.7.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-ru-plugin&productVersion=25.7&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 25.7
 download_description: Support SonarQube 25.7
 download_date: 2025-08-27
 license: GNU LGPL v3
 developers: Alexey Lustin, Nikita Gryzlov
-sonarqube_version: 2026.5.5-LATEST
+sonarqube_version: 2026.5.6-LATEST
 category: localization
 description: Language pack for Russian
 details: 

@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/troosan/sonar-scm-jazzrtc
 organization: unknown
 organization_url: unknown
-download_url: https://github.com/troosan/sonar-scm-jazzrtc/releases/download/1.2/sonar-scm-jazzrtc-plugin-1.2.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-scm-jazzrtc-plugin&productVersion=1.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.2
 download_description: Compatibility with SQ 7.7+
 download_date: 2019-09-06

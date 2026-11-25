@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/CreditMutuelArkea/sonar-apigee-plugin
 organization: Crédit Mutuel Arkéa
 organization_url: https://github.com/CreditMutuelArkea
-download_url: https://github.com/CreditMutuelArkea/sonar-apigee-plugin/releases/download/v3.0.2/sonar-apigee-plugin-3.0.2.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-apigee-plugin&productVersion=3.0.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 3.0.2
 download_description: Support for SQ 9.7+
 download_date: 2022-12-15

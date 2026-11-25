@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/Ray0907/sonar-l10n-zh-hant
 organization: Ray Tien
 organization_url: unknown
-download_url: https://github.com/Ray0907/sonar-l10n-zh-hant/releases/download/26.11/sonar-l10n-zhhant-26.11.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-zhhant&productVersion=26.11&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 26.11
 download_description: Support SonarQube Community Build 26.11
 download_date: 2026-11-09

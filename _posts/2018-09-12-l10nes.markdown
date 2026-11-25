@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-es
 organization: excentia
 organization_url: http://www.excentia.es
-download_url: https://github.com/acalero/sonar-l10n-es/releases/download/sonar-l10n-es-plugin-1.14/sonar-l10n-es-plugin-1.14.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-es-plugin&productVersion=1.14&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.14
 download_description: Support for SonarQube 6.7+
 download_date: 2018-09-12

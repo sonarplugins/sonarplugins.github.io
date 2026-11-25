@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/checkstyle/sonar-checkstyle
 organization: Checkstyle
 organization_url: https://checkstyle.org
-download_url: https://github.com/checkstyle/sonar-checkstyle/releases/download/checkstyle-sonar-plugin-14.3.0/checkstyle-sonar-plugin-14.3.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-checkstyle-plugin&productVersion=14.3.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 14.3.0
 download_description: Upgrade to Checkstyle 14.3.0
 download_date: 2026-10-09

@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://www.bitegarden.com
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-control-center&productVersion=1.11&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-control-center&productVersion=1.11&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.11
 download_description: Added support for dark mode
 download_date: 2026-11-10

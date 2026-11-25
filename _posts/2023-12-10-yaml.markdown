@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/sbaudoin/sonar-yaml
 organization: unknown
 organization_url: unknown
-download_url: https://github.com/sbaudoin/sonar-yaml/releases/download/v1.9.1/sonar-yaml-plugin-1.9.1.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-yaml-plugin&productVersion=1.9.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.9.1
 download_description: Few bugs and security fixes
 download_date: 2023-12-10

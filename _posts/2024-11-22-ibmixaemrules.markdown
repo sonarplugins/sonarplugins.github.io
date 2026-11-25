@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/IBM/ibm-ix-aem-sonarqube-plugin
 organization: IBM iX
 organization_url: https://www.ibm.com/services/ibmix
-download_url: https://github.com/IBM/ibm-ix-aem-sonarqube-plugin/releases/download/v1.4.1/ibmix-aem-sonar-rules-1.4.1.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=ibmix-aem-sonar-rules&productVersion=1.4.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.4.1
 download_description: Minor bugfix release
 download_date: 2024-11-22

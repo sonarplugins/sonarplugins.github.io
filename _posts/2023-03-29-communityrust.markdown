@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/C4tWithShell/community-rust
 organization: Eric Le Goff
 organization_url: unknown
-download_url: https://github.com/C4tWithShell/community-rust/releases/download/v0.2.3/community-rust-plugin-0.2.3.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=community-rust-plugin&productVersion=0.2.3&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 0.2.3
 download_description: Rust Grammar for SQ 10  
 download_date: 2023-03-29

@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-sqale
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: /download/productArtifact?productName=bitegarden-sonarqube-sqale&productVersion=1.7.4&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-sqale&productVersion=1.7.4&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.7.4
 download_description: Support for SonarQube light and dark themes
 download_date: 2026-11-17

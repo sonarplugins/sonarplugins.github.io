@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-ko
 organization: creatinov
 organization_url: http://moseskim.github.io
-download_url: https://github.com/leeyudok/sonar-l10n-ko/releases/download/sonar-l10n-ko-plugin-25.8/sonar-l10n-ko-plugin-25.8.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-ko-plugin&productVersion=25.8&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 25.8
 download_description: Support SonarQube 25.x - 100% Korean translation (5,060 keys)
 download_date: 2026-04-11

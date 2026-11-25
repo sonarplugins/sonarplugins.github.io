@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/creedengo-java
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/creedengo-java/releases/download/2.3.0/creedengo-java-plugin-2.3.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=creedengo-java-plugin&productVersion=2.3.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 2.3.0
 download_description: GCI82 rule fixes, GCI27 false positives reduction, compatibility updates for SonarQube up to 26.7.0, update integration tests system (jdk 21 and 17), upgrade internal libraries versions
 download_date: 2026-09-23

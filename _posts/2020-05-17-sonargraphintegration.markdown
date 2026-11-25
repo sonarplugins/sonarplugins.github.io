@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/sonargraph/sonar-sonargraph-integration
 organization: hello2morrow GmbH
 organization_url: http://www.hello2morrow.com
-download_url: https://github.com/sonargraph/sonar-sonargraph-integration/releases/download/Release-7.0.0/sonar-sonargraph-integration-7.0.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-sonargraph-integration&productVersion=7.0.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 7.0.0
 download_description: Support for C#.
 download_date: 2020-05-17

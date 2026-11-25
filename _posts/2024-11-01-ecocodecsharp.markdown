@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/ecoCode-csharp-sonarqube
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/ecoCode-csharp-sonarqube/releases/download/1.5.1/ecocode-csharp-plugin-1.5.1.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=ecocode-csharp-plugin&productVersion=1.5.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.5.1
 download_description: Add rules EC91, EC92, EC93; support of SonarQube 10.7; upgrade internal library versions
 download_date: 2024-11-01

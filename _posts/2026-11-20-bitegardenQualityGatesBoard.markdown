@@ -4,7 +4,7 @@ layout: plugin
 homepage: http://www.bitegarden.com
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-quality-gates-board&productVersion=1.1.5&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-quality-gates-board&productVersion=1.1.5&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.1.5
 download_description: Fixes metric loading on SonarQube 2026.5 LTA and adds dark mode support
 download_date: 2026-11-20

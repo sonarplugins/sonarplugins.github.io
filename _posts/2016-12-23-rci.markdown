@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/willemsrb/sonar-rci-plugin
 organization: unknown
 organization_url: unknown
-download_url: https://github.com/willemsrb/sonar-rci-plugin/releases/download/sonar-rci-plugin-1.0.1/sonar-rci-plugin-1.0.1.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-rci-plugin&productVersion=1.0.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.0.1
 download_description: Typo fix
 download_date: 2016-12-23

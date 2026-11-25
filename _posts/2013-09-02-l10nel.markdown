@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-el
 organization: Patroklos PAPAPETROU
 organization_url: unknown
-download_url: https://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/l10n/sonar-l10n-el-plugin/1.8/sonar-l10n-el-plugin-1.8.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-el-plugin&productVersion=1.8&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.8
 download_description: Adds Sonar 3.6 terms
 download_date: 2013-09-02

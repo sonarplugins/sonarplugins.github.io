@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/timlee/sonar-l10n-zh-tw
 organization: Tim Lee
 organization_url: https://github.com/SonarQubeCommunity/sonar-l10n-zhtw
-download_url: https://github.com/SDPM-lab/sonar-l10n-zh-tw/releases/download/26.11/sonar-l10n-zh-tw-plugin-26.11.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-zh-tw-plugin&productVersion=26.11&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 26.11
 download_description: Support SonarQube versions 26.11
 download_date: 2026-11-07

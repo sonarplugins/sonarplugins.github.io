@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/FRI-DAY/sonar-gosu-plugin
 organization: FRIDAY Insurance S.A.
 organization_url: https://www.friday.de
-download_url: https://github.com/FRI-DAY/sonar-gosu-plugin/releases/download/v1.2.1/sonar-communitygosu-plugin-1.2.1.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-communitygosu-plugin&productVersion=1.2.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.2.1
 download_description: Initial Marketplace entry
 download_date: 2023-04-13

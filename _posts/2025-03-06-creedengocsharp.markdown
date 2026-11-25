@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/creedengo-csharp-sonarqube
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/creedengo-csharp-sonarqube/releases/download/2.1.0/creedengo-csharp-plugin-2.1.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=creedengo-csharp-plugin&productVersion=2.1.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 2.1.0
 download_description: Initial Marketplace publication of plugin after renaming from "ecocode-csharp"
 download_date: 2025-03-06

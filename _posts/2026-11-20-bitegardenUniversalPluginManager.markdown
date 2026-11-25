@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-upm
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.7.5&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-upm&productVersion=1.7.5&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.7.5
 download_description: Support for the SonarQube light and dark themes
 download_date: 2026-11-20

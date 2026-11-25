@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/SonarCommunity/sonar-l10n-de
 organization: Philipp Nestler, Christian Schulz
 organization_url: http://www.sonarqube.org
-download_url: https://github.com/SonarQubeCommunity/sonar-l10n-de/releases/download/1.2/sonar-l10n-de-plugin-1.2.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-l10n-de-plugin&productVersion=1.2&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.2
 download_description: Supports SonarQube 5.0
 download_date: 2015-12-17

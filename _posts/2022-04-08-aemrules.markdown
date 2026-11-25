@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/wttech/AEM-Rules-for-SonarQube
 organization: Wunderman Thompson Technology
 organization_url: http://www.cognifide.com
-download_url: https://github.com/wttech/AEM-Rules-for-SonarQube/releases/download/v1.6/sonar-aemrules-plugin-1.6.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-aemrules-plugin&productVersion=1.6&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.6
 download_description: SonarQube 8.9 LTS compatiblity release due to underlying Java plugin API changes
 download_date: 2022-04-08

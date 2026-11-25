@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/green-code-initiative/ecoCode-javascript
 organization: green-code-initiative
 organization_url: https://github.com/green-code-initiative
-download_url: https://github.com/green-code-initiative/ecoCode-javascript/releases/download/1.4.0/ecocode-javascript-plugin-1.4.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=ecocode-javascript-plugin&productVersion=1.4.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.4.0
 download_description: Initial Marketplace publication. Add 5 new rules.
 download_date: 2023-11-06

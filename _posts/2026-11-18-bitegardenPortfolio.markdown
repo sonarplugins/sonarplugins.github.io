@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-portfolio
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-overview-report&productVersion=3.3.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-overview-report&productVersion=3.3.1&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 3.3.1
 download_description: Adapt the plugin to SonarQube's light/dark theme
 download_date: 2026-11-18

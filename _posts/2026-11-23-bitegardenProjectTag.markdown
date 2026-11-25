@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://www.bitegarden.com/sonarqube-project-tag
 organization: bitegarden
 organization_url: https://www.bitegarden.com
-download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-project-tag-plugin&productVersion=1.3.7&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=marketplace&customerCompany=bitegarden
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=bitegarden-sonarqube-project-tag-plugin&productVersion=1.3.7&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.3.7
 download_description: Project Tag page now supports SonarQube light and dark themes
 download_date: 2026-11-23

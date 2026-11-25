@@ -4,7 +4,7 @@ layout: plugin
 homepage: https://github.com/muratcanozdemir/sonar-shell-ci-plugin
 organization: Murat Can Ozdemir
 organization_url: https://github.com/muratcanozdemir
-download_url: https://github.com/muratcanozdemir/sonar-shell-ci-plugin/releases/download/v1.0.0/sonar-shell-ci-plugin-1.0.0.jar
+download_url: https://marketplace.bitegarden.com/download/productArtifact?productName=sonar-shell-ci-plugin&productVersion=1.0.0&productFileExt=jar&customerEmail=sonarplugins@gmail.com&customerName=sonarqube&customerSurnames=index&customerCompany=sonarplugins
 download_version: 1.0.0
 download_description: ShellCheck rules for shell scripts and 13 security rules for GitHub Actions, GitLab CI and Azure Pipelines. Replaces the ShellCheck plugin: uninstall it first.
 download_date: 2026-11-14
