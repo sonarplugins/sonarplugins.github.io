@@ -19,7 +19,15 @@ layout: base
     </article>
     <aside class="plugin-sidebar" aria-label="Plugin version and download">
       <p class="eyebrow">Plugin details</p>
-      <dl><dt>Latest version</dt><dd>{{ page.download_version | default: 'Not specified' | escape }}</dd><dt>SonarQube compatibility</dt><dd>{{ page.sonarqube_version | default: 'Not specified' | escape }}</dd><dt>License</dt><dd>{% include license_badge.html license=page.license %}</dd><dt>Last updated</dt><dd>{{ page.download_date | date: '%d %b %Y' }}</dd></dl>
+      <dl>
+        <dt>Latest version</dt><dd>{{ page.download_version | default: 'Not specified' | escape }}</dd>
+        <dt>SonarQube Server compatibility</dt><dd>{% include compatibility_badge.html value=page.sonarqube_version %}</dd>
+        {% if page.sonarqube_community_build_version and page.sonarqube_community_build_version != '' %}
+          <dt>SonarQube Community Build compatibility</dt><dd>{% include compatibility_badge.html value=page.sonarqube_community_build_version %}</dd>
+        {% endif %}
+        <dt>License</dt><dd>{% include license_badge.html license=page.license %}</dd>
+        <dt>Last updated</dt><dd>{{ page.download_date | date: '%d %b %Y' }}</dd>
+      </dl>
       {% if page.download_url and page.download_url != '' %}<a class="button button-primary download-button" href="{{ page.download_url | escape }}">Download <span aria-hidden="true">↓</span></a>{% endif %}
       {% if page.homepage and page.homepage != '' %}<a class="plugin-website" href="{{ page.homepage | escape }}" target="_blank" rel="noopener noreferrer">Plugin website <span aria-hidden="true">↗</span></a>{% endif %}
     </aside>

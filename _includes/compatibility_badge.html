@@ -1,0 +1,38 @@
+{%- assign compatibility = include.value | strip -%}
+{%- assign range_start = '' -%}
+{%- assign range_end = '' -%}
+{%- assign first_character = compatibility | slice: 0, 1 -%}
+{%- assign last_character = compatibility | slice: -1, 1 -%}
+{%- if first_character == '[' and last_character == ']' -%}
+  {%- assign bounds = compatibility | split: ',' -%}
+  {%- if bounds.size == 2 -%}
+    {%- assign range_start = bounds.first | remove_first: '[' | strip -%}
+    {%- assign range_end = bounds.last | remove_first: ']' | strip -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign bounds = compatibility | split: '-' -%}
+  {%- if bounds.size == 2 -%}
+    {%- assign legacy_start = bounds.first | strip -%}
+    {%- assign legacy_end = bounds.last | strip -%}
+    {%- assign start_digit = legacy_start | slice: 0, 1 -%}
+    {%- assign end_digit = legacy_end | slice: 0, 1 -%}
+    {%- assign digits = '0123456789' -%}
+    {%- if start_digit != blank and end_digit != blank and digits contains start_digit -%}
+      {%- if digits contains end_digit or legacy_end == 'LATEST' -%}
+        {%- assign range_start = legacy_start -%}
+        {%- assign range_end = legacy_end -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if compatibility == empty -%}
+  Not specified
+{%- else -%}
+  <span class="compatibility-badge">
+    {%- if range_start != empty and range_end != empty -%}
+      {{ range_start | escape }}<span class="sr-only"> to </span><span class="compatibility-arrow" aria-hidden="true">→</span>{% if range_end == 'LATEST' %}Latest{% else %}{{ range_end | escape }}{% endif -%}
+    {%- else -%}
+      {{ compatibility | escape }}
+    {%- endif -%}
+  </span>
+{%- endif -%}

@@ -8,7 +8,12 @@
     <p class="plugin-description">{{ plugin.description }}</p>
     <p class="plugin-byline">{% if plugin.organization and plugin.organization != '' %}{{ plugin.organization | escape }} <span aria-hidden="true">·</span> {% endif %}<span class="category-badge{% if plugin.category == 'deprecated' %} category-badge-warning{% endif %}">{{ plugin.category | escape }}</span></p>
   </div>
-  <dl class="row-meta"><dt>SonarQube</dt><dd>{{ plugin.sonarqube_version | default: 'Not specified' | escape }}</dd></dl>
+  <dl class="row-meta row-compatibility">
+    <dt>SonarQube Server</dt><dd>{% include compatibility_badge.html value=plugin.sonarqube_version %}</dd>
+    {% if plugin.sonarqube_community_build_version and plugin.sonarqube_community_build_version != '' %}
+      <dt>SonarQube Community Build</dt><dd>{% include compatibility_badge.html value=plugin.sonarqube_community_build_version %}</dd>
+    {% endif %}
+  </dl>
   <dl class="row-meta"><dt>License</dt><dd>{% include license_badge.html license=plugin.license %}</dd></dl>
   <dl class="row-meta row-updated"><dt>Updated</dt><dd>{{ plugin.download_date | date: '%d %b %Y' }}</dd></dl>
 </article>
